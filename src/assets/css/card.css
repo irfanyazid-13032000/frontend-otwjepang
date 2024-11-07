@@ -1,0 +1,58 @@
+.tampah {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+}
+
+.kamubenar{
+  background-color: rgb(0, 99, 0);
+}
+
+.kamusalah{
+  background-color: #d20000;
+  
+}
+
+.tulisan_kanji{
+  font-size: 60px;
+}
+
+.pilihan{
+  background-color: transparent;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.button{
+  display: inline-block;
+  width: 47%;
+  border-radius: 30px;
+  background-color: aqua;
+  margin: 2px;
+  padding: 2px;
+  overflow: scroll;
+}
+
+button{
+  width: 47%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin: 2px;
+}
+
+.tulisan_pilihan{
+  font-size: 25px;
+}
+
+.pertanyaan{
+  font-size: 20px;
+}
+
+.benar{
+  background-color: rgb(78, 247, 112);
+  color: black;
+}
+
+.salah{
+  background-color: rgb(252, 53, 53);
+  color: black;
+}
