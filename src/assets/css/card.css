@@ -3,6 +3,20 @@
   border-radius: 8px;
 }
 
+.bar{
+  width: 100%;
+  margin-top: 10px;
+  font-size: 25px;
+}
+
+table{
+  width: 100%;
+}
+
+td{
+  width: 50%;
+}
+
 .kamubenar{
   background-color: rgb(0, 99, 0);
 }
@@ -44,7 +58,7 @@ button{
 }
 
 .pertanyaan{
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .benar{
