@@ -2,7 +2,7 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 
-// Thunk untuk mengambil data soal
+// Thunk for fetching soal data
 export const fetchSoal = createAsyncThunk('soal/fetchSoal', async (page = 1) => {
   const response = await axios.get(`http://127.0.0.1:8000/api/soal?page=${page}`);
   return response.data;
@@ -14,6 +14,15 @@ const soalSlice = createSlice({
     data: [],
     currentPage: 1,
     lastPage: 1,
+    firstPageUrl: null,
+    lastPageUrl: null,
+    nextPageUrl: null,
+    prevPageUrl: null,
+    links: [],
+    total: 0,
+    perPage: 10,
+    from: null,
+    to: null,
     loading: false,
     error: null,
   },
@@ -29,9 +38,19 @@ const soalSlice = createSlice({
         state.error = null;
       })
       .addCase(fetchSoal.fulfilled, (state, action) => {
-        state.data = action.payload.data;
-        state.currentPage = action.payload.current_page;
-        state.lastPage = action.payload.last_page;
+        const payload = action.payload;
+        state.data = payload.data;
+        state.currentPage = payload.current_page;
+        state.lastPage = payload.last_page;
+        state.firstPageUrl = payload.first_page_url;
+        state.lastPageUrl = payload.last_page_url;
+        state.nextPageUrl = payload.next_page_url;
+        state.prevPageUrl = payload.prev_page_url;
+        state.links = payload.links;
+        state.total = payload.total;
+        state.perPage = payload.per_page;
+        state.from = payload.from;
+        state.to = payload.to;
         state.loading = false;
       })
       .addCase(fetchSoal.rejected, (state, action) => {
@@ -41,6 +60,6 @@ const soalSlice = createSlice({
   },
 });
 
-// Export reducer dan action
+// Export reducer and action
 export const { setCurrentPage } = soalSlice.actions;
 export default soalSlice.reducer;

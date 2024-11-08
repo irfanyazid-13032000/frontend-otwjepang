@@ -4,13 +4,13 @@ import { useDispatch, useSelector } from 'react-redux';
 import { fetchSoal } from '../slices/soalSlice';
 
 export default function Card() {
-  const { data, loading, error } = useSelector((state) => state.soal);
+  const { data, loading, error,lastPage } = useSelector((state) => state.soal);
   const [clicked, setClicked] = useState(false);
   const [soalKanji, setSoalKanji] = useState('');
   const [pilihanGanda, setPilihanGanda] = useState([]);
   const [acakData, setAcakData] = useState([]);
   const [noSoal, setNoSoal] = useState(0);
-  const [page,setPage] = useState(1);
+  const [page,setPage] = useState(5);
   const [sudahDijawab,setSudahDijawab] = useState(0);
 
   const dispatch = useDispatch();
@@ -37,8 +37,14 @@ export default function Card() {
 
   function buatSoal(soalNo) {
     if (soalNo >= acakData.length - 1) {
+      if (page >= lastPage) {
+        alert("udah habis ini soalnya")
+        return
+      }
       setPage((prevPage) => prevPage + 1);
-    } 
+    }
+    
+    
     let kanjiText = acakData && acakData[soalNo] ? acakData[soalNo].kanji.teks_kanji : 'Data tidak tersedia';
     setSoalKanji(kanjiText);
     let arti = acakData && acakData[soalNo] ? acakData[soalNo].arti.teks_arti : 'Data tidak tersedia';
@@ -46,7 +52,6 @@ export default function Card() {
     // Mengumpulkan teks_arti dari setiap objek di array data
     let teksArtiPilihanGanda = data.map((item) => item.arti.teks_arti);
 
-    // Membuat salinan tanpa elemen 'perpustakaan'
     let teksArtiTanpaJawabanSebenarnya = teksArtiPilihanGanda.filter((teks) => teks !== arti);
 
     // Mengacak array hasil filter dan mengambil 3 elemen pertama
@@ -106,7 +111,7 @@ export default function Card() {
               <tr>
                 <td>❤️❤️❤</td>
                 <td>soal: {sudahDijawab}</td>
-                <td>0:0:20</td>
+                <td>{lastPage}</td>
               </tr>
             </thead>
           </table>
