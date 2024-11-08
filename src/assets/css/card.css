@@ -14,7 +14,7 @@ table{
 }
 
 td{
-  width: 33%;
+  width: 50%;
 }
 
 .kamubenar{
@@ -69,4 +69,8 @@ button{
 .salah{
   background-color: rgb(252, 53, 53);
   color: black;
+}
+
+span{
+  display: inline;
 }

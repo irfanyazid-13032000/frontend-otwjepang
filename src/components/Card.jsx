@@ -12,6 +12,9 @@ export default function Card() {
   const [noSoal, setNoSoal] = useState(0);
   const [page,setPage] = useState(5);
   const [sudahDijawab,setSudahDijawab] = useState(0);
+  const [nyawa,setNyawa] = useState(3);
+  const [salahMenjawab,setSalahMenjawab] = useState(0);
+  
 
   const dispatch = useDispatch();
 
@@ -91,6 +94,16 @@ export default function Card() {
           })
           
         }else{
+          setNyawa((sisaNyawa)=>{
+            const newNyawa = sisaNyawa - 1;
+            return newNyawa
+          })
+
+          setSalahMenjawab((sisaSalahJawab)=>{
+            const newSalahMenjawab = sisaSalahJawab + 1;
+            return newSalahMenjawab
+          })
+
           setNoSoal((prevNoSoal) => {
             const newNoSoal = prevNoSoal;
             return newNoSoal;
@@ -109,9 +122,19 @@ export default function Card() {
           <table>
             <thead>
               <tr>
-                <td>❤️❤️❤</td>
-                <td>soal: {sudahDijawab}</td>
-                <td>{lastPage}</td>
+                <td>
+                {nyawa > 0 ? (
+                  Array(nyawa).fill("❤️").map((heart, index) => (
+                    <span key={index}>{heart}</span>
+                  ))
+                ) : ''}
+                {salahMenjawab > 0 ? (
+                  Array(salahMenjawab).fill("❤").map((heart, index) => (
+                    <span key={index}>{heart}</span>
+                  ))
+                ) : ''}
+                </td>
+                <td>Score : {sudahDijawab}</td>
               </tr>
             </thead>
           </table>
