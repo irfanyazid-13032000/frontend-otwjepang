@@ -1,0 +1,38 @@
+.papanScore{
+  background-color: rgb(214, 240, 45);
+  color: black;
+  border-radius: 20px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  width: 365px;
+}
+
+.gameOver{
+  font-size: 50px;
+  margin-bottom: -10px;
+  background-color: red;
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+.score {
+  font-size: 36px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.highestScore{
+  font-size: 25px;
+}
+
+.tryAgain{
+  background-color: orangered;
+}
+
+.none{
+  display: none;
+}
+
+.block{
+  display: block;
+}

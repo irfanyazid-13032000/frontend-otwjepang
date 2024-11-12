@@ -2,7 +2,7 @@ import '../assets/css/card.css';
 import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchSoal } from '../slices/soalSlice';
-
+import  Score  from "./Score";
 export default function Card() {
   const { data, loading, error,lastPage } = useSelector((state) => state.soal);
   const [clicked, setClicked] = useState(false);
@@ -15,6 +15,7 @@ export default function Card() {
   const [nyawa,setNyawa] = useState(3);
   const [salahMenjawab,setSalahMenjawab] = useState(0);
   const [nilaiJawabanUser,setNilaiJawabanUser] = useState(null)
+  const [gameOver, setGameOver] = useState(false)
   
 
   const dispatch = useDispatch();
@@ -110,6 +111,11 @@ export default function Card() {
             const newNoSoal = prevNoSoal;
             return newNoSoal;
           });
+
+          if (nyawa < 1) {
+            setGameOver(true)
+          }
+          
         }
        
 
@@ -121,6 +127,8 @@ export default function Card() {
 
   return (
     <>
+    <Score gameOver={gameOver}/>
+    <div className={`penampung ${gameOver == true ? "none" : "block"}`}>
      <div className={`tampah ${nilaiJawabanUser === true ? "kamubenar" : nilaiJawabanUser === false ? "kamusalah" : ""}`}>
         <div className="bar">
           <table>
@@ -159,6 +167,7 @@ export default function Card() {
           ))}
         </div>
       </div>
+    </div>
     </>
   );
 }
