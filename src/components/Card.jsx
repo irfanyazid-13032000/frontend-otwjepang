@@ -10,10 +10,11 @@ export default function Card() {
   const [pilihanGanda, setPilihanGanda] = useState([]);
   const [acakData, setAcakData] = useState([]);
   const [noSoal, setNoSoal] = useState(0);
-  const [page,setPage] = useState(5);
+  const [page,setPage] = useState(1);
   const [sudahDijawab,setSudahDijawab] = useState(0);
   const [nyawa,setNyawa] = useState(3);
   const [salahMenjawab,setSalahMenjawab] = useState(0);
+  const [nilaiJawabanUser,setNilaiJawabanUser] = useState(null)
   
 
   const dispatch = useDispatch();
@@ -79,8 +80,9 @@ export default function Card() {
 
   const nextSoal = (status) => {
     setClicked(true);
-
+    setNilaiJawabanUser(status)
       setTimeout(() => {
+ // jika menjawab benar
         if (status == true) {
           // Increment the question number
           setNoSoal((prevNoSoal) => {
@@ -92,7 +94,7 @@ export default function Card() {
             const soalTerjawab = soalYangDijawab + 1
             return soalTerjawab
           })
-          
+// jika menjawab salah
         }else{
           setNyawa((sisaNyawa)=>{
             const newNyawa = sisaNyawa - 1;
@@ -109,7 +111,9 @@ export default function Card() {
             return newNoSoal;
           });
         }
-  
+       
+
+        setNilaiJawabanUser(null)
         setClicked(false);
       }, 500);
       
@@ -117,7 +121,7 @@ export default function Card() {
 
   return (
     <>
-      <div className="tampah">
+     <div className={`tampah ${nilaiJawabanUser === true ? "kamubenar" : nilaiJawabanUser === false ? "kamusalah" : ""}`}>
         <div className="bar">
           <table>
             <thead>
