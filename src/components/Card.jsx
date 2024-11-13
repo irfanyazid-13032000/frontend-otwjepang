@@ -16,6 +16,7 @@ export default function Card() {
   const [salahMenjawab,setSalahMenjawab] = useState(0);
   const [nilaiJawabanUser,setNilaiJawabanUser] = useState(null)
   const [gameOver, setGameOver] = useState(false)
+  const [listScore, setListScore] = useState([])
   
 
   const dispatch = useDispatch();
@@ -113,6 +114,7 @@ export default function Card() {
           });
 
           if (nyawa < 1) {
+            setListScore([...listScore,sudahDijawab])
             setGameOver(true)
           }
           
@@ -125,9 +127,20 @@ export default function Card() {
       
   };
 
+
+
+  const tryAgain = () => {
+    setGameOver(false)
+    setPage(1)
+    setSudahDijawab(0)
+    setNyawa(3)
+    setSalahMenjawab(0)
+    dispatch(fetchSoal(page));
+  }
+
   return (
     <>
-    <Score gameOver={gameOver}/>
+    <Score gameOver={gameOver} tryAgain={tryAgain} listScore={listScore} sudahDijawab={sudahDijawab}/>
     <div className={`penampung ${gameOver == true ? "none" : "block"}`}>
      <div className={`tampah ${nilaiJawabanUser === true ? "kamubenar" : nilaiJawabanUser === false ? "kamusalah" : ""}`}>
         <div className="bar">
