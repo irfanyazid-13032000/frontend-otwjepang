@@ -4,6 +4,7 @@ import { useDispatch, useSelector } from 'react-redux';
 import { fetchSoal } from '../slices/soalSlice';
 import  Score  from "./Score";
 import  Tamat  from "./Tamat";
+import  Sumbangan  from "./Sumbangan";
 export default function Card() {
   const { data, loading, error,lastPage } = useSelector((state) => state.soal);
   const [clicked, setClicked] = useState(false);
@@ -19,6 +20,7 @@ export default function Card() {
   const [gameOver, setGameOver] = useState(false)
   const [listScore, setListScore] = useState([])
   const [soalHabis, setSoalHabis] = useState(false)
+  const [sumbangan, setSumbangan] = useState(false)
 
   
 
@@ -84,6 +86,7 @@ export default function Card() {
   }
 
   const nextSoal = (status) => {
+   
     setClicked(true);
     setNilaiJawabanUser(status)
       setTimeout(() => {
@@ -95,12 +98,11 @@ export default function Card() {
             return newNoSoal;
           });
 
-          setSudahDijawab((soalYangDijawab)=>{
-            const soalTerjawab = soalYangDijawab + 1
-            return soalTerjawab
-          })
+          setSudahDijawab((prevScore) => Math.max(prevScore, 0) + 1); // Cegah nilai negatif
+
 // jika menjawab salah
         }else{
+
           setNyawa((sisaNyawa)=>{
             const newNyawa = sisaNyawa - 1;
             return newNyawa
@@ -117,6 +119,11 @@ export default function Card() {
           });
 
           if (nyawa < 1) {
+            if (listScore.length > 2) { 
+              setSumbangan(true);
+              setGameOver(false);
+              return;
+            }
             setListScore([...listScore,sudahDijawab])
             setGameOver(true)
           }
@@ -133,6 +140,9 @@ export default function Card() {
 
 
   const tryAgain = () => {
+    setClicked(false)
+    setNilaiJawabanUser(null)
+    setSumbangan(false)
     setSoalHabis(false)
     setGameOver(false)
     setPage(1)
@@ -144,9 +154,10 @@ export default function Card() {
 
   return (
     <>
+    <Sumbangan sumbangan={sumbangan} setGameOver={setGameOver} setSumbangan={setSumbangan}/>
     <Tamat soalHabis={soalHabis} tryAgain={tryAgain}/>
     <Score gameOver={gameOver} tryAgain={tryAgain} listScore={listScore} sudahDijawab={sudahDijawab}/>
-    <div className={`penampung ${gameOver == true || soalHabis == true ? "none" : "block"}`}>
+    <div className={`penampung ${gameOver == true || soalHabis == true || sumbangan == true ? "none" : "block"}`}>
      <div className={`tampah ${nilaiJawabanUser === true ? "kamubenar" : nilaiJawabanUser === false ? "kamusalah" : ""}`}>
         <div className="bar">
           <table>
