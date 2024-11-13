@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { fetchSoal } from '../slices/soalSlice';
 import  Score  from "./Score";
+import  Tamat  from "./Tamat";
 export default function Card() {
   const { data, loading, error,lastPage } = useSelector((state) => state.soal);
   const [clicked, setClicked] = useState(false);
@@ -17,6 +18,8 @@ export default function Card() {
   const [nilaiJawabanUser,setNilaiJawabanUser] = useState(null)
   const [gameOver, setGameOver] = useState(false)
   const [listScore, setListScore] = useState([])
+  const [soalHabis, setSoalHabis] = useState(false)
+
   
 
   const dispatch = useDispatch();
@@ -44,7 +47,7 @@ export default function Card() {
   function buatSoal(soalNo) {
     if (soalNo >= acakData.length - 1) {
       if (page >= lastPage) {
-        alert("udah habis ini soalnya")
+        setSoalHabis(true)
         return
       }
       setPage((prevPage) => prevPage + 1);
@@ -130,6 +133,7 @@ export default function Card() {
 
 
   const tryAgain = () => {
+    setSoalHabis(false)
     setGameOver(false)
     setPage(1)
     setSudahDijawab(0)
@@ -140,8 +144,9 @@ export default function Card() {
 
   return (
     <>
+    <Tamat soalHabis={soalHabis} tryAgain={tryAgain}/>
     <Score gameOver={gameOver} tryAgain={tryAgain} listScore={listScore} sudahDijawab={sudahDijawab}/>
-    <div className={`penampung ${gameOver == true ? "none" : "block"}`}>
+    <div className={`penampung ${gameOver == true || soalHabis == true ? "none" : "block"}`}>
      <div className={`tampah ${nilaiJawabanUser === true ? "kamubenar" : nilaiJawabanUser === false ? "kamusalah" : ""}`}>
         <div className="bar">
           <table>

@@ -1,0 +1,32 @@
+.papanSelamat {
+  background-color: rgb(84, 78, 240);
+  color: black;
+  border-radius: 20px;
+  padding: 10px;
+  font-weight: bold;
+  width: 365px;
+  text-align: center; /* Tambahkan ini jika ingin memusatkan teks */
+}
+
+.ucapan {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 5px; /* Menyederhanakan kontrol jarak antar elemen */
+}
+
+.selamat {
+  font-size: 30px;
+  padding: 10px 20px; /* Menyesuaikan padding */
+  background-color: rgb(60, 0, 255);
+  color: rgb(255, 255, 255);
+  border-radius: 20px;
+  margin: 0; /* Pastikan tidak ada margin */
+}
+
+.x {
+  margin: 0; /* Pastikan tidak ada margin */
+  cursor: pointer; /* Opsional, membuatnya terlihat interaktif */
+  color: rgb(255, 253, 253);
+  background-color: rgb(118, 9, 190);
+}

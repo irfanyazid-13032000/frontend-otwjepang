@@ -4,7 +4,6 @@ import '../assets/css/score.css';
 
 export default function Score({gameOver, tryAgain, listScore, sudahDijawab}) {
 
-console.log(sudahDijawab)
   
   return (
     <div className={`papanScore ${gameOver == true  ?'block':'none'}`}>
