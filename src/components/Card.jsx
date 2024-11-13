@@ -154,12 +154,12 @@ export default function Card() {
               <tr>
                 <td>
                 {nyawa > 0 ? (
-                  Array(nyawa).fill("❤️").map((heart, index) => (
+                  Array(nyawa).fill("🍔").map((heart, index) => (
                     <span key={index}>{heart}</span>
                   ))
                 ) : ''}
                 {salahMenjawab > 0 ? (
-                  Array(salahMenjawab).fill("❤").map((heart, index) => (
+                  Array(salahMenjawab).fill("💩").map((heart, index) => (
                     <span key={index}>{heart}</span>
                   ))
                 ) : ''}
