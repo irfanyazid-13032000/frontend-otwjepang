@@ -74,3 +74,13 @@ button{
 span{
   display: inline;
 }
+
+.sumbangButton{
+  width: 100%;
+  background-color: rgb(246, 50, 82);
+  color: white;
+}
+
+.mengajakMenyumbang{
+  font-size: 20px;
+}

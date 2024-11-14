@@ -1,7 +1,7 @@
 import React from 'react';
 import '../assets/css/sumbangan.css';
 
-export default function Sumbangan({ sumbangan, setGameOver, setSumbangan }) {
+export default function Sumbangan({ sumbangan, setSumbangan }) {
   const copyToClipboard = (text) => {
     navigator.clipboard.writeText(text)
       .then(() => alert("Teks berhasil disalin!"))
@@ -10,7 +10,6 @@ export default function Sumbangan({ sumbangan, setGameOver, setSumbangan }) {
 
   const closeSumbangan = () => {
     setSumbangan(false)
-    setGameOver(true)
   }
 
   return (

@@ -89,6 +89,11 @@ export default function Card() {
    
     setClicked(true);
     setNilaiJawabanUser(status)
+
+    // if (listScore.length > 2) { 
+    //   setSumbangan(true);
+    // }
+    
       setTimeout(() => {
  // jika menjawab benar
         if (status == true) {
@@ -119,11 +124,7 @@ export default function Card() {
           });
 
           if (nyawa < 1) {
-            if (listScore.length > 2) { 
-              setSumbangan(true);
-              setGameOver(false);
-              return;
-            }
+            
             setListScore([...listScore,sudahDijawab])
             setGameOver(true)
           }
@@ -196,6 +197,18 @@ export default function Card() {
           ))}
         </div>
       </div>
+
+      {listScore.length > 2 ? (
+        <>
+          <p className='mengajakMenyumbang'>seru kan?  Mau dong nyumbang?</p>
+          <button className='sumbangButton' onClick={()=>{setSumbangan(true)}}>Sumbanglah Diriku ini Plisss😭</button>
+        </>
+      ) : ('')}
+     
+
+
+
+      
     </div>
     </>
   );
