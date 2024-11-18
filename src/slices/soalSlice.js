@@ -4,7 +4,7 @@ import axios from 'axios';
 
 // Thunk for fetching soal data
 export const fetchSoal = createAsyncThunk('soal/fetchSoal', async (page = 1) => {
-  const response = await axios.get(`http://127.0.0.1:8000/api/soal?page=${page}`);
+  const response = await axios.get(`http://otwjepang.my.id/api/soal?page=${page}`);
   return response.data;
 });
 
