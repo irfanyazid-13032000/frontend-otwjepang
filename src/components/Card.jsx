@@ -189,7 +189,7 @@ export default function Card() {
           {pilihanGanda.map((item, index) => (
             <button
               key={index}
-              className={clicked === true ? item.class : ''}
+              className={`buttonPilihan ${clicked === true ? item.class : ''}`}
               onClick={() => nextSoal(item.status)}
             >
               {item.value}

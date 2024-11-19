@@ -84,3 +84,16 @@ span{
 .mengajakMenyumbang{
   font-size: 20px;
 }
+
+.buttonPilihan{
+  outline: none;
+}
+
+.buttonPilihan:focus{
+  outline: none; /* Menghapus outline pada pseudo-class focus */
+  box-shadow: none; /* Menghapus bayangan jika ada */
+}
+
+.buttonPilihan:hover{
+  outline: none;
+}
