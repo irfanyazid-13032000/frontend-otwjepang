@@ -4,7 +4,10 @@ import axios from 'axios';
 
 // Thunk for fetching soal data
 export const fetchSoal = createAsyncThunk('soal/fetchSoal', async (page = 1) => {
-  const response = await axios.get(`https://otwjepang.my.id/api/soal?page=${page}`);
+  // const response = await axios.get(`https://otwjepang.my.id/api/soal?page=${page}`);
+  // const response = await axios.get(`http://localhost:8000/api/soal?page=${page}`);
+  const response = await axios.get(`https://sir-editors-cet-babies.trycloudflare.com/api/soal?page=${page}`);
+  
   return response.data;
 });
 

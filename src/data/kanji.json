@@ -1,0 +1,10672 @@
+[
+  {
+    "level": "n5",
+    "kanji": "日",
+    "arti": "hari"
+  },
+  {
+    "level": "n5",
+    "kanji": "一",
+    "arti": "satu"
+  },
+  {
+    "level": "n5",
+    "kanji": "国",
+    "arti": "negara"
+  },
+  {
+    "level": "n5",
+    "kanji": "人",
+    "arti": "orang"
+  },
+  {
+    "level": "n5",
+    "kanji": "年",
+    "arti": "tahun"
+  },
+  {
+    "level": "n5",
+    "kanji": "大",
+    "arti": "besar"
+  },
+  {
+    "level": "n5",
+    "kanji": "十",
+    "arti": "sepuluh"
+  },
+  {
+    "level": "n5",
+    "kanji": "二",
+    "arti": "dua"
+  },
+  {
+    "level": "n5",
+    "kanji": "本",
+    "arti": "buku"
+  },
+  {
+    "level": "n5",
+    "kanji": "中",
+    "arti": "di"
+  },
+  {
+    "level": "n5",
+    "kanji": "長",
+    "arti": "panjang"
+  },
+  {
+    "level": "n5",
+    "kanji": "出",
+    "arti": "keluar"
+  },
+  {
+    "level": "n5",
+    "kanji": "三",
+    "arti": "tiga"
+  },
+  {
+    "level": "n5",
+    "kanji": "時",
+    "arti": "waktu"
+  },
+  {
+    "level": "n5",
+    "kanji": "行",
+    "arti": "pergi"
+  },
+  {
+    "level": "n5",
+    "kanji": "見",
+    "arti": "lihat"
+  },
+  {
+    "level": "n5",
+    "kanji": "月",
+    "arti": "bulan"
+  },
+  {
+    "level": "n5",
+    "kanji": "分",
+    "arti": "bagian"
+  },
+  {
+    "level": "n5",
+    "kanji": "後",
+    "arti": "di belakang"
+  },
+  {
+    "level": "n5",
+    "kanji": "前",
+    "arti": "di depan"
+  },
+  {
+    "level": "n5",
+    "kanji": "生",
+    "arti": "kehidupan"
+  },
+  {
+    "level": "n5",
+    "kanji": "五",
+    "arti": "lima"
+  },
+  {
+    "level": "n5",
+    "kanji": "間",
+    "arti": "interval"
+  },
+  {
+    "level": "n5",
+    "kanji": "上",
+    "arti": "di atas"
+  },
+  {
+    "level": "n5",
+    "kanji": "東",
+    "arti": "timur"
+  },
+  {
+    "level": "n5",
+    "kanji": "四",
+    "arti": "empat"
+  },
+  {
+    "level": "n5",
+    "kanji": "今",
+    "arti": "sekarang"
+  },
+  {
+    "level": "n5",
+    "kanji": "金",
+    "arti": "emas"
+  },
+  {
+    "level": "n5",
+    "kanji": "九",
+    "arti": "sembilan"
+  },
+  {
+    "level": "n5",
+    "kanji": "入",
+    "arti": "masuk"
+  },
+  {
+    "level": "n5",
+    "kanji": "学",
+    "arti": "belajar"
+  },
+  {
+    "level": "n5",
+    "kanji": "高",
+    "arti": "tinggi"
+  },
+  {
+    "level": "n5",
+    "kanji": "円",
+    "arti": "lingkaran"
+  },
+  {
+    "level": "n5",
+    "kanji": "子",
+    "arti": "anak"
+  },
+  {
+    "level": "n5",
+    "kanji": "外",
+    "arti": "di luar"
+  },
+  {
+    "level": "n5",
+    "kanji": "八",
+    "arti": "delapan"
+  },
+  {
+    "level": "n5",
+    "kanji": "六",
+    "arti": "enam"
+  },
+  {
+    "level": "n5",
+    "kanji": "下",
+    "arti": "di bawah"
+  },
+  {
+    "level": "n5",
+    "kanji": "来",
+    "arti": "datang"
+  },
+  {
+    "level": "n5",
+    "kanji": "気",
+    "arti": "semangat"
+  },
+  {
+    "level": "n5",
+    "kanji": "小",
+    "arti": "kecil"
+  },
+  {
+    "level": "n5",
+    "kanji": "七",
+    "arti": "tujuh"
+  },
+  {
+    "level": "n5",
+    "kanji": "山",
+    "arti": "gunung"
+  },
+  {
+    "level": "n5",
+    "kanji": "話",
+    "arti": "dongeng"
+  },
+  {
+    "level": "n5",
+    "kanji": "女",
+    "arti": "wanita"
+  },
+  {
+    "level": "n5",
+    "kanji": "北",
+    "arti": "utara"
+  },
+  {
+    "level": "n5",
+    "kanji": "午",
+    "arti": "siang"
+  },
+  {
+    "level": "n5",
+    "kanji": "百",
+    "arti": "seratus"
+  },
+  {
+    "level": "n5",
+    "kanji": "書",
+    "arti": "tulis"
+  },
+  {
+    "level": "n5",
+    "kanji": "先",
+    "arti": "sebelum"
+  },
+  {
+    "level": "n5",
+    "kanji": "名",
+    "arti": "nama"
+  },
+  {
+    "level": "n5",
+    "kanji": "川",
+    "arti": "sungai"
+  },
+  {
+    "level": "n5",
+    "kanji": "千",
+    "arti": "seribu"
+  },
+  {
+    "level": "n5",
+    "kanji": "水",
+    "arti": "air"
+  },
+  {
+    "level": "n5",
+    "kanji": "半",
+    "arti": "setengah"
+  },
+  {
+    "level": "n5",
+    "kanji": "男",
+    "arti": "laki-laki"
+  },
+  {
+    "level": "n5",
+    "kanji": "西",
+    "arti": "barat"
+  },
+  {
+    "level": "n5",
+    "kanji": "電",
+    "arti": "listrik"
+  },
+  {
+    "level": "n5",
+    "kanji": "校",
+    "arti": "ujian"
+  },
+  {
+    "level": "n5",
+    "kanji": "語",
+    "arti": "kata"
+  },
+  {
+    "level": "n5",
+    "kanji": "土",
+    "arti": "tanah"
+  },
+  {
+    "level": "n5",
+    "kanji": "木",
+    "arti": "pohon"
+  },
+  {
+    "level": "n5",
+    "kanji": "聞",
+    "arti": "dengar"
+  },
+  {
+    "level": "n5",
+    "kanji": "食",
+    "arti": "makan"
+  },
+  {
+    "level": "n5",
+    "kanji": "車",
+    "arti": "mobil"
+  },
+  {
+    "level": "n5",
+    "kanji": "何",
+    "arti": "apa"
+  },
+  {
+    "level": "n5",
+    "kanji": "南",
+    "arti": "selatan"
+  },
+  {
+    "level": "n5",
+    "kanji": "万",
+    "arti": "sepuluh ribu"
+  },
+  {
+    "level": "n5",
+    "kanji": "毎",
+    "arti": "setiap"
+  },
+  {
+    "level": "n5",
+    "kanji": "白",
+    "arti": "putih"
+  },
+  {
+    "level": "n5",
+    "kanji": "天",
+    "arti": "surga"
+  },
+  {
+    "level": "n5",
+    "kanji": "母",
+    "arti": "ibu"
+  },
+  {
+    "level": "n5",
+    "kanji": "火",
+    "arti": "api"
+  },
+  {
+    "level": "n5",
+    "kanji": "右",
+    "arti": "kanan"
+  },
+  {
+    "level": "n5",
+    "kanji": "読",
+    "arti": "baca"
+  },
+  {
+    "level": "n5",
+    "kanji": "友",
+    "arti": "teman"
+  },
+  {
+    "level": "n5",
+    "kanji": "左",
+    "arti": "kiri"
+  },
+  {
+    "level": "n5",
+    "kanji": "休",
+    "arti": "istirahat"
+  },
+  {
+    "level": "n5",
+    "kanji": "父",
+    "arti": "ayah"
+  },
+  {
+    "level": "n5",
+    "kanji": "雨",
+    "arti": "hujan"
+  },
+  {
+    "level": "n4",
+    "kanji": "会",
+    "arti": "pertemuan"
+  },
+  {
+    "level": "n4",
+    "kanji": "同",
+    "arti": "sama"
+  },
+  {
+    "level": "n4",
+    "kanji": "事",
+    "arti": "masalah"
+  },
+  {
+    "level": "n4",
+    "kanji": "自",
+    "arti": "diri sendiri"
+  },
+  {
+    "level": "n4",
+    "kanji": "社",
+    "arti": "perusahaan"
+  },
+  {
+    "level": "n4",
+    "kanji": "発",
+    "arti": "keberangkatan"
+  },
+  {
+    "level": "n4",
+    "kanji": "者",
+    "arti": "seseorang"
+  },
+  {
+    "level": "n4",
+    "kanji": "地",
+    "arti": "tanah"
+  },
+  {
+    "level": "n4",
+    "kanji": "業",
+    "arti": "bisnis"
+  },
+  {
+    "level": "n4",
+    "kanji": "方",
+    "arti": "arah"
+  },
+  {
+    "level": "n4",
+    "kanji": "新",
+    "arti": "baru"
+  },
+  {
+    "level": "n4",
+    "kanji": "場",
+    "arti": "lokasi"
+  },
+  {
+    "level": "n4",
+    "kanji": "員",
+    "arti": "karyawan"
+  },
+  {
+    "level": "n4",
+    "kanji": "立",
+    "arti": "berdiri"
+  },
+  {
+    "level": "n4",
+    "kanji": "開",
+    "arti": "buka"
+  },
+  {
+    "level": "n4",
+    "kanji": "手",
+    "arti": "tangan"
+  },
+  {
+    "level": "n4",
+    "kanji": "力",
+    "arti": "kekuatan"
+  },
+  {
+    "level": "n4",
+    "kanji": "問",
+    "arti": "pertanyaan"
+  },
+  {
+    "level": "n4",
+    "kanji": "代",
+    "arti": "pengganti"
+  },
+  {
+    "level": "n4",
+    "kanji": "明",
+    "arti": "cerah"
+  },
+  {
+    "level": "n4",
+    "kanji": "動",
+    "arti": "bergerak"
+  },
+  {
+    "level": "n4",
+    "kanji": "京",
+    "arti": "ibukota"
+  },
+  {
+    "level": "n4",
+    "kanji": "目",
+    "arti": "mata"
+  },
+  {
+    "level": "n4",
+    "kanji": "通",
+    "arti": "lalu lintas"
+  },
+  {
+    "level": "n4",
+    "kanji": "言",
+    "arti": "katakan"
+  },
+  {
+    "level": "n4",
+    "kanji": "理",
+    "arti": "logika"
+  },
+  {
+    "level": "n4",
+    "kanji": "体",
+    "arti": "tubuh"
+  },
+  {
+    "level": "n4",
+    "kanji": "田",
+    "arti": "sawah"
+  },
+  {
+    "level": "n4",
+    "kanji": "主",
+    "arti": "tuan"
+  },
+  {
+    "level": "n4",
+    "kanji": "題",
+    "arti": "topik"
+  },
+  {
+    "level": "n4",
+    "kanji": "意",
+    "arti": "ide"
+  },
+  {
+    "level": "n4",
+    "kanji": "不",
+    "arti": "negatif"
+  },
+  {
+    "level": "n4",
+    "kanji": "作",
+    "arti": "membuat"
+  },
+  {
+    "level": "n4",
+    "kanji": "的",
+    "arti": "mata banteng"
+  },
+  {
+    "level": "n4",
+    "kanji": "用",
+    "arti": "gunakan"
+  },
+  {
+    "level": "n4",
+    "kanji": "度",
+    "arti": "derajat"
+  },
+  {
+    "level": "n4",
+    "kanji": "強",
+    "arti": "kuat"
+  },
+  {
+    "level": "n4",
+    "kanji": "公",
+    "arti": "umum"
+  },
+  {
+    "level": "n4",
+    "kanji": "持",
+    "arti": "tahan"
+  },
+  {
+    "level": "n4",
+    "kanji": "野",
+    "arti": "dataran"
+  },
+  {
+    "level": "n4",
+    "kanji": "以",
+    "arti": "dengan"
+  },
+  {
+    "level": "n4",
+    "kanji": "思",
+    "arti": "berpikir"
+  },
+  {
+    "level": "n4",
+    "kanji": "家",
+    "arti": "rumah"
+  },
+  {
+    "level": "n4",
+    "kanji": "世",
+    "arti": "generasi"
+  },
+  {
+    "level": "n4",
+    "kanji": "多",
+    "arti": "banyak"
+  },
+  {
+    "level": "n4",
+    "kanji": "正",
+    "arti": "benar"
+  },
+  {
+    "level": "n4",
+    "kanji": "安",
+    "arti": "bersantai"
+  },
+  {
+    "level": "n4",
+    "kanji": "院",
+    "arti": "instruksi"
+  },
+  {
+    "level": "n4",
+    "kanji": "心",
+    "arti": "jantung"
+  },
+  {
+    "level": "n4",
+    "kanji": "界",
+    "arti": "dunia"
+  },
+  {
+    "level": "n4",
+    "kanji": "教",
+    "arti": "mengajar"
+  },
+  {
+    "level": "n4",
+    "kanji": "文",
+    "arti": "kalimat"
+  },
+  {
+    "level": "n4",
+    "kanji": "元",
+    "arti": "awal"
+  },
+  {
+    "level": "n4",
+    "kanji": "重",
+    "arti": "berat"
+  },
+  {
+    "level": "n4",
+    "kanji": "近",
+    "arti": "dekat"
+  },
+  {
+    "level": "n4",
+    "kanji": "考",
+    "arti": "pertimbangkan"
+  },
+  {
+    "level": "n4",
+    "kanji": "画",
+    "arti": "tekanan kuas"
+  },
+  {
+    "level": "n4",
+    "kanji": "海",
+    "arti": "laut"
+  },
+  {
+    "level": "n4",
+    "kanji": "売",
+    "arti": "jual"
+  },
+  {
+    "level": "n4",
+    "kanji": "知",
+    "arti": "tahu"
+  },
+  {
+    "level": "n4",
+    "kanji": "道",
+    "arti": "jalan raya"
+  },
+  {
+    "level": "n4",
+    "kanji": "集",
+    "arti": "mengumpulkan"
+  },
+  {
+    "level": "n4",
+    "kanji": "別",
+    "arti": "pisahkan"
+  },
+  {
+    "level": "n4",
+    "kanji": "物",
+    "arti": "benda"
+  },
+  {
+    "level": "n4",
+    "kanji": "使",
+    "arti": "gunakan"
+  },
+  {
+    "level": "n4",
+    "kanji": "品",
+    "arti": "barang"
+  },
+  {
+    "level": "n4",
+    "kanji": "計",
+    "arti": "alur"
+  },
+  {
+    "level": "n4",
+    "kanji": "死",
+    "arti": "kematian"
+  },
+  {
+    "level": "n4",
+    "kanji": "特",
+    "arti": "khusus"
+  },
+  {
+    "level": "n4",
+    "kanji": "私",
+    "arti": "pribadi"
+  },
+  {
+    "level": "n4",
+    "kanji": "始",
+    "arti": "mulai"
+  },
+  {
+    "level": "n4",
+    "kanji": "朝",
+    "arti": "pagi"
+  },
+  {
+    "level": "n4",
+    "kanji": "運",
+    "arti": "membawa"
+  },
+  {
+    "level": "n4",
+    "kanji": "終",
+    "arti": "akhir"
+  },
+  {
+    "level": "n4",
+    "kanji": "台",
+    "arti": "tatakan"
+  },
+  {
+    "level": "n4",
+    "kanji": "広",
+    "arti": "lebar"
+  },
+  {
+    "level": "n4",
+    "kanji": "住",
+    "arti": "tinggal"
+  },
+  {
+    "level": "n4",
+    "kanji": "無",
+    "arti": "ketiadaan"
+  },
+  {
+    "level": "n4",
+    "kanji": "真",
+    "arti": "benar"
+  },
+  {
+    "level": "n4",
+    "kanji": "有",
+    "arti": "memiliki"
+  },
+  {
+    "level": "n4",
+    "kanji": "口",
+    "arti": "mulut"
+  },
+  {
+    "level": "n4",
+    "kanji": "少",
+    "arti": "beberapa"
+  },
+  {
+    "level": "n4",
+    "kanji": "町",
+    "arti": "kota"
+  },
+  {
+    "level": "n4",
+    "kanji": "料",
+    "arti": "biaya"
+  },
+  {
+    "level": "n4",
+    "kanji": "工",
+    "arti": "kerajinan"
+  },
+  {
+    "level": "n4",
+    "kanji": "建",
+    "arti": "membangun"
+  },
+  {
+    "level": "n4",
+    "kanji": "空",
+    "arti": "kosong"
+  },
+  {
+    "level": "n4",
+    "kanji": "急",
+    "arti": "cepat"
+  },
+  {
+    "level": "n4",
+    "kanji": "止",
+    "arti": "berhenti"
+  },
+  {
+    "level": "n4",
+    "kanji": "送",
+    "arti": "pengawalan"
+  },
+  {
+    "level": "n4",
+    "kanji": "可",
+    "arti": "dapat"
+  },
+  {
+    "level": "n4",
+    "kanji": "身",
+    "arti": "seseorang"
+  },
+  {
+    "level": "n4",
+    "kanji": "切",
+    "arti": "potong"
+  },
+  {
+    "level": "n4",
+    "kanji": "転",
+    "arti": "berputar"
+  },
+  {
+    "level": "n4",
+    "kanji": "研",
+    "arti": "polandia"
+  },
+  {
+    "level": "n4",
+    "kanji": "足",
+    "arti": "kaki"
+  },
+  {
+    "level": "n4",
+    "kanji": "究",
+    "arti": "penelitian"
+  },
+  {
+    "level": "n4",
+    "kanji": "楽",
+    "arti": "musik"
+  },
+  {
+    "level": "n4",
+    "kanji": "起",
+    "arti": "membangkitkan"
+  },
+  {
+    "level": "n4",
+    "kanji": "着",
+    "arti": "bos"
+  },
+  {
+    "level": "n4",
+    "kanji": "店",
+    "arti": "toko"
+  },
+  {
+    "level": "n4",
+    "kanji": "病",
+    "arti": "sakit"
+  },
+  {
+    "level": "n4",
+    "kanji": "質",
+    "arti": "zat"
+  },
+  {
+    "level": "n4",
+    "kanji": "待",
+    "arti": "tunggu"
+  },
+  {
+    "level": "n4",
+    "kanji": "試",
+    "arti": "ujian"
+  },
+  {
+    "level": "n4",
+    "kanji": "族",
+    "arti": "suku"
+  },
+  {
+    "level": "n4",
+    "kanji": "銀",
+    "arti": "perak"
+  },
+  {
+    "level": "n4",
+    "kanji": "早",
+    "arti": "awal"
+  },
+  {
+    "level": "n4",
+    "kanji": "映",
+    "arti": "merefleksikan"
+  },
+  {
+    "level": "n4",
+    "kanji": "親",
+    "arti": "orang tua"
+  },
+  {
+    "level": "n4",
+    "kanji": "験",
+    "arti": "verifikasi"
+  },
+  {
+    "level": "n4",
+    "kanji": "英",
+    "arti": "inggris"
+  },
+  {
+    "level": "n4",
+    "kanji": "医",
+    "arti": "dokter"
+  },
+  {
+    "level": "n4",
+    "kanji": "仕",
+    "arti": "menghadiri"
+  },
+  {
+    "level": "n4",
+    "kanji": "去",
+    "arti": "pergi"
+  },
+  {
+    "level": "n4",
+    "kanji": "味",
+    "arti": "rasa"
+  },
+  {
+    "level": "n4",
+    "kanji": "写",
+    "arti": "salin"
+  },
+  {
+    "level": "n4",
+    "kanji": "字",
+    "arti": "karakter"
+  },
+  {
+    "level": "n4",
+    "kanji": "答",
+    "arti": "solusi"
+  },
+  {
+    "level": "n4",
+    "kanji": "夜",
+    "arti": "malam"
+  },
+  {
+    "level": "n4",
+    "kanji": "音",
+    "arti": "suara"
+  },
+  {
+    "level": "n4",
+    "kanji": "注",
+    "arti": "menuangkan"
+  },
+  {
+    "level": "n4",
+    "kanji": "帰",
+    "arti": "pulang kampung"
+  },
+  {
+    "level": "n4",
+    "kanji": "古",
+    "arti": "tua"
+  },
+  {
+    "level": "n4",
+    "kanji": "歌",
+    "arti": "lagu"
+  },
+  {
+    "level": "n4",
+    "kanji": "買",
+    "arti": "beli"
+  },
+  {
+    "level": "n4",
+    "kanji": "悪",
+    "arti": "buruk"
+  },
+  {
+    "level": "n4",
+    "kanji": "図",
+    "arti": "peta"
+  },
+  {
+    "level": "n4",
+    "kanji": "週",
+    "arti": "minggu"
+  },
+  {
+    "level": "n4",
+    "kanji": "室",
+    "arti": "kamar"
+  },
+  {
+    "level": "n4",
+    "kanji": "歩",
+    "arti": "berjalan"
+  },
+  {
+    "level": "n4",
+    "kanji": "風",
+    "arti": "angin"
+  },
+  {
+    "level": "n4",
+    "kanji": "紙",
+    "arti": "kertas"
+  },
+  {
+    "level": "n4",
+    "kanji": "黒",
+    "arti": "hitam"
+  },
+  {
+    "level": "n4",
+    "kanji": "花",
+    "arti": "bunga"
+  },
+  {
+    "level": "n4",
+    "kanji": "春",
+    "arti": "musim semi"
+  },
+  {
+    "level": "n4",
+    "kanji": "赤",
+    "arti": "merah"
+  },
+  {
+    "level": "n4",
+    "kanji": "青",
+    "arti": "biru"
+  },
+  {
+    "level": "n4",
+    "kanji": "館",
+    "arti": "bangunan"
+  },
+  {
+    "level": "n4",
+    "kanji": "屋",
+    "arti": "atap"
+  },
+  {
+    "level": "n4",
+    "kanji": "色",
+    "arti": "warna"
+  },
+  {
+    "level": "n4",
+    "kanji": "走",
+    "arti": "lari"
+  },
+  {
+    "level": "n4",
+    "kanji": "秋",
+    "arti": "musim gugur"
+  },
+  {
+    "level": "n4",
+    "kanji": "夏",
+    "arti": "musim panas"
+  },
+  {
+    "level": "n4",
+    "kanji": "習",
+    "arti": "belajar"
+  },
+  {
+    "level": "n4",
+    "kanji": "駅",
+    "arti": "stasiun"
+  },
+  {
+    "level": "n4",
+    "kanji": "洋",
+    "arti": "samudra"
+  },
+  {
+    "level": "n4",
+    "kanji": "旅",
+    "arti": "perjalanan"
+  },
+  {
+    "level": "n4",
+    "kanji": "服",
+    "arti": "pakaian"
+  },
+  {
+    "level": "n4",
+    "kanji": "夕",
+    "arti": "malam"
+  },
+  {
+    "level": "n4",
+    "kanji": "借",
+    "arti": "meminjam"
+  },
+  {
+    "level": "n4",
+    "kanji": "曜",
+    "arti": "hari kerja"
+  },
+  {
+    "level": "n4",
+    "kanji": "飲",
+    "arti": "minum"
+  },
+  {
+    "level": "n4",
+    "kanji": "肉",
+    "arti": "daging"
+  },
+  {
+    "level": "n4",
+    "kanji": "貸",
+    "arti": "meminjamkan"
+  },
+  {
+    "level": "n4",
+    "kanji": "堂",
+    "arti": "ruang publik"
+  },
+  {
+    "level": "n4",
+    "kanji": "鳥",
+    "arti": "burung"
+  },
+  {
+    "level": "n4",
+    "kanji": "飯",
+    "arti": "makanan"
+  },
+  {
+    "level": "n4",
+    "kanji": "勉",
+    "arti": "usaha"
+  },
+  {
+    "level": "n4",
+    "kanji": "冬",
+    "arti": "musim dingin"
+  },
+  {
+    "level": "n4",
+    "kanji": "昼",
+    "arti": "siang hari"
+  },
+  {
+    "level": "n4",
+    "kanji": "茶",
+    "arti": "teh"
+  },
+  {
+    "level": "n4",
+    "kanji": "弟",
+    "arti": "adik laki-laki"
+  },
+  {
+    "level": "n4",
+    "kanji": "牛",
+    "arti": "sapi"
+  },
+  {
+    "level": "n4",
+    "kanji": "魚",
+    "arti": "ikan"
+  },
+  {
+    "level": "n4",
+    "kanji": "兄",
+    "arti": "kakak laki-laki"
+  },
+  {
+    "level": "n4",
+    "kanji": "犬",
+    "arti": "anjing"
+  },
+  {
+    "level": "n4",
+    "kanji": "妹",
+    "arti": "adik perempuan"
+  },
+  {
+    "level": "n4",
+    "kanji": "姉",
+    "arti": "kakak perempuan"
+  },
+  {
+    "level": "n4",
+    "kanji": "漢",
+    "arti": "sino-"
+  },
+  {
+    "level": "n3",
+    "kanji": "政",
+    "arti": "politik"
+  },
+  {
+    "level": "n3",
+    "kanji": "議",
+    "arti": "pertimbangan"
+  },
+  {
+    "level": "n3",
+    "kanji": "民",
+    "arti": "orang"
+  },
+  {
+    "level": "n3",
+    "kanji": "連",
+    "arti": "bawa serta"
+  },
+  {
+    "level": "n3",
+    "kanji": "対",
+    "arti": "tatap muka"
+  },
+  {
+    "level": "n3",
+    "kanji": "部",
+    "arti": "bagian"
+  },
+  {
+    "level": "n3",
+    "kanji": "合",
+    "arti": "sehat"
+  },
+  {
+    "level": "n3",
+    "kanji": "市",
+    "arti": "pasar"
+  },
+  {
+    "level": "n3",
+    "kanji": "内",
+    "arti": "dalam"
+  },
+  {
+    "level": "n3",
+    "kanji": "相",
+    "arti": "antar-"
+  },
+  {
+    "level": "n3",
+    "kanji": "定",
+    "arti": "tentukan"
+  },
+  {
+    "level": "n3",
+    "kanji": "回",
+    "arti": "kali"
+  },
+  {
+    "level": "n3",
+    "kanji": "選",
+    "arti": "memilih"
+  },
+  {
+    "level": "n3",
+    "kanji": "米",
+    "arti": "beras"
+  },
+  {
+    "level": "n3",
+    "kanji": "実",
+    "arti": "kenyataan"
+  },
+  {
+    "level": "n3",
+    "kanji": "関",
+    "arti": "koneksi"
+  },
+  {
+    "level": "n3",
+    "kanji": "決",
+    "arti": "memutuskan"
+  },
+  {
+    "level": "n3",
+    "kanji": "全",
+    "arti": "seluruh"
+  },
+  {
+    "level": "n3",
+    "kanji": "表",
+    "arti": "permukaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "戦",
+    "arti": "perang"
+  },
+  {
+    "level": "n3",
+    "kanji": "経",
+    "arti": "sutera"
+  },
+  {
+    "level": "n3",
+    "kanji": "最",
+    "arti": "sangat besar"
+  },
+  {
+    "level": "n3",
+    "kanji": "現",
+    "arti": "hadir"
+  },
+  {
+    "level": "n3",
+    "kanji": "調",
+    "arti": "melodi"
+  },
+  {
+    "level": "n3",
+    "kanji": "化",
+    "arti": "perubahan"
+  },
+  {
+    "level": "n3",
+    "kanji": "当",
+    "arti": "pukulan"
+  },
+  {
+    "level": "n3",
+    "kanji": "約",
+    "arti": "janji"
+  },
+  {
+    "level": "n3",
+    "kanji": "首",
+    "arti": "leher"
+  },
+  {
+    "level": "n3",
+    "kanji": "法",
+    "arti": "metode"
+  },
+  {
+    "level": "n3",
+    "kanji": "性",
+    "arti": "seks"
+  },
+  {
+    "level": "n3",
+    "kanji": "要",
+    "arti": "butuh"
+  },
+  {
+    "level": "n3",
+    "kanji": "制",
+    "arti": "sistem"
+  },
+  {
+    "level": "n3",
+    "kanji": "治",
+    "arti": "pemerintahan"
+  },
+  {
+    "level": "n3",
+    "kanji": "務",
+    "arti": "tugas"
+  },
+  {
+    "level": "n3",
+    "kanji": "成",
+    "arti": "berubah menjadi"
+  },
+  {
+    "level": "n3",
+    "kanji": "期",
+    "arti": "periode"
+  },
+  {
+    "level": "n3",
+    "kanji": "取",
+    "arti": "mengambil"
+  },
+  {
+    "level": "n3",
+    "kanji": "都",
+    "arti": "metropolis"
+  },
+  {
+    "level": "n3",
+    "kanji": "和",
+    "arti": "harmoni"
+  },
+  {
+    "level": "n3",
+    "kanji": "機",
+    "arti": "menenun"
+  },
+  {
+    "level": "n3",
+    "kanji": "平",
+    "arti": "bahkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "加",
+    "arti": "tambah"
+  },
+  {
+    "level": "n3",
+    "kanji": "受",
+    "arti": "terima"
+  },
+  {
+    "level": "n3",
+    "kanji": "続",
+    "arti": "lanjutkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "進",
+    "arti": "maju"
+  },
+  {
+    "level": "n3",
+    "kanji": "数",
+    "arti": "nomor"
+  },
+  {
+    "level": "n3",
+    "kanji": "記",
+    "arti": "jurutulis"
+  },
+  {
+    "level": "n3",
+    "kanji": "初",
+    "arti": "pertama kali"
+  },
+  {
+    "level": "n3",
+    "kanji": "指",
+    "arti": "jari"
+  },
+  {
+    "level": "n3",
+    "kanji": "権",
+    "arti": "otoritas"
+  },
+  {
+    "level": "n3",
+    "kanji": "支",
+    "arti": "cabang"
+  },
+  {
+    "level": "n3",
+    "kanji": "産",
+    "arti": "produk"
+  },
+  {
+    "level": "n3",
+    "kanji": "点",
+    "arti": "titik"
+  },
+  {
+    "level": "n3",
+    "kanji": "報",
+    "arti": "laporan"
+  },
+  {
+    "level": "n3",
+    "kanji": "済",
+    "arti": "melunasi (utang, dll.)"
+  },
+  {
+    "level": "n3",
+    "kanji": "活",
+    "arti": "hidup"
+  },
+  {
+    "level": "n3",
+    "kanji": "原",
+    "arti": "padang rumput"
+  },
+  {
+    "level": "n3",
+    "kanji": "共",
+    "arti": "bersama"
+  },
+  {
+    "level": "n3",
+    "kanji": "得",
+    "arti": "keuntungan"
+  },
+  {
+    "level": "n3",
+    "kanji": "解",
+    "arti": "mengurai"
+  },
+  {
+    "level": "n3",
+    "kanji": "交",
+    "arti": "bergaul"
+  },
+  {
+    "level": "n3",
+    "kanji": "資",
+    "arti": "aset"
+  },
+  {
+    "level": "n3",
+    "kanji": "予",
+    "arti": "sebelumnya"
+  },
+  {
+    "level": "n3",
+    "kanji": "向",
+    "arti": "di sana"
+  },
+  {
+    "level": "n3",
+    "kanji": "際",
+    "arti": "kesempatan"
+  },
+  {
+    "level": "n3",
+    "kanji": "勝",
+    "arti": "kemenangan"
+  },
+  {
+    "level": "n3",
+    "kanji": "面",
+    "arti": "topeng"
+  },
+  {
+    "level": "n3",
+    "kanji": "告",
+    "arti": "wahyu"
+  },
+  {
+    "level": "n3",
+    "kanji": "反",
+    "arti": "anti-"
+  },
+  {
+    "level": "n3",
+    "kanji": "判",
+    "arti": "penghakiman"
+  },
+  {
+    "level": "n3",
+    "kanji": "認",
+    "arti": "mengakui"
+  },
+  {
+    "level": "n3",
+    "kanji": "参",
+    "arti": "bingung"
+  },
+  {
+    "level": "n3",
+    "kanji": "利",
+    "arti": "keuntungan"
+  },
+  {
+    "level": "n3",
+    "kanji": "組",
+    "arti": "asosiasi"
+  },
+  {
+    "level": "n3",
+    "kanji": "信",
+    "arti": "iman"
+  },
+  {
+    "level": "n3",
+    "kanji": "在",
+    "arti": "ada"
+  },
+  {
+    "level": "n3",
+    "kanji": "件",
+    "arti": "urusan"
+  },
+  {
+    "level": "n3",
+    "kanji": "側",
+    "arti": "sisi"
+  },
+  {
+    "level": "n3",
+    "kanji": "任",
+    "arti": "tanggung jawab"
+  },
+  {
+    "level": "n3",
+    "kanji": "引",
+    "arti": "tarik"
+  },
+  {
+    "level": "n3",
+    "kanji": "求",
+    "arti": "permintaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "所",
+    "arti": "tempat"
+  },
+  {
+    "level": "n3",
+    "kanji": "次",
+    "arti": "berikutnya"
+  },
+  {
+    "level": "n3",
+    "kanji": "昨",
+    "arti": "kemarin"
+  },
+  {
+    "level": "n3",
+    "kanji": "論",
+    "arti": "argumen"
+  },
+  {
+    "level": "n3",
+    "kanji": "官",
+    "arti": "birokrat"
+  },
+  {
+    "level": "n3",
+    "kanji": "増",
+    "arti": "meningkatkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "係",
+    "arti": "penanggung jawab"
+  },
+  {
+    "level": "n3",
+    "kanji": "感",
+    "arti": "emosi"
+  },
+  {
+    "level": "n3",
+    "kanji": "情",
+    "arti": "perasaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "投",
+    "arti": "melempar"
+  },
+  {
+    "level": "n3",
+    "kanji": "示",
+    "arti": "tunjukkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "変",
+    "arti": "tidak biasa"
+  },
+  {
+    "level": "n3",
+    "kanji": "打",
+    "arti": "pukulan"
+  },
+  {
+    "level": "n3",
+    "kanji": "直",
+    "arti": "langsung"
+  },
+  {
+    "level": "n3",
+    "kanji": "両",
+    "arti": "keduanya"
+  },
+  {
+    "level": "n3",
+    "kanji": "式",
+    "arti": "gaya"
+  },
+  {
+    "level": "n3",
+    "kanji": "確",
+    "arti": "jaminan"
+  },
+  {
+    "level": "n3",
+    "kanji": "果",
+    "arti": "buah"
+  },
+  {
+    "level": "n3",
+    "kanji": "容",
+    "arti": "mengandung"
+  },
+  {
+    "level": "n3",
+    "kanji": "必",
+    "arti": "selalu"
+  },
+  {
+    "level": "n3",
+    "kanji": "演",
+    "arti": "kinerja"
+  },
+  {
+    "level": "n3",
+    "kanji": "歳",
+    "arti": "akhir tahun"
+  },
+  {
+    "level": "n3",
+    "kanji": "争",
+    "arti": "berkompetisi"
+  },
+  {
+    "level": "n3",
+    "kanji": "談",
+    "arti": "membahas"
+  },
+  {
+    "level": "n3",
+    "kanji": "能",
+    "arti": "kemampuan"
+  },
+  {
+    "level": "n3",
+    "kanji": "位",
+    "arti": "peringkat"
+  },
+  {
+    "level": "n3",
+    "kanji": "置",
+    "arti": "penempatan"
+  },
+  {
+    "level": "n3",
+    "kanji": "流",
+    "arti": "arus"
+  },
+  {
+    "level": "n3",
+    "kanji": "格",
+    "arti": "status"
+  },
+  {
+    "level": "n3",
+    "kanji": "疑",
+    "arti": "ragu"
+  },
+  {
+    "level": "n3",
+    "kanji": "過",
+    "arti": "berlebihan"
+  },
+  {
+    "level": "n3",
+    "kanji": "局",
+    "arti": "biro"
+  },
+  {
+    "level": "n3",
+    "kanji": "放",
+    "arti": "bebaskan"
+  },
+  {
+    "level": "n3",
+    "kanji": "常",
+    "arti": "biasa"
+  },
+  {
+    "level": "n3",
+    "kanji": "状",
+    "arti": "status quo"
+  },
+  {
+    "level": "n3",
+    "kanji": "球",
+    "arti": "bola"
+  },
+  {
+    "level": "n3",
+    "kanji": "職",
+    "arti": "pos"
+  },
+  {
+    "level": "n3",
+    "kanji": "与",
+    "arti": "memberikan"
+  },
+  {
+    "level": "n3",
+    "kanji": "供",
+    "arti": "kirim"
+  },
+  {
+    "level": "n3",
+    "kanji": "役",
+    "arti": "tugas"
+  },
+  {
+    "level": "n3",
+    "kanji": "構",
+    "arti": "postur"
+  },
+  {
+    "level": "n3",
+    "kanji": "割",
+    "arti": "proporsi"
+  },
+  {
+    "level": "n3",
+    "kanji": "費",
+    "arti": "biaya"
+  },
+  {
+    "level": "n3",
+    "kanji": "付",
+    "arti": "melekat"
+  },
+  {
+    "level": "n3",
+    "kanji": "由",
+    "arti": "mengapa"
+  },
+  {
+    "level": "n3",
+    "kanji": "説",
+    "arti": "pendapat"
+  },
+  {
+    "level": "n3",
+    "kanji": "難",
+    "arti": "sulit"
+  },
+  {
+    "level": "n3",
+    "kanji": "優",
+    "arti": "kelembutan"
+  },
+  {
+    "level": "n3",
+    "kanji": "夫",
+    "arti": "suami"
+  },
+  {
+    "level": "n3",
+    "kanji": "収",
+    "arti": "pendapatan"
+  },
+  {
+    "level": "n3",
+    "kanji": "断",
+    "arti": "pesangon"
+  },
+  {
+    "level": "n3",
+    "kanji": "石",
+    "arti": "batu"
+  },
+  {
+    "level": "n3",
+    "kanji": "違",
+    "arti": "perbedaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "消",
+    "arti": "memadamkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "神",
+    "arti": "dewa-dewa"
+  },
+  {
+    "level": "n3",
+    "kanji": "番",
+    "arti": "berbelok"
+  },
+  {
+    "level": "n3",
+    "kanji": "規",
+    "arti": "standar"
+  },
+  {
+    "level": "n3",
+    "kanji": "術",
+    "arti": "seni"
+  },
+  {
+    "level": "n3",
+    "kanji": "備",
+    "arti": "perlengkapan"
+  },
+  {
+    "level": "n3",
+    "kanji": "宅",
+    "arti": "rumah"
+  },
+  {
+    "level": "n3",
+    "kanji": "害",
+    "arti": "bahaya"
+  },
+  {
+    "level": "n3",
+    "kanji": "配",
+    "arti": "mendistribusikan"
+  },
+  {
+    "level": "n3",
+    "kanji": "警",
+    "arti": "menegur"
+  },
+  {
+    "level": "n3",
+    "kanji": "育",
+    "arti": "membesarkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "席",
+    "arti": "kursi"
+  },
+  {
+    "level": "n3",
+    "kanji": "訪",
+    "arti": "memanggil"
+  },
+  {
+    "level": "n3",
+    "kanji": "乗",
+    "arti": "mengendarai"
+  },
+  {
+    "level": "n3",
+    "kanji": "残",
+    "arti": "sisa"
+  },
+  {
+    "level": "n3",
+    "kanji": "想",
+    "arti": "konsep"
+  },
+  {
+    "level": "n3",
+    "kanji": "声",
+    "arti": "suara"
+  },
+  {
+    "level": "n3",
+    "kanji": "念",
+    "arti": "keinginan"
+  },
+  {
+    "level": "n3",
+    "kanji": "助",
+    "arti": "bantu"
+  },
+  {
+    "level": "n3",
+    "kanji": "労",
+    "arti": "tenaga kerja"
+  },
+  {
+    "level": "n3",
+    "kanji": "例",
+    "arti": "contoh"
+  },
+  {
+    "level": "n3",
+    "kanji": "然",
+    "arti": "jenis hal"
+  },
+  {
+    "level": "n3",
+    "kanji": "限",
+    "arti": "batas"
+  },
+  {
+    "level": "n3",
+    "kanji": "追",
+    "arti": "memburu"
+  },
+  {
+    "level": "n3",
+    "kanji": "商",
+    "arti": "membuat kesepakatan"
+  },
+  {
+    "level": "n3",
+    "kanji": "葉",
+    "arti": "daun"
+  },
+  {
+    "level": "n3",
+    "kanji": "伝",
+    "arti": "mengirimkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "働",
+    "arti": "kerja"
+  },
+  {
+    "level": "n3",
+    "kanji": "形",
+    "arti": "bentuk"
+  },
+  {
+    "level": "n3",
+    "kanji": "景",
+    "arti": "pemandangan"
+  },
+  {
+    "level": "n3",
+    "kanji": "落",
+    "arti": "jatuh"
+  },
+  {
+    "level": "n3",
+    "kanji": "好",
+    "arti": "sayang"
+  },
+  {
+    "level": "n3",
+    "kanji": "退",
+    "arti": "mundur"
+  },
+  {
+    "level": "n3",
+    "kanji": "頭",
+    "arti": "kepala"
+  },
+  {
+    "level": "n3",
+    "kanji": "負",
+    "arti": "kekalahan"
+  },
+  {
+    "level": "n3",
+    "kanji": "渡",
+    "arti": "transit"
+  },
+  {
+    "level": "n3",
+    "kanji": "失",
+    "arti": "kehilangan"
+  },
+  {
+    "level": "n3",
+    "kanji": "差",
+    "arti": "pembedaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "末",
+    "arti": "akhir"
+  },
+  {
+    "level": "n3",
+    "kanji": "守",
+    "arti": "penjaga"
+  },
+  {
+    "level": "n3",
+    "kanji": "若",
+    "arti": "muda"
+  },
+  {
+    "level": "n3",
+    "kanji": "種",
+    "arti": "spesies"
+  },
+  {
+    "level": "n3",
+    "kanji": "美",
+    "arti": "kecantikan"
+  },
+  {
+    "level": "n3",
+    "kanji": "岡",
+    "arti": "gunung"
+  },
+  {
+    "level": "n3",
+    "kanji": "命",
+    "arti": "nasib"
+  },
+  {
+    "level": "n3",
+    "kanji": "福",
+    "arti": "berkat"
+  },
+  {
+    "level": "n3",
+    "kanji": "望",
+    "arti": "ambisi"
+  },
+  {
+    "level": "n3",
+    "kanji": "非",
+    "arti": "tidak-"
+  },
+  {
+    "level": "n3",
+    "kanji": "観",
+    "arti": "prospek"
+  },
+  {
+    "level": "n3",
+    "kanji": "察",
+    "arti": "tebak"
+  },
+  {
+    "level": "n3",
+    "kanji": "段",
+    "arti": "nilai"
+  },
+  {
+    "level": "n3",
+    "kanji": "横",
+    "arti": "mendatar"
+  },
+  {
+    "level": "n3",
+    "kanji": "深",
+    "arti": "dalam"
+  },
+  {
+    "level": "n3",
+    "kanji": "申",
+    "arti": "mempunyai kehormatan untuk"
+  },
+  {
+    "level": "n3",
+    "kanji": "様",
+    "arti": "esq."
+  },
+  {
+    "level": "n3",
+    "kanji": "財",
+    "arti": "properti"
+  },
+  {
+    "level": "n3",
+    "kanji": "港",
+    "arti": "pelabuhan"
+  },
+  {
+    "level": "n3",
+    "kanji": "識",
+    "arti": "membedakan"
+  },
+  {
+    "level": "n3",
+    "kanji": "呼",
+    "arti": "panggilan"
+  },
+  {
+    "level": "n3",
+    "kanji": "達",
+    "arti": "tercapai"
+  },
+  {
+    "level": "n3",
+    "kanji": "良",
+    "arti": "baik"
+  },
+  {
+    "level": "n3",
+    "kanji": "候",
+    "arti": "iklim"
+  },
+  {
+    "level": "n3",
+    "kanji": "程",
+    "arti": "luas"
+  },
+  {
+    "level": "n3",
+    "kanji": "満",
+    "arti": "penuh"
+  },
+  {
+    "level": "n3",
+    "kanji": "敗",
+    "arti": "kegagalan"
+  },
+  {
+    "level": "n3",
+    "kanji": "値",
+    "arti": "harga"
+  },
+  {
+    "level": "n3",
+    "kanji": "突",
+    "arti": "menusuk"
+  },
+  {
+    "level": "n3",
+    "kanji": "光",
+    "arti": "sinar"
+  },
+  {
+    "level": "n3",
+    "kanji": "路",
+    "arti": "jalan"
+  },
+  {
+    "level": "n3",
+    "kanji": "科",
+    "arti": "departemen"
+  },
+  {
+    "level": "n3",
+    "kanji": "積",
+    "arti": "volume"
+  },
+  {
+    "level": "n3",
+    "kanji": "他",
+    "arti": "lain"
+  },
+  {
+    "level": "n3",
+    "kanji": "処",
+    "arti": "membuang"
+  },
+  {
+    "level": "n3",
+    "kanji": "太",
+    "arti": "gemuk"
+  },
+  {
+    "level": "n3",
+    "kanji": "客",
+    "arti": "tamu"
+  },
+  {
+    "level": "n3",
+    "kanji": "否",
+    "arti": "membantah"
+  },
+  {
+    "level": "n3",
+    "kanji": "師",
+    "arti": "ahli"
+  },
+  {
+    "level": "n3",
+    "kanji": "登",
+    "arti": "naik"
+  },
+  {
+    "level": "n3",
+    "kanji": "易",
+    "arti": "mudah"
+  },
+  {
+    "level": "n3",
+    "kanji": "速",
+    "arti": "cepat"
+  },
+  {
+    "level": "n3",
+    "kanji": "存",
+    "arti": "ada"
+  },
+  {
+    "level": "n3",
+    "kanji": "飛",
+    "arti": "terbang"
+  },
+  {
+    "level": "n3",
+    "kanji": "殺",
+    "arti": "membunuh"
+  },
+  {
+    "level": "n3",
+    "kanji": "号",
+    "arti": "nama panggilan"
+  },
+  {
+    "level": "n3",
+    "kanji": "単",
+    "arti": "sederhana"
+  },
+  {
+    "level": "n3",
+    "kanji": "座",
+    "arti": "jongkok"
+  },
+  {
+    "level": "n3",
+    "kanji": "破",
+    "arti": "menghasilkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "除",
+    "arti": "mengeluarkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "完",
+    "arti": "sempurna"
+  },
+  {
+    "level": "n3",
+    "kanji": "降",
+    "arti": "turun"
+  },
+  {
+    "level": "n3",
+    "kanji": "責",
+    "arti": "salahkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "捕",
+    "arti": "tangkap"
+  },
+  {
+    "level": "n3",
+    "kanji": "危",
+    "arti": "berbahaya"
+  },
+  {
+    "level": "n3",
+    "kanji": "給",
+    "arti": "gaji"
+  },
+  {
+    "level": "n3",
+    "kanji": "苦",
+    "arti": "penderitaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "迎",
+    "arti": "selamat datang"
+  },
+  {
+    "level": "n3",
+    "kanji": "園",
+    "arti": "taman"
+  },
+  {
+    "level": "n3",
+    "kanji": "具",
+    "arti": "alat"
+  },
+  {
+    "level": "n3",
+    "kanji": "辞",
+    "arti": "mengundurkan diri"
+  },
+  {
+    "level": "n3",
+    "kanji": "因",
+    "arti": "penyebab"
+  },
+  {
+    "level": "n3",
+    "kanji": "馬",
+    "arti": "kuda"
+  },
+  {
+    "level": "n3",
+    "kanji": "愛",
+    "arti": "cinta"
+  },
+  {
+    "level": "n3",
+    "kanji": "富",
+    "arti": "kekayaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "彼",
+    "arti": "dia"
+  },
+  {
+    "level": "n3",
+    "kanji": "未",
+    "arti": "tidak-"
+  },
+  {
+    "level": "n3",
+    "kanji": "舞",
+    "arti": "tari"
+  },
+  {
+    "level": "n3",
+    "kanji": "亡",
+    "arti": "meninggal"
+  },
+  {
+    "level": "n3",
+    "kanji": "冷",
+    "arti": "keren"
+  },
+  {
+    "level": "n3",
+    "kanji": "適",
+    "arti": "cocok"
+  },
+  {
+    "level": "n3",
+    "kanji": "婦",
+    "arti": "wanita"
+  },
+  {
+    "level": "n3",
+    "kanji": "寄",
+    "arti": "mendekat"
+  },
+  {
+    "level": "n3",
+    "kanji": "込",
+    "arti": "ramai"
+  },
+  {
+    "level": "n3",
+    "kanji": "顔",
+    "arti": "wajah"
+  },
+  {
+    "level": "n3",
+    "kanji": "類",
+    "arti": "mengurutkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "余",
+    "arti": "terlalu banyak"
+  },
+  {
+    "level": "n3",
+    "kanji": "王",
+    "arti": "raja"
+  },
+  {
+    "level": "n3",
+    "kanji": "返",
+    "arti": "kembali"
+  },
+  {
+    "level": "n3",
+    "kanji": "妻",
+    "arti": "istri"
+  },
+  {
+    "level": "n3",
+    "kanji": "背",
+    "arti": "postur"
+  },
+  {
+    "level": "n3",
+    "kanji": "熱",
+    "arti": "panas"
+  },
+  {
+    "level": "n3",
+    "kanji": "宿",
+    "arti": "penginapan"
+  },
+  {
+    "level": "n3",
+    "kanji": "薬",
+    "arti": "obat"
+  },
+  {
+    "level": "n3",
+    "kanji": "険",
+    "arti": "curam"
+  },
+  {
+    "level": "n3",
+    "kanji": "頼",
+    "arti": "kepercayaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "覚",
+    "arti": "menghafal"
+  },
+  {
+    "level": "n3",
+    "kanji": "船",
+    "arti": "kapal"
+  },
+  {
+    "level": "n3",
+    "kanji": "途",
+    "arti": "rute"
+  },
+  {
+    "level": "n3",
+    "kanji": "許",
+    "arti": "izin"
+  },
+  {
+    "level": "n3",
+    "kanji": "抜",
+    "arti": "meluncur keluar"
+  },
+  {
+    "level": "n3",
+    "kanji": "便",
+    "arti": "kemudahan"
+  },
+  {
+    "level": "n3",
+    "kanji": "留",
+    "arti": "tahan"
+  },
+  {
+    "level": "n3",
+    "kanji": "罪",
+    "arti": "rasa bersalah"
+  },
+  {
+    "level": "n3",
+    "kanji": "努",
+    "arti": "kerja keras"
+  },
+  {
+    "level": "n3",
+    "kanji": "精",
+    "arti": "halus"
+  },
+  {
+    "level": "n3",
+    "kanji": "散",
+    "arti": "berhamburan"
+  },
+  {
+    "level": "n3",
+    "kanji": "静",
+    "arti": "tenang"
+  },
+  {
+    "level": "n3",
+    "kanji": "婚",
+    "arti": "pernikahan"
+  },
+  {
+    "level": "n3",
+    "kanji": "喜",
+    "arti": "bersukacita"
+  },
+  {
+    "level": "n3",
+    "kanji": "浮",
+    "arti": "mengambang"
+  },
+  {
+    "level": "n3",
+    "kanji": "絶",
+    "arti": "menghentikan"
+  },
+  {
+    "level": "n3",
+    "kanji": "幸",
+    "arti": "kebahagiaan"
+  },
+  {
+    "level": "n3",
+    "kanji": "押",
+    "arti": "dorong"
+  },
+  {
+    "level": "n3",
+    "kanji": "倒",
+    "arti": "menggulingkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "等",
+    "arti": "dll."
+  },
+  {
+    "level": "n3",
+    "kanji": "老",
+    "arti": "orang tua laki-laki"
+  },
+  {
+    "level": "n3",
+    "kanji": "曲",
+    "arti": "membengkokkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "払",
+    "arti": "membayar"
+  },
+  {
+    "level": "n3",
+    "kanji": "庭",
+    "arti": "halaman"
+  },
+  {
+    "level": "n3",
+    "kanji": "徒",
+    "arti": "berjalan kaki"
+  },
+  {
+    "level": "n3",
+    "kanji": "勤",
+    "arti": "ketekunan"
+  },
+  {
+    "level": "n3",
+    "kanji": "遅",
+    "arti": "lambat"
+  },
+  {
+    "level": "n3",
+    "kanji": "居",
+    "arti": "tinggal"
+  },
+  {
+    "level": "n3",
+    "kanji": "雑",
+    "arti": "bermacam-macam"
+  },
+  {
+    "level": "n3",
+    "kanji": "招",
+    "arti": "mengisyaratkan"
+  },
+  {
+    "level": "n3",
+    "kanji": "困",
+    "arti": "kebimbangan"
+  },
+  {
+    "level": "n3",
+    "kanji": "欠",
+    "arti": "kurang"
+  },
+  {
+    "level": "n3",
+    "kanji": "更",
+    "arti": "menjadi larut"
+  },
+  {
+    "level": "n3",
+    "kanji": "刻",
+    "arti": "mengukir"
+  },
+  {
+    "level": "n3",
+    "kanji": "賛",
+    "arti": "setujui"
+  },
+  {
+    "level": "n3",
+    "kanji": "抱",
+    "arti": "pelukan"
+  },
+  {
+    "level": "n3",
+    "kanji": "犯",
+    "arti": "kejahatan"
+  },
+  {
+    "level": "n3",
+    "kanji": "恐",
+    "arti": "ketakutan"
+  },
+  {
+    "level": "n3",
+    "kanji": "息",
+    "arti": "nafas"
+  },
+  {
+    "level": "n3",
+    "kanji": "遠",
+    "arti": "jauh"
+  },
+  {
+    "level": "n3",
+    "kanji": "戻",
+    "arti": "ulang"
+  },
+  {
+    "level": "n3",
+    "kanji": "願",
+    "arti": "petisi"
+  },
+  {
+    "level": "n3",
+    "kanji": "絵",
+    "arti": "gambar"
+  },
+  {
+    "level": "n3",
+    "kanji": "越",
+    "arti": "melampaui"
+  },
+  {
+    "level": "n3",
+    "kanji": "欲",
+    "arti": "kerinduan"
+  },
+  {
+    "level": "n3",
+    "kanji": "痛",
+    "arti": "nyeri"
+  },
+  {
+    "level": "n3",
+    "kanji": "笑",
+    "arti": "tertawa"
+  },
+  {
+    "level": "n3",
+    "kanji": "互",
+    "arti": "saling"
+  },
+  {
+    "level": "n3",
+    "kanji": "束",
+    "arti": "paket"
+  },
+  {
+    "level": "n3",
+    "kanji": "似",
+    "arti": "menjadi"
+  },
+  {
+    "level": "n3",
+    "kanji": "列",
+    "arti": "berkas"
+  },
+  {
+    "level": "n3",
+    "kanji": "探",
+    "arti": "meraba"
+  },
+  {
+    "level": "n3",
+    "kanji": "逃",
+    "arti": "melarikan diri"
+  },
+  {
+    "level": "n3",
+    "kanji": "遊",
+    "arti": "bermain"
+  },
+  {
+    "level": "n3",
+    "kanji": "迷",
+    "arti": "tersesat"
+  },
+  {
+    "level": "n3",
+    "kanji": "夢",
+    "arti": "mimpi"
+  },
+  {
+    "level": "n3",
+    "kanji": "君",
+    "arti": "tuan"
+  },
+  {
+    "level": "n3",
+    "kanji": "閉",
+    "arti": "tertutup"
+  },
+  {
+    "level": "n3",
+    "kanji": "緒",
+    "arti": "tong"
+  },
+  {
+    "level": "n3",
+    "kanji": "折",
+    "arti": "lipat"
+  },
+  {
+    "level": "n3",
+    "kanji": "草",
+    "arti": "rumput"
+  },
+  {
+    "level": "n3",
+    "kanji": "暮",
+    "arti": "malam"
+  },
+  {
+    "level": "n3",
+    "kanji": "酒",
+    "arti": "sake"
+  },
+  {
+    "level": "n3",
+    "kanji": "悲",
+    "arti": "berduka"
+  },
+  {
+    "level": "n3",
+    "kanji": "晴",
+    "arti": "bereskan"
+  },
+  {
+    "level": "n3",
+    "kanji": "掛",
+    "arti": "menggantung"
+  },
+  {
+    "level": "n3",
+    "kanji": "到",
+    "arti": "kedatangan"
+  },
+  {
+    "level": "n3",
+    "kanji": "寝",
+    "arti": "berbaring"
+  },
+  {
+    "level": "n3",
+    "kanji": "暗",
+    "arti": "kegelapan"
+  },
+  {
+    "level": "n3",
+    "kanji": "盗",
+    "arti": "mencuri"
+  },
+  {
+    "level": "n3",
+    "kanji": "吸",
+    "arti": "menghisap"
+  },
+  {
+    "level": "n3",
+    "kanji": "陽",
+    "arti": "sinar matahari"
+  },
+  {
+    "level": "n3",
+    "kanji": "御",
+    "arti": "terhormat"
+  },
+  {
+    "level": "n3",
+    "kanji": "歯",
+    "arti": "gigi"
+  },
+  {
+    "level": "n3",
+    "kanji": "忘",
+    "arti": "lupakan"
+  },
+  {
+    "level": "n3",
+    "kanji": "雪",
+    "arti": "salju"
+  },
+  {
+    "level": "n3",
+    "kanji": "吹",
+    "arti": "tiup"
+  },
+  {
+    "level": "n3",
+    "kanji": "娘",
+    "arti": "putri"
+  },
+  {
+    "level": "n3",
+    "kanji": "誤",
+    "arti": "kesalahan"
+  },
+  {
+    "level": "n3",
+    "kanji": "洗",
+    "arti": "cuci"
+  },
+  {
+    "level": "n3",
+    "kanji": "慣",
+    "arti": "terbiasa"
+  },
+  {
+    "level": "n3",
+    "kanji": "礼",
+    "arti": "salam"
+  },
+  {
+    "level": "n3",
+    "kanji": "窓",
+    "arti": "jendela"
+  },
+  {
+    "level": "n3",
+    "kanji": "昔",
+    "arti": "pada suatu waktu"
+  },
+  {
+    "level": "n3",
+    "kanji": "貧",
+    "arti": "kemiskinan"
+  },
+  {
+    "level": "n3",
+    "kanji": "怒",
+    "arti": "marah"
+  },
+  {
+    "level": "n3",
+    "kanji": "泳",
+    "arti": "berenang"
+  },
+  {
+    "level": "n3",
+    "kanji": "祖",
+    "arti": "nenek moyang"
+  },
+  {
+    "level": "n3",
+    "kanji": "杯",
+    "arti": "takaran cangkir"
+  },
+  {
+    "level": "n3",
+    "kanji": "疲",
+    "arti": "lelah"
+  },
+  {
+    "level": "n3",
+    "kanji": "皆",
+    "arti": "semua"
+  },
+  {
+    "level": "n3",
+    "kanji": "鳴",
+    "arti": "berkicau"
+  },
+  {
+    "level": "n3",
+    "kanji": "腹",
+    "arti": "perut"
+  },
+  {
+    "level": "n3",
+    "kanji": "煙",
+    "arti": "asap"
+  },
+  {
+    "level": "n3",
+    "kanji": "眠",
+    "arti": "tidur"
+  },
+  {
+    "level": "n3",
+    "kanji": "怖",
+    "arti": "mengerikan"
+  },
+  {
+    "level": "n3",
+    "kanji": "耳",
+    "arti": "telinga"
+  },
+  {
+    "level": "n3",
+    "kanji": "頂",
+    "arti": "tempatkan di kepala"
+  },
+  {
+    "level": "n3",
+    "kanji": "箱",
+    "arti": "kotak"
+  },
+  {
+    "level": "n3",
+    "kanji": "晩",
+    "arti": "senja"
+  },
+  {
+    "level": "n3",
+    "kanji": "寒",
+    "arti": "dingin"
+  },
+  {
+    "level": "n3",
+    "kanji": "髪",
+    "arti": "rambut kepala"
+  },
+  {
+    "level": "n3",
+    "kanji": "忙",
+    "arti": "sibuk"
+  },
+  {
+    "level": "n3",
+    "kanji": "才",
+    "arti": "jenius"
+  },
+  {
+    "level": "n3",
+    "kanji": "靴",
+    "arti": "sepatu"
+  },
+  {
+    "level": "n3",
+    "kanji": "恥",
+    "arti": "malu"
+  },
+  {
+    "level": "n3",
+    "kanji": "偶",
+    "arti": "secara tidak sengaja"
+  },
+  {
+    "level": "n3",
+    "kanji": "偉",
+    "arti": "dapat dikagumi"
+  },
+  {
+    "level": "n3",
+    "kanji": "猫",
+    "arti": "kucing"
+  },
+  {
+    "level": "n3",
+    "kanji": "幾",
+    "arti": "berapa banyak"
+  },
+  {
+    "level": "n3",
+    "kanji": "誰",
+    "arti": "siapa"
+  },
+  {
+    "level": "n3",
+    "kanji": "俺",
+    "arti": "saya"
+  },
+  {
+    "level": "n2",
+    "kanji": "党",
+    "arti": "pesta"
+  },
+  {
+    "level": "n2",
+    "kanji": "協",
+    "arti": "bersama-sama"
+  },
+  {
+    "level": "n2",
+    "kanji": "総",
+    "arti": "umum"
+  },
+  {
+    "level": "n2",
+    "kanji": "区",
+    "arti": "bangsal"
+  },
+  {
+    "level": "n2",
+    "kanji": "領",
+    "arti": "yurisdiksi"
+  },
+  {
+    "level": "n2",
+    "kanji": "県",
+    "arti": "prefektur"
+  },
+  {
+    "level": "n2",
+    "kanji": "設",
+    "arti": "lembaga"
+  },
+  {
+    "level": "n2",
+    "kanji": "改",
+    "arti": "reformasi"
+  },
+  {
+    "level": "n2",
+    "kanji": "府",
+    "arti": "kabupaten"
+  },
+  {
+    "level": "n2",
+    "kanji": "査",
+    "arti": "menyelidiki"
+  },
+  {
+    "level": "n2",
+    "kanji": "委",
+    "arti": "komite"
+  },
+  {
+    "level": "n2",
+    "kanji": "軍",
+    "arti": "tentara"
+  },
+  {
+    "level": "n2",
+    "kanji": "団",
+    "arti": "kelompok"
+  },
+  {
+    "level": "n2",
+    "kanji": "各",
+    "arti": "masing-masing"
+  },
+  {
+    "level": "n2",
+    "kanji": "島",
+    "arti": "pulau"
+  },
+  {
+    "level": "n2",
+    "kanji": "革",
+    "arti": "kulit"
+  },
+  {
+    "level": "n2",
+    "kanji": "村",
+    "arti": "desa"
+  },
+  {
+    "level": "n2",
+    "kanji": "勢",
+    "arti": "kekuatan"
+  },
+  {
+    "level": "n2",
+    "kanji": "減",
+    "arti": "berkurang"
+  },
+  {
+    "level": "n2",
+    "kanji": "再",
+    "arti": "lagi"
+  },
+  {
+    "level": "n2",
+    "kanji": "税",
+    "arti": "pajak"
+  },
+  {
+    "level": "n2",
+    "kanji": "営",
+    "arti": "pekerjaan"
+  },
+  {
+    "level": "n2",
+    "kanji": "比",
+    "arti": "bandingkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "防",
+    "arti": "menangkis"
+  },
+  {
+    "level": "n2",
+    "kanji": "補",
+    "arti": "suplemen"
+  },
+  {
+    "level": "n2",
+    "kanji": "境",
+    "arti": "batas"
+  },
+  {
+    "level": "n2",
+    "kanji": "導",
+    "arti": "bimbingan"
+  },
+  {
+    "level": "n2",
+    "kanji": "副",
+    "arti": "wakil-"
+  },
+  {
+    "level": "n2",
+    "kanji": "算",
+    "arti": "menghitung"
+  },
+  {
+    "level": "n2",
+    "kanji": "輸",
+    "arti": "transportasi"
+  },
+  {
+    "level": "n2",
+    "kanji": "述",
+    "arti": "sebutkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "線",
+    "arti": "garis"
+  },
+  {
+    "level": "n2",
+    "kanji": "農",
+    "arti": "pertanian"
+  },
+  {
+    "level": "n2",
+    "kanji": "州",
+    "arti": "negara"
+  },
+  {
+    "level": "n2",
+    "kanji": "武",
+    "arti": "pejuang"
+  },
+  {
+    "level": "n2",
+    "kanji": "象",
+    "arti": "gajah"
+  },
+  {
+    "level": "n2",
+    "kanji": "域",
+    "arti": "jangkauan"
+  },
+  {
+    "level": "n2",
+    "kanji": "額",
+    "arti": "dahi"
+  },
+  {
+    "level": "n2",
+    "kanji": "欧",
+    "arti": "eropa"
+  },
+  {
+    "level": "n2",
+    "kanji": "担",
+    "arti": "membahu"
+  },
+  {
+    "level": "n2",
+    "kanji": "準",
+    "arti": "semi-"
+  },
+  {
+    "level": "n2",
+    "kanji": "賞",
+    "arti": "hadiah"
+  },
+  {
+    "level": "n2",
+    "kanji": "辺",
+    "arti": "sekitar"
+  },
+  {
+    "level": "n2",
+    "kanji": "造",
+    "arti": "membuat"
+  },
+  {
+    "level": "n2",
+    "kanji": "被",
+    "arti": "mendatangkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "技",
+    "arti": "keterampilan"
+  },
+  {
+    "level": "n2",
+    "kanji": "低",
+    "arti": "lebih rendah"
+  },
+  {
+    "level": "n2",
+    "kanji": "復",
+    "arti": "memulihkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "韓",
+    "arti": "korea"
+  },
+  {
+    "level": "n2",
+    "kanji": "移",
+    "arti": "berganti"
+  },
+  {
+    "level": "n2",
+    "kanji": "個",
+    "arti": "individu"
+  },
+  {
+    "level": "n2",
+    "kanji": "門",
+    "arti": "gerbang"
+  },
+  {
+    "level": "n2",
+    "kanji": "課",
+    "arti": "bab"
+  },
+  {
+    "level": "n2",
+    "kanji": "脳",
+    "arti": "otak"
+  },
+  {
+    "level": "n2",
+    "kanji": "極",
+    "arti": "mengilapkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "含",
+    "arti": "mengandung"
+  },
+  {
+    "level": "n2",
+    "kanji": "蔵",
+    "arti": "gudang"
+  },
+  {
+    "level": "n2",
+    "kanji": "量",
+    "arti": "kuantitas"
+  },
+  {
+    "level": "n2",
+    "kanji": "型",
+    "arti": "cetakan"
+  },
+  {
+    "level": "n2",
+    "kanji": "況",
+    "arti": "kondisi"
+  },
+  {
+    "level": "n2",
+    "kanji": "阪",
+    "arti": "ketinggian"
+  },
+  {
+    "level": "n2",
+    "kanji": "針",
+    "arti": "jarum"
+  },
+  {
+    "level": "n2",
+    "kanji": "専",
+    "arti": "keahlian khusus"
+  },
+  {
+    "level": "n2",
+    "kanji": "谷",
+    "arti": "lembah"
+  },
+  {
+    "level": "n2",
+    "kanji": "史",
+    "arti": "sejarah"
+  },
+  {
+    "level": "n2",
+    "kanji": "階",
+    "arti": "lantai"
+  },
+  {
+    "level": "n2",
+    "kanji": "管",
+    "arti": "pipa"
+  },
+  {
+    "level": "n2",
+    "kanji": "兵",
+    "arti": "prajurit"
+  },
+  {
+    "level": "n2",
+    "kanji": "接",
+    "arti": "sentuh"
+  },
+  {
+    "level": "n2",
+    "kanji": "細",
+    "arti": "anggun"
+  },
+  {
+    "level": "n2",
+    "kanji": "効",
+    "arti": "jasa"
+  },
+  {
+    "level": "n2",
+    "kanji": "丸",
+    "arti": "bulat"
+  },
+  {
+    "level": "n2",
+    "kanji": "湾",
+    "arti": "teluk"
+  },
+  {
+    "level": "n2",
+    "kanji": "録",
+    "arti": "rekaman"
+  },
+  {
+    "level": "n2",
+    "kanji": "省",
+    "arti": "fokus"
+  },
+  {
+    "level": "n2",
+    "kanji": "旧",
+    "arti": "zaman dulu"
+  },
+  {
+    "level": "n2",
+    "kanji": "橋",
+    "arti": "jembatan"
+  },
+  {
+    "level": "n2",
+    "kanji": "岸",
+    "arti": "pantai"
+  },
+  {
+    "level": "n2",
+    "kanji": "周",
+    "arti": "keliling"
+  },
+  {
+    "level": "n2",
+    "kanji": "材",
+    "arti": "kayu"
+  },
+  {
+    "level": "n2",
+    "kanji": "戸",
+    "arti": "pintu"
+  },
+  {
+    "level": "n2",
+    "kanji": "央",
+    "arti": "pusat"
+  },
+  {
+    "level": "n2",
+    "kanji": "券",
+    "arti": "tiket"
+  },
+  {
+    "level": "n2",
+    "kanji": "編",
+    "arti": "kompilasi"
+  },
+  {
+    "level": "n2",
+    "kanji": "捜",
+    "arti": "cari"
+  },
+  {
+    "level": "n2",
+    "kanji": "竹",
+    "arti": "bambu"
+  },
+  {
+    "level": "n2",
+    "kanji": "超",
+    "arti": "melampaui"
+  },
+  {
+    "level": "n2",
+    "kanji": "並",
+    "arti": "baris"
+  },
+  {
+    "level": "n2",
+    "kanji": "療",
+    "arti": "sembuhkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "採",
+    "arti": "pilih"
+  },
+  {
+    "level": "n2",
+    "kanji": "森",
+    "arti": "hutan"
+  },
+  {
+    "level": "n2",
+    "kanji": "競",
+    "arti": "meniru"
+  },
+  {
+    "level": "n2",
+    "kanji": "介",
+    "arti": "macet di"
+  },
+  {
+    "level": "n2",
+    "kanji": "根",
+    "arti": "akar"
+  },
+  {
+    "level": "n2",
+    "kanji": "販",
+    "arti": "pemasaran"
+  },
+  {
+    "level": "n2",
+    "kanji": "歴",
+    "arti": "kurikulum"
+  },
+  {
+    "level": "n2",
+    "kanji": "将",
+    "arti": "pemimpin"
+  },
+  {
+    "level": "n2",
+    "kanji": "幅",
+    "arti": "gulungan gantung"
+  },
+  {
+    "level": "n2",
+    "kanji": "般",
+    "arti": "pembawa"
+  },
+  {
+    "level": "n2",
+    "kanji": "貿",
+    "arti": "perdagangan"
+  },
+  {
+    "level": "n2",
+    "kanji": "講",
+    "arti": "kuliah"
+  },
+  {
+    "level": "n2",
+    "kanji": "林",
+    "arti": "hutan kecil"
+  },
+  {
+    "level": "n2",
+    "kanji": "装",
+    "arti": "pakaian"
+  },
+  {
+    "level": "n2",
+    "kanji": "諸",
+    "arti": "berbagai"
+  },
+  {
+    "level": "n2",
+    "kanji": "劇",
+    "arti": "drama"
+  },
+  {
+    "level": "n2",
+    "kanji": "河",
+    "arti": "sungai"
+  },
+  {
+    "level": "n2",
+    "kanji": "航",
+    "arti": "navigasi"
+  },
+  {
+    "level": "n2",
+    "kanji": "鉄",
+    "arti": "besi"
+  },
+  {
+    "level": "n2",
+    "kanji": "児",
+    "arti": "bayi baru lahir"
+  },
+  {
+    "level": "n2",
+    "kanji": "禁",
+    "arti": "larangan"
+  },
+  {
+    "level": "n2",
+    "kanji": "印",
+    "arti": "cap"
+  },
+  {
+    "level": "n2",
+    "kanji": "逆",
+    "arti": "terbalik"
+  },
+  {
+    "level": "n2",
+    "kanji": "換",
+    "arti": "pertukaran"
+  },
+  {
+    "level": "n2",
+    "kanji": "久",
+    "arti": "waktu yang lama"
+  },
+  {
+    "level": "n2",
+    "kanji": "短",
+    "arti": "pendek"
+  },
+  {
+    "level": "n2",
+    "kanji": "油",
+    "arti": "minyak"
+  },
+  {
+    "level": "n2",
+    "kanji": "暴",
+    "arti": "ledakan emosi"
+  },
+  {
+    "level": "n2",
+    "kanji": "輪",
+    "arti": "roda"
+  },
+  {
+    "level": "n2",
+    "kanji": "占",
+    "arti": "ramalan"
+  },
+  {
+    "level": "n2",
+    "kanji": "植",
+    "arti": "tanaman"
+  },
+  {
+    "level": "n2",
+    "kanji": "清",
+    "arti": "murni"
+  },
+  {
+    "level": "n2",
+    "kanji": "倍",
+    "arti": "ganda"
+  },
+  {
+    "level": "n2",
+    "kanji": "均",
+    "arti": "tingkat"
+  },
+  {
+    "level": "n2",
+    "kanji": "億",
+    "arti": "seratus juta"
+  },
+  {
+    "level": "n2",
+    "kanji": "圧",
+    "arti": "tekanan"
+  },
+  {
+    "level": "n2",
+    "kanji": "芸",
+    "arti": "teknik"
+  },
+  {
+    "level": "n2",
+    "kanji": "署",
+    "arti": "tanda tangan"
+  },
+  {
+    "level": "n2",
+    "kanji": "伸",
+    "arti": "mengembangkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "停",
+    "arti": "berhenti"
+  },
+  {
+    "level": "n2",
+    "kanji": "爆",
+    "arti": "bom"
+  },
+  {
+    "level": "n2",
+    "kanji": "陸",
+    "arti": "tanah"
+  },
+  {
+    "level": "n2",
+    "kanji": "玉",
+    "arti": "permata"
+  },
+  {
+    "level": "n2",
+    "kanji": "波",
+    "arti": "gelombang"
+  },
+  {
+    "level": "n2",
+    "kanji": "狙",
+    "arti": "bidik pada"
+  },
+  {
+    "level": "n2",
+    "kanji": "帯",
+    "arti": "selendang"
+  },
+  {
+    "level": "n2",
+    "kanji": "延",
+    "arti": "memperpanjang"
+  },
+  {
+    "level": "n2",
+    "kanji": "羽",
+    "arti": "bulu"
+  },
+  {
+    "level": "n2",
+    "kanji": "固",
+    "arti": "mengeras"
+  },
+  {
+    "level": "n2",
+    "kanji": "則",
+    "arti": "aturan"
+  },
+  {
+    "level": "n2",
+    "kanji": "乱",
+    "arti": "kerusuhan"
+  },
+  {
+    "level": "n2",
+    "kanji": "普",
+    "arti": "universal"
+  },
+  {
+    "level": "n2",
+    "kanji": "測",
+    "arti": "mengerti"
+  },
+  {
+    "level": "n2",
+    "kanji": "豊",
+    "arti": "berlimpah"
+  },
+  {
+    "level": "n2",
+    "kanji": "厚",
+    "arti": "tebal"
+  },
+  {
+    "level": "n2",
+    "kanji": "齢",
+    "arti": "usia"
+  },
+  {
+    "level": "n2",
+    "kanji": "囲",
+    "arti": "mengelilingi"
+  },
+  {
+    "level": "n2",
+    "kanji": "卒",
+    "arti": "lulus"
+  },
+  {
+    "level": "n2",
+    "kanji": "略",
+    "arti": "singkatan"
+  },
+  {
+    "level": "n2",
+    "kanji": "承",
+    "arti": "setuju secara diam-diam"
+  },
+  {
+    "level": "n2",
+    "kanji": "順",
+    "arti": "patuhi"
+  },
+  {
+    "level": "n2",
+    "kanji": "岩",
+    "arti": "batu besar"
+  },
+  {
+    "level": "n2",
+    "kanji": "練",
+    "arti": "latihan"
+  },
+  {
+    "level": "n2",
+    "kanji": "軽",
+    "arti": "ringan"
+  },
+  {
+    "level": "n2",
+    "kanji": "了",
+    "arti": "lengkap"
+  },
+  {
+    "level": "n2",
+    "kanji": "庁",
+    "arti": "kantor pemerintahan"
+  },
+  {
+    "level": "n2",
+    "kanji": "城",
+    "arti": "kastil"
+  },
+  {
+    "level": "n2",
+    "kanji": "患",
+    "arti": "terkena"
+  },
+  {
+    "level": "n2",
+    "kanji": "層",
+    "arti": "lapisan"
+  },
+  {
+    "level": "n2",
+    "kanji": "版",
+    "arti": "blok cetak"
+  },
+  {
+    "level": "n2",
+    "kanji": "令",
+    "arti": "pesanan"
+  },
+  {
+    "level": "n2",
+    "kanji": "角",
+    "arti": "sudut"
+  },
+  {
+    "level": "n2",
+    "kanji": "絡",
+    "arti": "melilit"
+  },
+  {
+    "level": "n2",
+    "kanji": "損",
+    "arti": "kerusakan"
+  },
+  {
+    "level": "n2",
+    "kanji": "募",
+    "arti": "merekrut"
+  },
+  {
+    "level": "n2",
+    "kanji": "裏",
+    "arti": "kembali"
+  },
+  {
+    "level": "n2",
+    "kanji": "仏",
+    "arti": "Buddha"
+  },
+  {
+    "level": "n2",
+    "kanji": "績",
+    "arti": "eksploitasi"
+  },
+  {
+    "level": "n2",
+    "kanji": "築",
+    "arti": "mengarang"
+  },
+  {
+    "level": "n2",
+    "kanji": "貨",
+    "arti": "kargo"
+  },
+  {
+    "level": "n2",
+    "kanji": "混",
+    "arti": "campur"
+  },
+  {
+    "level": "n2",
+    "kanji": "昇",
+    "arti": "bangkit"
+  },
+  {
+    "level": "n2",
+    "kanji": "池",
+    "arti": "kolam"
+  },
+  {
+    "level": "n2",
+    "kanji": "血",
+    "arti": "darah"
+  },
+  {
+    "level": "n2",
+    "kanji": "温",
+    "arti": "hangat"
+  },
+  {
+    "level": "n2",
+    "kanji": "季",
+    "arti": "musim"
+  },
+  {
+    "level": "n2",
+    "kanji": "星",
+    "arti": "bintang"
+  },
+  {
+    "level": "n2",
+    "kanji": "永",
+    "arti": "keabadian"
+  },
+  {
+    "level": "n2",
+    "kanji": "著",
+    "arti": "terkenal"
+  },
+  {
+    "level": "n2",
+    "kanji": "誌",
+    "arti": "dokumen"
+  },
+  {
+    "level": "n2",
+    "kanji": "庫",
+    "arti": "gudang"
+  },
+  {
+    "level": "n2",
+    "kanji": "刊",
+    "arti": "menerbitkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "像",
+    "arti": "patung"
+  },
+  {
+    "level": "n2",
+    "kanji": "香",
+    "arti": "dupa"
+  },
+  {
+    "level": "n2",
+    "kanji": "坂",
+    "arti": "lereng"
+  },
+  {
+    "level": "n2",
+    "kanji": "底",
+    "arti": "bawah"
+  },
+  {
+    "level": "n2",
+    "kanji": "布",
+    "arti": "linen"
+  },
+  {
+    "level": "n2",
+    "kanji": "寺",
+    "arti": "kuil buddha"
+  },
+  {
+    "level": "n2",
+    "kanji": "宇",
+    "arti": "talang"
+  },
+  {
+    "level": "n2",
+    "kanji": "巨",
+    "arti": "raksasa"
+  },
+  {
+    "level": "n2",
+    "kanji": "震",
+    "arti": "gempa"
+  },
+  {
+    "level": "n2",
+    "kanji": "希",
+    "arti": "harapan"
+  },
+  {
+    "level": "n2",
+    "kanji": "触",
+    "arti": "kontak"
+  },
+  {
+    "level": "n2",
+    "kanji": "依",
+    "arti": "bergantung"
+  },
+  {
+    "level": "n2",
+    "kanji": "籍",
+    "arti": "mendaftar"
+  },
+  {
+    "level": "n2",
+    "kanji": "汚",
+    "arti": "kotor"
+  },
+  {
+    "level": "n2",
+    "kanji": "枚",
+    "arti": "lembaran..."
+  },
+  {
+    "level": "n2",
+    "kanji": "複",
+    "arti": "duplikat"
+  },
+  {
+    "level": "n2",
+    "kanji": "郵",
+    "arti": "surat"
+  },
+  {
+    "level": "n2",
+    "kanji": "仲",
+    "arti": "perantara"
+  },
+  {
+    "level": "n2",
+    "kanji": "栄",
+    "arti": "berkembang"
+  },
+  {
+    "level": "n2",
+    "kanji": "札",
+    "arti": "label"
+  },
+  {
+    "level": "n2",
+    "kanji": "板",
+    "arti": "papan"
+  },
+  {
+    "level": "n2",
+    "kanji": "骨",
+    "arti": "kerangka"
+  },
+  {
+    "level": "n2",
+    "kanji": "傾",
+    "arti": "miring"
+  },
+  {
+    "level": "n2",
+    "kanji": "届",
+    "arti": "mengantarkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "巻",
+    "arti": "gulir"
+  },
+  {
+    "level": "n2",
+    "kanji": "燃",
+    "arti": "membakar"
+  },
+  {
+    "level": "n2",
+    "kanji": "跡",
+    "arti": "jejak"
+  },
+  {
+    "level": "n2",
+    "kanji": "包",
+    "arti": "membungkus"
+  },
+  {
+    "level": "n2",
+    "kanji": "駐",
+    "arti": "singgah"
+  },
+  {
+    "level": "n2",
+    "kanji": "弱",
+    "arti": "lemah"
+  },
+  {
+    "level": "n2",
+    "kanji": "紹",
+    "arti": "memperkenalkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "雇",
+    "arti": "mempekerjakan"
+  },
+  {
+    "level": "n2",
+    "kanji": "替",
+    "arti": "pertukaran"
+  },
+  {
+    "level": "n2",
+    "kanji": "預",
+    "arti": "deposito"
+  },
+  {
+    "level": "n2",
+    "kanji": "焼",
+    "arti": "memanggang"
+  },
+  {
+    "level": "n2",
+    "kanji": "簡",
+    "arti": "kesederhanaan"
+  },
+  {
+    "level": "n2",
+    "kanji": "章",
+    "arti": "lencana"
+  },
+  {
+    "level": "n2",
+    "kanji": "臓",
+    "arti": "jeroan"
+  },
+  {
+    "level": "n2",
+    "kanji": "律",
+    "arti": "irama"
+  },
+  {
+    "level": "n2",
+    "kanji": "贈",
+    "arti": "hadiah"
+  },
+  {
+    "level": "n2",
+    "kanji": "照",
+    "arti": "menyinari"
+  },
+  {
+    "level": "n2",
+    "kanji": "薄",
+    "arti": "encerkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "群",
+    "arti": "kawanan"
+  },
+  {
+    "level": "n2",
+    "kanji": "秒",
+    "arti": "detik"
+  },
+  {
+    "level": "n2",
+    "kanji": "奥",
+    "arti": "jantung"
+  },
+  {
+    "level": "n2",
+    "kanji": "詰",
+    "arti": "penuh"
+  },
+  {
+    "level": "n2",
+    "kanji": "双",
+    "arti": "pasangan"
+  },
+  {
+    "level": "n2",
+    "kanji": "刺",
+    "arti": "duri"
+  },
+  {
+    "level": "n2",
+    "kanji": "純",
+    "arti": "asli"
+  },
+  {
+    "level": "n2",
+    "kanji": "翌",
+    "arti": "berikut ini"
+  },
+  {
+    "level": "n2",
+    "kanji": "快",
+    "arti": "ceria"
+  },
+  {
+    "level": "n2",
+    "kanji": "片",
+    "arti": "sepihak"
+  },
+  {
+    "level": "n2",
+    "kanji": "敬",
+    "arti": "kagum"
+  },
+  {
+    "level": "n2",
+    "kanji": "悩",
+    "arti": "masalah"
+  },
+  {
+    "level": "n2",
+    "kanji": "泉",
+    "arti": "musim semi"
+  },
+  {
+    "level": "n2",
+    "kanji": "皮",
+    "arti": "kulit bulu"
+  },
+  {
+    "level": "n2",
+    "kanji": "漁",
+    "arti": "memancing"
+  },
+  {
+    "level": "n2",
+    "kanji": "里",
+    "arti": "rhode island"
+  },
+  {
+    "level": "n2",
+    "kanji": "荒",
+    "arti": "dihancurkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "貯",
+    "arti": "tabungan"
+  },
+  {
+    "level": "n2",
+    "kanji": "硬",
+    "arti": "kaku"
+  },
+  {
+    "level": "n2",
+    "kanji": "埋",
+    "arti": "mengubur"
+  },
+  {
+    "level": "n2",
+    "kanji": "柱",
+    "arti": "tiang"
+  },
+  {
+    "level": "n2",
+    "kanji": "祭",
+    "arti": "ritual"
+  },
+  {
+    "level": "n2",
+    "kanji": "袋",
+    "arti": "karung"
+  },
+  {
+    "level": "n2",
+    "kanji": "筆",
+    "arti": "kuas tulis"
+  },
+  {
+    "level": "n2",
+    "kanji": "訓",
+    "arti": "instruksi"
+  },
+  {
+    "level": "n2",
+    "kanji": "浴",
+    "arti": "mandi"
+  },
+  {
+    "level": "n2",
+    "kanji": "童",
+    "arti": "remaja"
+  },
+  {
+    "level": "n2",
+    "kanji": "宝",
+    "arti": "harta karun"
+  },
+  {
+    "level": "n2",
+    "kanji": "封",
+    "arti": "segel"
+  },
+  {
+    "level": "n2",
+    "kanji": "胸",
+    "arti": "dada"
+  },
+  {
+    "level": "n2",
+    "kanji": "砂",
+    "arti": "pasir"
+  },
+  {
+    "level": "n2",
+    "kanji": "塩",
+    "arti": "garam"
+  },
+  {
+    "level": "n2",
+    "kanji": "賢",
+    "arti": "cerdas"
+  },
+  {
+    "level": "n2",
+    "kanji": "腕",
+    "arti": "lengan"
+  },
+  {
+    "level": "n2",
+    "kanji": "兆",
+    "arti": "pertanda"
+  },
+  {
+    "level": "n2",
+    "kanji": "床",
+    "arti": "tempat tidur"
+  },
+  {
+    "level": "n2",
+    "kanji": "毛",
+    "arti": "bulu"
+  },
+  {
+    "level": "n2",
+    "kanji": "緑",
+    "arti": "hijau"
+  },
+  {
+    "level": "n2",
+    "kanji": "尊",
+    "arti": "dihormati"
+  },
+  {
+    "level": "n2",
+    "kanji": "祝",
+    "arti": "merayakan"
+  },
+  {
+    "level": "n2",
+    "kanji": "柔",
+    "arti": "lembut"
+  },
+  {
+    "level": "n2",
+    "kanji": "殿",
+    "arti": "Tuan"
+  },
+  {
+    "level": "n2",
+    "kanji": "濃",
+    "arti": "terkonsentrasi"
+  },
+  {
+    "level": "n2",
+    "kanji": "液",
+    "arti": "cairan"
+  },
+  {
+    "level": "n2",
+    "kanji": "衣",
+    "arti": "pakaian"
+  },
+  {
+    "level": "n2",
+    "kanji": "肩",
+    "arti": "bahu"
+  },
+  {
+    "level": "n2",
+    "kanji": "零",
+    "arti": "nol"
+  },
+  {
+    "level": "n2",
+    "kanji": "幼",
+    "arti": "masa bayi"
+  },
+  {
+    "level": "n2",
+    "kanji": "荷",
+    "arti": "bagasi"
+  },
+  {
+    "level": "n2",
+    "kanji": "泊",
+    "arti": "menginap"
+  },
+  {
+    "level": "n2",
+    "kanji": "黄",
+    "arti": "kuning"
+  },
+  {
+    "level": "n2",
+    "kanji": "寿",
+    "arti": "umur panjang"
+  },
+  {
+    "level": "n2",
+    "kanji": "甘",
+    "arti": "manis"
+  },
+  {
+    "level": "n2",
+    "kanji": "臣",
+    "arti": "retainer"
+  },
+  {
+    "level": "n2",
+    "kanji": "浅",
+    "arti": "dangkal"
+  },
+  {
+    "level": "n2",
+    "kanji": "掃",
+    "arti": "menyapu"
+  },
+  {
+    "level": "n2",
+    "kanji": "雲",
+    "arti": "awan"
+  },
+  {
+    "level": "n2",
+    "kanji": "掘",
+    "arti": "gali"
+  },
+  {
+    "level": "n2",
+    "kanji": "捨",
+    "arti": "membuang"
+  },
+  {
+    "level": "n2",
+    "kanji": "軟",
+    "arti": "lembut"
+  },
+  {
+    "level": "n2",
+    "kanji": "沈",
+    "arti": "wastafel"
+  },
+  {
+    "level": "n2",
+    "kanji": "凍",
+    "arti": "beku"
+  },
+  {
+    "level": "n2",
+    "kanji": "乳",
+    "arti": "susu"
+  },
+  {
+    "level": "n2",
+    "kanji": "恋",
+    "arti": "romansa"
+  },
+  {
+    "level": "n2",
+    "kanji": "紅",
+    "arti": "merah tua"
+  },
+  {
+    "level": "n2",
+    "kanji": "郊",
+    "arti": "pinggiran"
+  },
+  {
+    "level": "n2",
+    "kanji": "腰",
+    "arti": "lumbar"
+  },
+  {
+    "level": "n2",
+    "kanji": "炭",
+    "arti": "arang"
+  },
+  {
+    "level": "n2",
+    "kanji": "踊",
+    "arti": "lompat"
+  },
+  {
+    "level": "n2",
+    "kanji": "冊",
+    "arti": "jilid"
+  },
+  {
+    "level": "n2",
+    "kanji": "勇",
+    "arti": "keberanian"
+  },
+  {
+    "level": "n2",
+    "kanji": "械",
+    "arti": "alat"
+  },
+  {
+    "level": "n2",
+    "kanji": "菜",
+    "arti": "sayuran"
+  },
+  {
+    "level": "n2",
+    "kanji": "珍",
+    "arti": "langka"
+  },
+  {
+    "level": "n2",
+    "kanji": "卵",
+    "arti": "telur"
+  },
+  {
+    "level": "n2",
+    "kanji": "湖",
+    "arti": "danau"
+  },
+  {
+    "level": "n2",
+    "kanji": "喫",
+    "arti": "mengonsumsi"
+  },
+  {
+    "level": "n2",
+    "kanji": "干",
+    "arti": "kering"
+  },
+  {
+    "level": "n2",
+    "kanji": "虫",
+    "arti": "serangga"
+  },
+  {
+    "level": "n2",
+    "kanji": "刷",
+    "arti": "percetakan"
+  },
+  {
+    "level": "n2",
+    "kanji": "湯",
+    "arti": "air panas"
+  },
+  {
+    "level": "n2",
+    "kanji": "溶",
+    "arti": "meleleh"
+  },
+  {
+    "level": "n2",
+    "kanji": "丈",
+    "arti": "panjang"
+  },
+  {
+    "level": "n2",
+    "kanji": "鉱",
+    "arti": "mineral"
+  },
+  {
+    "level": "n2",
+    "kanji": "涙",
+    "arti": "air mata"
+  },
+  {
+    "level": "n2",
+    "kanji": "匹",
+    "arti": "sama"
+  },
+  {
+    "level": "n2",
+    "kanji": "孫",
+    "arti": "cucu"
+  },
+  {
+    "level": "n2",
+    "kanji": "鋭",
+    "arti": "menunjuk"
+  },
+  {
+    "level": "n2",
+    "kanji": "枝",
+    "arti": "dahan"
+  },
+  {
+    "level": "n2",
+    "kanji": "塗",
+    "arti": "cat"
+  },
+  {
+    "level": "n2",
+    "kanji": "軒",
+    "arti": "datar"
+  },
+  {
+    "level": "n2",
+    "kanji": "毒",
+    "arti": "racun"
+  },
+  {
+    "level": "n2",
+    "kanji": "叫",
+    "arti": "berteriak"
+  },
+  {
+    "level": "n2",
+    "kanji": "拝",
+    "arti": "ibadah"
+  },
+  {
+    "level": "n2",
+    "kanji": "氷",
+    "arti": "es batu"
+  },
+  {
+    "level": "n2",
+    "kanji": "乾",
+    "arti": "kekeringan"
+  },
+  {
+    "level": "n2",
+    "kanji": "棒",
+    "arti": "batang"
+  },
+  {
+    "level": "n2",
+    "kanji": "祈",
+    "arti": "berdoa"
+  },
+  {
+    "level": "n2",
+    "kanji": "拾",
+    "arti": "mengambil"
+  },
+  {
+    "level": "n2",
+    "kanji": "粉",
+    "arti": "tepung"
+  },
+  {
+    "level": "n2",
+    "kanji": "糸",
+    "arti": "benang"
+  },
+  {
+    "level": "n2",
+    "kanji": "綿",
+    "arti": "kapas"
+  },
+  {
+    "level": "n2",
+    "kanji": "汗",
+    "arti": "keringat"
+  },
+  {
+    "level": "n2",
+    "kanji": "銅",
+    "arti": "tembaga"
+  },
+  {
+    "level": "n2",
+    "kanji": "湿",
+    "arti": "lembap"
+  },
+  {
+    "level": "n2",
+    "kanji": "瓶",
+    "arti": "botol"
+  },
+  {
+    "level": "n2",
+    "kanji": "咲",
+    "arti": "mekar"
+  },
+  {
+    "level": "n2",
+    "kanji": "召",
+    "arti": "menggoda"
+  },
+  {
+    "level": "n2",
+    "kanji": "缶",
+    "arti": "kaleng timah"
+  },
+  {
+    "level": "n2",
+    "kanji": "隻",
+    "arti": "kapal"
+  },
+  {
+    "level": "n2",
+    "kanji": "脂",
+    "arti": "gemuk"
+  },
+  {
+    "level": "n2",
+    "kanji": "蒸",
+    "arti": "uap"
+  },
+  {
+    "level": "n2",
+    "kanji": "肌",
+    "arti": "tekstur"
+  },
+  {
+    "level": "n2",
+    "kanji": "耕",
+    "arti": "sampai"
+  },
+  {
+    "level": "n2",
+    "kanji": "鈍",
+    "arti": "tumpul"
+  },
+  {
+    "level": "n2",
+    "kanji": "泥",
+    "arti": "lumpur"
+  },
+  {
+    "level": "n2",
+    "kanji": "隅",
+    "arti": "sudut"
+  },
+  {
+    "level": "n2",
+    "kanji": "灯",
+    "arti": "lampu"
+  },
+  {
+    "level": "n2",
+    "kanji": "辛",
+    "arti": "pedas"
+  },
+  {
+    "level": "n2",
+    "kanji": "磨",
+    "arti": "menggiling"
+  },
+  {
+    "level": "n2",
+    "kanji": "麦",
+    "arti": "jelai"
+  },
+  {
+    "level": "n2",
+    "kanji": "姓",
+    "arti": "nama belakang"
+  },
+  {
+    "level": "n2",
+    "kanji": "筒",
+    "arti": "silinder"
+  },
+  {
+    "level": "n2",
+    "kanji": "鼻",
+    "arti": "hidung"
+  },
+  {
+    "level": "n2",
+    "kanji": "粒",
+    "arti": "biji-bijian"
+  },
+  {
+    "level": "n2",
+    "kanji": "詞",
+    "arti": "bagian ucapan"
+  },
+  {
+    "level": "n2",
+    "kanji": "胃",
+    "arti": "perut"
+  },
+  {
+    "level": "n2",
+    "kanji": "畳",
+    "arti": "tikar tatami"
+  },
+  {
+    "level": "n2",
+    "kanji": "机",
+    "arti": "meja kerja"
+  },
+  {
+    "level": "n2",
+    "kanji": "膚",
+    "arti": "kulit"
+  },
+  {
+    "level": "n2",
+    "kanji": "尻",
+    "arti": "pantat"
+  },
+  {
+    "level": "n2",
+    "kanji": "濯",
+    "arti": "binatu"
+  },
+  {
+    "level": "n2",
+    "kanji": "塔",
+    "arti": "pagoda"
+  },
+  {
+    "level": "n2",
+    "kanji": "沸",
+    "arti": "mendidih"
+  },
+  {
+    "level": "n2",
+    "kanji": "灰",
+    "arti": "abu"
+  },
+  {
+    "level": "n2",
+    "kanji": "菓",
+    "arti": "permen"
+  },
+  {
+    "level": "n2",
+    "kanji": "帽",
+    "arti": "tutup"
+  },
+  {
+    "level": "n2",
+    "kanji": "枯",
+    "arti": "layu"
+  },
+  {
+    "level": "n2",
+    "kanji": "涼",
+    "arti": "menyegarkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "舟",
+    "arti": "perahu"
+  },
+  {
+    "level": "n2",
+    "kanji": "貝",
+    "arti": "kerang"
+  },
+  {
+    "level": "n2",
+    "kanji": "符",
+    "arti": "token"
+  },
+  {
+    "level": "n2",
+    "kanji": "脇",
+    "arti": "ketiak"
+  },
+  {
+    "level": "n2",
+    "kanji": "憎",
+    "arti": "benci"
+  },
+  {
+    "level": "n2",
+    "kanji": "皿",
+    "arti": "piring"
+  },
+  {
+    "level": "n2",
+    "kanji": "肯",
+    "arti": "perjanjian"
+  },
+  {
+    "level": "n2",
+    "kanji": "燥",
+    "arti": "mengeringkan"
+  },
+  {
+    "level": "n2",
+    "kanji": "畜",
+    "arti": "ternak"
+  },
+  {
+    "level": "n2",
+    "kanji": "坊",
+    "arti": "anak laki-laki"
+  },
+  {
+    "level": "n2",
+    "kanji": "挟",
+    "arti": "jepit"
+  },
+  {
+    "level": "n2",
+    "kanji": "曇",
+    "arti": "cuaca berawan"
+  },
+  {
+    "level": "n2",
+    "kanji": "闇",
+    "arti": "menggelap"
+  },
+  {
+    "level": "n2",
+    "kanji": "頃",
+    "arti": "waktu"
+  },
+  {
+    "level": "n2",
+    "kanji": "滴",
+    "arti": "tetesan"
+  },
+  {
+    "level": "n2",
+    "kanji": "斬",
+    "arti": "pemenggalan kepala"
+  },
+  {
+    "level": "n2",
+    "kanji": "伺",
+    "arti": "menghormati"
+  },
+  {
+    "level": "n2",
+    "kanji": "膝",
+    "arti": "lutut"
+  },
+  {
+    "level": "n1",
+    "kanji": "氏",
+    "arti": "nama keluarga"
+  },
+  {
+    "level": "n1",
+    "kanji": "統",
+    "arti": "secara keseluruhan"
+  },
+  {
+    "level": "n1",
+    "kanji": "保",
+    "arti": "melindungi"
+  },
+  {
+    "level": "n1",
+    "kanji": "第",
+    "arti": "tidak."
+  },
+  {
+    "level": "n1",
+    "kanji": "結",
+    "arti": "dasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "派",
+    "arti": "faksi"
+  },
+  {
+    "level": "n1",
+    "kanji": "案",
+    "arti": "rencana"
+  },
+  {
+    "level": "n1",
+    "kanji": "策",
+    "arti": "skema"
+  },
+  {
+    "level": "n1",
+    "kanji": "基",
+    "arti": "dasar-dasar"
+  },
+  {
+    "level": "n1",
+    "kanji": "価",
+    "arti": "nilai"
+  },
+  {
+    "level": "n1",
+    "kanji": "提",
+    "arti": "mengusulkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "挙",
+    "arti": "mengangkat"
+  },
+  {
+    "level": "n1",
+    "kanji": "応",
+    "arti": "menerapkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "企",
+    "arti": "melakukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "検",
+    "arti": "pemeriksaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "藤",
+    "arti": "wisteria"
+  },
+  {
+    "level": "n1",
+    "kanji": "沢",
+    "arti": "rawa"
+  },
+  {
+    "level": "n1",
+    "kanji": "裁",
+    "arti": "penjahit"
+  },
+  {
+    "level": "n1",
+    "kanji": "証",
+    "arti": "bukti"
+  },
+  {
+    "level": "n1",
+    "kanji": "援",
+    "arti": "mendorong"
+  },
+  {
+    "level": "n1",
+    "kanji": "施",
+    "arti": "beri"
+  },
+  {
+    "level": "n1",
+    "kanji": "井",
+    "arti": "baik"
+  },
+  {
+    "level": "n1",
+    "kanji": "護",
+    "arti": "melindungi"
+  },
+  {
+    "level": "n1",
+    "kanji": "展",
+    "arti": "membuka"
+  },
+  {
+    "level": "n1",
+    "kanji": "態",
+    "arti": "sikap"
+  },
+  {
+    "level": "n1",
+    "kanji": "鮮",
+    "arti": "segar"
+  },
+  {
+    "level": "n1",
+    "kanji": "視",
+    "arti": "pemeriksaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "条",
+    "arti": "artikel"
+  },
+  {
+    "level": "n1",
+    "kanji": "幹",
+    "arti": "batang pohon"
+  },
+  {
+    "level": "n1",
+    "kanji": "独",
+    "arti": "tunggal"
+  },
+  {
+    "level": "n1",
+    "kanji": "宮",
+    "arti": "kuil shinto"
+  },
+  {
+    "level": "n1",
+    "kanji": "率",
+    "arti": "rasio"
+  },
+  {
+    "level": "n1",
+    "kanji": "衛",
+    "arti": "pertahanan"
+  },
+  {
+    "level": "n1",
+    "kanji": "張",
+    "arti": "memperpanjang"
+  },
+  {
+    "level": "n1",
+    "kanji": "監",
+    "arti": "mengawasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "環",
+    "arti": "cincin"
+  },
+  {
+    "level": "n1",
+    "kanji": "審",
+    "arti": "pendengaran"
+  },
+  {
+    "level": "n1",
+    "kanji": "義",
+    "arti": "kebenaran"
+  },
+  {
+    "level": "n1",
+    "kanji": "訴",
+    "arti": "tuduhan"
+  },
+  {
+    "level": "n1",
+    "kanji": "株",
+    "arti": "saham"
+  },
+  {
+    "level": "n1",
+    "kanji": "姿",
+    "arti": "angka"
+  },
+  {
+    "level": "n1",
+    "kanji": "閣",
+    "arti": "menara"
+  },
+  {
+    "level": "n1",
+    "kanji": "衆",
+    "arti": "massa"
+  },
+  {
+    "level": "n1",
+    "kanji": "評",
+    "arti": "mengevaluasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "影",
+    "arti": "bayangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "松",
+    "arti": "pohon pin"
+  },
+  {
+    "level": "n1",
+    "kanji": "撃",
+    "arti": "mengalahkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "佐",
+    "arti": "asisten"
+  },
+  {
+    "level": "n1",
+    "kanji": "核",
+    "arti": "inti"
+  },
+  {
+    "level": "n1",
+    "kanji": "整",
+    "arti": "mengorganisir"
+  },
+  {
+    "level": "n1",
+    "kanji": "融",
+    "arti": "larut"
+  },
+  {
+    "level": "n1",
+    "kanji": "製",
+    "arti": "dibuat di..."
+  },
+  {
+    "level": "n1",
+    "kanji": "票",
+    "arti": "surat suara"
+  },
+  {
+    "level": "n1",
+    "kanji": "渉",
+    "arti": "ford"
+  },
+  {
+    "level": "n1",
+    "kanji": "響",
+    "arti": "gema"
+  },
+  {
+    "level": "n1",
+    "kanji": "推",
+    "arti": "dugaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "請",
+    "arti": "minta"
+  },
+  {
+    "level": "n1",
+    "kanji": "器",
+    "arti": "peralatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "士",
+    "arti": "pria sopan"
+  },
+  {
+    "level": "n1",
+    "kanji": "討",
+    "arti": "mencela"
+  },
+  {
+    "level": "n1",
+    "kanji": "攻",
+    "arti": "agresi"
+  },
+  {
+    "level": "n1",
+    "kanji": "崎",
+    "arti": "tanah yang menjorok ke laut"
+  },
+  {
+    "level": "n1",
+    "kanji": "督",
+    "arti": "pelatih"
+  },
+  {
+    "level": "n1",
+    "kanji": "授",
+    "arti": "menyampaikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "催",
+    "arti": "penaja"
+  },
+  {
+    "level": "n1",
+    "kanji": "及",
+    "arti": "menghubungi"
+  },
+  {
+    "level": "n1",
+    "kanji": "憲",
+    "arti": "konstitusi"
+  },
+  {
+    "level": "n1",
+    "kanji": "離",
+    "arti": "melepaskan"
+  },
+  {
+    "level": "n1",
+    "kanji": "激",
+    "arti": "kekerasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "摘",
+    "arti": "cubit"
+  },
+  {
+    "level": "n1",
+    "kanji": "系",
+    "arti": "garis keturunan"
+  },
+  {
+    "level": "n1",
+    "kanji": "批",
+    "arti": "kritik"
+  },
+  {
+    "level": "n1",
+    "kanji": "郎",
+    "arti": "anak laki-laki"
+  },
+  {
+    "level": "n1",
+    "kanji": "健",
+    "arti": "sehat"
+  },
+  {
+    "level": "n1",
+    "kanji": "盟",
+    "arti": "alianza"
+  },
+  {
+    "level": "n1",
+    "kanji": "従",
+    "arti": "mendampingi"
+  },
+  {
+    "level": "n1",
+    "kanji": "修",
+    "arti": "disiplin"
+  },
+  {
+    "level": "n1",
+    "kanji": "隊",
+    "arti": "resimen"
+  },
+  {
+    "level": "n1",
+    "kanji": "織",
+    "arti": "menenun"
+  },
+  {
+    "level": "n1",
+    "kanji": "拡",
+    "arti": "memperluas"
+  },
+  {
+    "level": "n1",
+    "kanji": "故",
+    "arti": "kebetulan"
+  },
+  {
+    "level": "n1",
+    "kanji": "振",
+    "arti": "menggoyangkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "弁",
+    "arti": "katup"
+  },
+  {
+    "level": "n1",
+    "kanji": "就",
+    "arti": "mengenai"
+  },
+  {
+    "level": "n1",
+    "kanji": "異",
+    "arti": "tidak umum"
+  },
+  {
+    "level": "n1",
+    "kanji": "献",
+    "arti": "penawaran"
+  },
+  {
+    "level": "n1",
+    "kanji": "厳",
+    "arti": "tegas"
+  },
+  {
+    "level": "n1",
+    "kanji": "維",
+    "arti": "serat"
+  },
+  {
+    "level": "n1",
+    "kanji": "浜",
+    "arti": "pesisir laut"
+  },
+  {
+    "level": "n1",
+    "kanji": "遺",
+    "arti": "mewariskan"
+  },
+  {
+    "level": "n1",
+    "kanji": "塁",
+    "arti": "dasar-dasar"
+  },
+  {
+    "level": "n1",
+    "kanji": "邦",
+    "arti": "negara asal"
+  },
+  {
+    "level": "n1",
+    "kanji": "素",
+    "arti": "dasar"
+  },
+  {
+    "level": "n1",
+    "kanji": "遣",
+    "arti": "pengiriman"
+  },
+  {
+    "level": "n1",
+    "kanji": "抗",
+    "arti": "menghadapi"
+  },
+  {
+    "level": "n1",
+    "kanji": "模",
+    "arti": "imitasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "雄",
+    "arti": "maskulin"
+  },
+  {
+    "level": "n1",
+    "kanji": "益",
+    "arti": "manfaat"
+  },
+  {
+    "level": "n1",
+    "kanji": "緊",
+    "arti": "tegang"
+  },
+  {
+    "level": "n1",
+    "kanji": "標",
+    "arti": "tanda petunjuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "宣",
+    "arti": "mengumumkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "昭",
+    "arti": "bersinar"
+  },
+  {
+    "level": "n1",
+    "kanji": "廃",
+    "arti": "menghapuskan"
+  },
+  {
+    "level": "n1",
+    "kanji": "江",
+    "arti": "sungai kecil"
+  },
+  {
+    "level": "n1",
+    "kanji": "僚",
+    "arti": "rekan kerja"
+  },
+  {
+    "level": "n1",
+    "kanji": "吉",
+    "arti": "semoga berhasil"
+  },
+  {
+    "level": "n1",
+    "kanji": "盛",
+    "arti": "ledakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "皇",
+    "arti": "kaisar"
+  },
+  {
+    "level": "n1",
+    "kanji": "臨",
+    "arti": "melihat ke"
+  },
+  {
+    "level": "n1",
+    "kanji": "踏",
+    "arti": "langkah"
+  },
+  {
+    "level": "n1",
+    "kanji": "壊",
+    "arti": "penghancuran"
+  },
+  {
+    "level": "n1",
+    "kanji": "債",
+    "arti": "ikatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "興",
+    "arti": "menghibur"
+  },
+  {
+    "level": "n1",
+    "kanji": "源",
+    "arti": "sumber"
+  },
+  {
+    "level": "n1",
+    "kanji": "儀",
+    "arti": "upacara"
+  },
+  {
+    "level": "n1",
+    "kanji": "創",
+    "arti": "kejadian"
+  },
+  {
+    "level": "n1",
+    "kanji": "障",
+    "arti": "menghalangi"
+  },
+  {
+    "level": "n1",
+    "kanji": "継",
+    "arti": "warisi"
+  },
+  {
+    "level": "n1",
+    "kanji": "筋",
+    "arti": "otot"
+  },
+  {
+    "level": "n1",
+    "kanji": "闘",
+    "arti": "perkelahian"
+  },
+  {
+    "level": "n1",
+    "kanji": "葬",
+    "arti": "penguburan"
+  },
+  {
+    "level": "n1",
+    "kanji": "避",
+    "arti": "menghindari"
+  },
+  {
+    "level": "n1",
+    "kanji": "司",
+    "arti": "direktur"
+  },
+  {
+    "level": "n1",
+    "kanji": "康",
+    "arti": "kemudahan"
+  },
+  {
+    "level": "n1",
+    "kanji": "善",
+    "arti": "berbudi baik"
+  },
+  {
+    "level": "n1",
+    "kanji": "逮",
+    "arti": "tangkap"
+  },
+  {
+    "level": "n1",
+    "kanji": "迫",
+    "arti": "dorongan"
+  },
+  {
+    "level": "n1",
+    "kanji": "惑",
+    "arti": "memikat"
+  },
+  {
+    "level": "n1",
+    "kanji": "崩",
+    "arti": "remah"
+  },
+  {
+    "level": "n1",
+    "kanji": "紀",
+    "arti": "kronik"
+  },
+  {
+    "level": "n1",
+    "kanji": "聴",
+    "arti": "mendengarkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "脱",
+    "arti": "membuka pakaian"
+  },
+  {
+    "level": "n1",
+    "kanji": "級",
+    "arti": "kelas"
+  },
+  {
+    "level": "n1",
+    "kanji": "博",
+    "arti": "Dr."
+  },
+  {
+    "level": "n1",
+    "kanji": "締",
+    "arti": "mengencangkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "救",
+    "arti": "keselamatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "執",
+    "arti": "cekatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "房",
+    "arti": "rumbai"
+  },
+  {
+    "level": "n1",
+    "kanji": "撤",
+    "arti": "menghapus"
+  },
+  {
+    "level": "n1",
+    "kanji": "削",
+    "arti": "pesawat"
+  },
+  {
+    "level": "n1",
+    "kanji": "密",
+    "arti": "kerahasiaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "措",
+    "arti": "sisihkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "志",
+    "arti": "niat"
+  },
+  {
+    "level": "n1",
+    "kanji": "載",
+    "arti": "mengendarai"
+  },
+  {
+    "level": "n1",
+    "kanji": "陣",
+    "arti": "kem"
+  },
+  {
+    "level": "n1",
+    "kanji": "我",
+    "arti": "aku"
+  },
+  {
+    "level": "n1",
+    "kanji": "為",
+    "arti": "melakukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "抑",
+    "arti": "mendesak"
+  },
+  {
+    "level": "n1",
+    "kanji": "幕",
+    "arti": "tirai"
+  },
+  {
+    "level": "n1",
+    "kanji": "染",
+    "arti": "pewarna"
+  },
+  {
+    "level": "n1",
+    "kanji": "奈",
+    "arti": "nara"
+  },
+  {
+    "level": "n1",
+    "kanji": "傷",
+    "arti": "luka"
+  },
+  {
+    "level": "n1",
+    "kanji": "択",
+    "arti": "pilih"
+  },
+  {
+    "level": "n1",
+    "kanji": "秀",
+    "arti": "excel"
+  },
+  {
+    "level": "n1",
+    "kanji": "徴",
+    "arti": "indikasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "弾",
+    "arti": "peluru"
+  },
+  {
+    "level": "n1",
+    "kanji": "償",
+    "arti": "reparasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "功",
+    "arti": "pencapaian"
+  },
+  {
+    "level": "n1",
+    "kanji": "拠",
+    "arti": "titik pijakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "秘",
+    "arti": "rahasia"
+  },
+  {
+    "level": "n1",
+    "kanji": "拒",
+    "arti": "tolak"
+  },
+  {
+    "level": "n1",
+    "kanji": "刑",
+    "arti": "menghukum"
+  },
+  {
+    "level": "n1",
+    "kanji": "塚",
+    "arti": "bukit kecil"
+  },
+  {
+    "level": "n1",
+    "kanji": "致",
+    "arti": "melakukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "繰",
+    "arti": "berliku-liku"
+  },
+  {
+    "level": "n1",
+    "kanji": "尾",
+    "arti": "ekor"
+  },
+  {
+    "level": "n1",
+    "kanji": "描",
+    "arti": "sketsa"
+  },
+  {
+    "level": "n1",
+    "kanji": "鈴",
+    "arti": "lonceng kecil"
+  },
+  {
+    "level": "n1",
+    "kanji": "盤",
+    "arti": "baki"
+  },
+  {
+    "level": "n1",
+    "kanji": "項",
+    "arti": "paragraf"
+  },
+  {
+    "level": "n1",
+    "kanji": "喪",
+    "arti": "nyonya"
+  },
+  {
+    "level": "n1",
+    "kanji": "伴",
+    "arti": "konsorsium"
+  },
+  {
+    "level": "n1",
+    "kanji": "養",
+    "arti": "membina"
+  },
+  {
+    "level": "n1",
+    "kanji": "懸",
+    "arti": "keadaan penangguhan"
+  },
+  {
+    "level": "n1",
+    "kanji": "街",
+    "arti": "bulevar"
+  },
+  {
+    "level": "n1",
+    "kanji": "契",
+    "arti": "janji"
+  },
+  {
+    "level": "n1",
+    "kanji": "掲",
+    "arti": "menggantung (sebuah pemberitahuan)"
+  },
+  {
+    "level": "n1",
+    "kanji": "躍",
+    "arti": "lompatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "棄",
+    "arti": "mengabaikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "邸",
+    "arti": "tempat tinggal"
+  },
+  {
+    "level": "n1",
+    "kanji": "縮",
+    "arti": "menciut"
+  },
+  {
+    "level": "n1",
+    "kanji": "還",
+    "arti": "kirim balik"
+  },
+  {
+    "level": "n1",
+    "kanji": "属",
+    "arti": "milik"
+  },
+  {
+    "level": "n1",
+    "kanji": "慮",
+    "arti": "kehati-hatian"
+  },
+  {
+    "level": "n1",
+    "kanji": "枠",
+    "arti": "bingkai"
+  },
+  {
+    "level": "n1",
+    "kanji": "恵",
+    "arti": "kebaikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "露",
+    "arti": "embun"
+  },
+  {
+    "level": "n1",
+    "kanji": "沖",
+    "arti": "laut lepas"
+  },
+  {
+    "level": "n1",
+    "kanji": "緩",
+    "arti": "melonggarkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "節",
+    "arti": "simpul"
+  },
+  {
+    "level": "n1",
+    "kanji": "需",
+    "arti": "permintaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "射",
+    "arti": "menembak"
+  },
+  {
+    "level": "n1",
+    "kanji": "購",
+    "arti": "langganan"
+  },
+  {
+    "level": "n1",
+    "kanji": "揮",
+    "arti": "mengacungkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "充",
+    "arti": "membagikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "貢",
+    "arti": "penghormatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "鹿",
+    "arti": "rusa"
+  },
+  {
+    "level": "n1",
+    "kanji": "却",
+    "arti": "sebagai gantinya"
+  },
+  {
+    "level": "n1",
+    "kanji": "端",
+    "arti": "tepi"
+  },
+  {
+    "level": "n1",
+    "kanji": "賃",
+    "arti": "tarif"
+  },
+  {
+    "level": "n1",
+    "kanji": "獲",
+    "arti": "menguasai"
+  },
+  {
+    "level": "n1",
+    "kanji": "郡",
+    "arti": "kabupaten"
+  },
+  {
+    "level": "n1",
+    "kanji": "併",
+    "arti": "bergabung"
+  },
+  {
+    "level": "n1",
+    "kanji": "徹",
+    "arti": "menembus"
+  },
+  {
+    "level": "n1",
+    "kanji": "貴",
+    "arti": "berharga"
+  },
+  {
+    "level": "n1",
+    "kanji": "埼",
+    "arti": "cape"
+  },
+  {
+    "level": "n1",
+    "kanji": "衝",
+    "arti": "bertabrakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "焦",
+    "arti": "karakter"
+  },
+  {
+    "level": "n1",
+    "kanji": "奪",
+    "arti": "merampok"
+  },
+  {
+    "level": "n1",
+    "kanji": "災",
+    "arti": "bencana"
+  },
+  {
+    "level": "n1",
+    "kanji": "浦",
+    "arti": "teluk"
+  },
+  {
+    "level": "n1",
+    "kanji": "析",
+    "arti": "cincang"
+  },
+  {
+    "level": "n1",
+    "kanji": "譲",
+    "arti": "tunda"
+  },
+  {
+    "level": "n1",
+    "kanji": "称",
+    "arti": "sebutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "納",
+    "arti": "permukiman"
+  },
+  {
+    "level": "n1",
+    "kanji": "樹",
+    "arti": "kayu"
+  },
+  {
+    "level": "n1",
+    "kanji": "挑",
+    "arti": "tantangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "誘",
+    "arti": "menggoda"
+  },
+  {
+    "level": "n1",
+    "kanji": "紛",
+    "arti": "mengalihkan perhatian"
+  },
+  {
+    "level": "n1",
+    "kanji": "至",
+    "arti": "klimaks"
+  },
+  {
+    "level": "n1",
+    "kanji": "宗",
+    "arti": "agama"
+  },
+  {
+    "level": "n1",
+    "kanji": "促",
+    "arti": "merangsang"
+  },
+  {
+    "level": "n1",
+    "kanji": "慎",
+    "arti": "kerendahan hati"
+  },
+  {
+    "level": "n1",
+    "kanji": "控",
+    "arti": "menarik"
+  },
+  {
+    "level": "n1",
+    "kanji": "握",
+    "arti": "cengkeraman"
+  },
+  {
+    "level": "n1",
+    "kanji": "宙",
+    "arti": "di udara"
+  },
+  {
+    "level": "n1",
+    "kanji": "俊",
+    "arti": "bijaksana"
+  },
+  {
+    "level": "n1",
+    "kanji": "銭",
+    "arti": "koin"
+  },
+  {
+    "level": "n1",
+    "kanji": "渋",
+    "arti": "astringen"
+  },
+  {
+    "level": "n1",
+    "kanji": "銃",
+    "arti": "senjata api"
+  },
+  {
+    "level": "n1",
+    "kanji": "操",
+    "arti": "manuver"
+  },
+  {
+    "level": "n1",
+    "kanji": "携",
+    "arti": "portabel"
+  },
+  {
+    "level": "n1",
+    "kanji": "診",
+    "arti": "pemeriksaan kesehatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "託",
+    "arti": "menyerahkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "撮",
+    "arti": "cuplikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "誕",
+    "arti": "kelahiran"
+  },
+  {
+    "level": "n1",
+    "kanji": "侵",
+    "arti": "mencaplok"
+  },
+  {
+    "level": "n1",
+    "kanji": "括",
+    "arti": "mengencangkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "謝",
+    "arti": "minta maaf"
+  },
+  {
+    "level": "n1",
+    "kanji": "孝",
+    "arti": "bakti anak"
+  },
+  {
+    "level": "n1",
+    "kanji": "駆",
+    "arti": "mengemudi"
+  },
+  {
+    "level": "n1",
+    "kanji": "透",
+    "arti": "transparan"
+  },
+  {
+    "level": "n1",
+    "kanji": "津",
+    "arti": "pelabuhan"
+  },
+  {
+    "level": "n1",
+    "kanji": "壁",
+    "arti": "dinding"
+  },
+  {
+    "level": "n1",
+    "kanji": "稲",
+    "arti": "tanaman padi"
+  },
+  {
+    "level": "n1",
+    "kanji": "仮",
+    "arti": "penipuan"
+  },
+  {
+    "level": "n1",
+    "kanji": "裂",
+    "arti": "membelah"
+  },
+  {
+    "level": "n1",
+    "kanji": "敏",
+    "arti": "kecerdasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "是",
+    "arti": "hanya saja"
+  },
+  {
+    "level": "n1",
+    "kanji": "排",
+    "arti": "menolak"
+  },
+  {
+    "level": "n1",
+    "kanji": "裕",
+    "arti": "melimpah"
+  },
+  {
+    "level": "n1",
+    "kanji": "堅",
+    "arti": "ketat"
+  },
+  {
+    "level": "n1",
+    "kanji": "訳",
+    "arti": "menerjemahkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "芝",
+    "arti": "rumput"
+  },
+  {
+    "level": "n1",
+    "kanji": "綱",
+    "arti": "tali tambat"
+  },
+  {
+    "level": "n1",
+    "kanji": "典",
+    "arti": "kode"
+  },
+  {
+    "level": "n1",
+    "kanji": "賀",
+    "arti": "selamat"
+  },
+  {
+    "level": "n1",
+    "kanji": "扱",
+    "arti": "mengatasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "顧",
+    "arti": "melihat ke belakang"
+  },
+  {
+    "level": "n1",
+    "kanji": "看",
+    "arti": "mengawasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "訟",
+    "arti": "menggugat"
+  },
+  {
+    "level": "n1",
+    "kanji": "戒",
+    "arti": "perintah"
+  },
+  {
+    "level": "n1",
+    "kanji": "祉",
+    "arti": "kesejahteraan"
+  },
+  {
+    "level": "n1",
+    "kanji": "誉",
+    "arti": "reputasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "歓",
+    "arti": "kesenangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "奏",
+    "arti": "putar musik"
+  },
+  {
+    "level": "n1",
+    "kanji": "勧",
+    "arti": "membujuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "騒",
+    "arti": "riuh"
+  },
+  {
+    "level": "n1",
+    "kanji": "閥",
+    "arti": "klik"
+  },
+  {
+    "level": "n1",
+    "kanji": "甲",
+    "arti": "baju zirah"
+  },
+  {
+    "level": "n1",
+    "kanji": "縄",
+    "arti": "tali jerami"
+  },
+  {
+    "level": "n1",
+    "kanji": "郷",
+    "arti": "kota asal"
+  },
+  {
+    "level": "n1",
+    "kanji": "揺",
+    "arti": "ayunan"
+  },
+  {
+    "level": "n1",
+    "kanji": "免",
+    "arti": "alasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "既",
+    "arti": "sebelumnya"
+  },
+  {
+    "level": "n1",
+    "kanji": "薦",
+    "arti": "merekomendasikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "隣",
+    "arti": "tetangga"
+  },
+  {
+    "level": "n1",
+    "kanji": "華",
+    "arti": "kemegahan"
+  },
+  {
+    "level": "n1",
+    "kanji": "範",
+    "arti": "pola"
+  },
+  {
+    "level": "n1",
+    "kanji": "隠",
+    "arti": "menyembunyikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "徳",
+    "arti": "kemurahan hati"
+  },
+  {
+    "level": "n1",
+    "kanji": "哲",
+    "arti": "filsafat"
+  },
+  {
+    "level": "n1",
+    "kanji": "杉",
+    "arti": "cedar"
+  },
+  {
+    "level": "n1",
+    "kanji": "釈",
+    "arti": "penjelasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "己",
+    "arti": "diri"
+  },
+  {
+    "level": "n1",
+    "kanji": "妥",
+    "arti": "lembut"
+  },
+  {
+    "level": "n1",
+    "kanji": "威",
+    "arti": "mengintimidasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "豪",
+    "arti": "mendominasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "熊",
+    "arti": "beruang"
+  },
+  {
+    "level": "n1",
+    "kanji": "滞",
+    "arti": "mandek"
+  },
+  {
+    "level": "n1",
+    "kanji": "微",
+    "arti": "lembut"
+  },
+  {
+    "level": "n1",
+    "kanji": "隆",
+    "arti": "punuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "症",
+    "arti": "gejala"
+  },
+  {
+    "level": "n1",
+    "kanji": "暫",
+    "arti": "sementara"
+  },
+  {
+    "level": "n1",
+    "kanji": "忠",
+    "arti": "kesetiaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "倉",
+    "arti": "gudang"
+  },
+  {
+    "level": "n1",
+    "kanji": "肝",
+    "arti": "hati"
+  },
+  {
+    "level": "n1",
+    "kanji": "喚",
+    "arti": "berteriak"
+  },
+  {
+    "level": "n1",
+    "kanji": "沿",
+    "arti": "berlari di samping"
+  },
+  {
+    "level": "n1",
+    "kanji": "妙",
+    "arti": "luar biasa"
+  },
+  {
+    "level": "n1",
+    "kanji": "唱",
+    "arti": "nyanyian"
+  },
+  {
+    "level": "n1",
+    "kanji": "索",
+    "arti": "kabel"
+  },
+  {
+    "level": "n1",
+    "kanji": "誠",
+    "arti": "keikhlasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "襲",
+    "arti": "serangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "懇",
+    "arti": "ramah"
+  },
+  {
+    "level": "n1",
+    "kanji": "俳",
+    "arti": "haiku"
+  },
+  {
+    "level": "n1",
+    "kanji": "柄",
+    "arti": "desain"
+  },
+  {
+    "level": "n1",
+    "kanji": "驚",
+    "arti": "keajaiban"
+  },
+  {
+    "level": "n1",
+    "kanji": "麻",
+    "arti": "rami"
+  },
+  {
+    "level": "n1",
+    "kanji": "剤",
+    "arti": "dosis"
+  },
+  {
+    "level": "n1",
+    "kanji": "瀬",
+    "arti": "jeram"
+  },
+  {
+    "level": "n1",
+    "kanji": "趣",
+    "arti": "maksud"
+  },
+  {
+    "level": "n1",
+    "kanji": "陥",
+    "arti": "runtuh"
+  },
+  {
+    "level": "n1",
+    "kanji": "斎",
+    "arti": "pemurnian"
+  },
+  {
+    "level": "n1",
+    "kanji": "貫",
+    "arti": "menusuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "仙",
+    "arti": "pertapa"
+  },
+  {
+    "level": "n1",
+    "kanji": "慰",
+    "arti": "penghiburan"
+  },
+  {
+    "level": "n1",
+    "kanji": "序",
+    "arti": "prakata"
+  },
+  {
+    "level": "n1",
+    "kanji": "旬",
+    "arti": "dekameron"
+  },
+  {
+    "level": "n1",
+    "kanji": "兼",
+    "arti": "bersamaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "聖",
+    "arti": "suci"
+  },
+  {
+    "level": "n1",
+    "kanji": "旨",
+    "arti": "lezat"
+  },
+  {
+    "level": "n1",
+    "kanji": "即",
+    "arti": "segera"
+  },
+  {
+    "level": "n1",
+    "kanji": "柳",
+    "arti": "pohon willow"
+  },
+  {
+    "level": "n1",
+    "kanji": "舎",
+    "arti": "pondok"
+  },
+  {
+    "level": "n1",
+    "kanji": "偽",
+    "arti": "kebohongan"
+  },
+  {
+    "level": "n1",
+    "kanji": "較",
+    "arti": "kontras"
+  },
+  {
+    "level": "n1",
+    "kanji": "覇",
+    "arti": "hegemoni"
+  },
+  {
+    "level": "n1",
+    "kanji": "畑",
+    "arti": "pertanian"
+  },
+  {
+    "level": "n1",
+    "kanji": "詳",
+    "arti": "terperinci"
+  },
+  {
+    "level": "n1",
+    "kanji": "抵",
+    "arti": "melawan"
+  },
+  {
+    "level": "n1",
+    "kanji": "脅",
+    "arti": "mengancam"
+  },
+  {
+    "level": "n1",
+    "kanji": "茂",
+    "arti": "terlalu tumbuh"
+  },
+  {
+    "level": "n1",
+    "kanji": "犠",
+    "arti": "pengorbanan"
+  },
+  {
+    "level": "n1",
+    "kanji": "旗",
+    "arti": "bendera nasional"
+  },
+  {
+    "level": "n1",
+    "kanji": "距",
+    "arti": "jangka jauh"
+  },
+  {
+    "level": "n1",
+    "kanji": "雅",
+    "arti": "ramah"
+  },
+  {
+    "level": "n1",
+    "kanji": "飾",
+    "arti": "menghias"
+  },
+  {
+    "level": "n1",
+    "kanji": "網",
+    "arti": "jaring"
+  },
+  {
+    "level": "n1",
+    "kanji": "竜",
+    "arti": "naga"
+  },
+  {
+    "level": "n1",
+    "kanji": "詩",
+    "arti": "puisi"
+  },
+  {
+    "level": "n1",
+    "kanji": "繁",
+    "arti": "mewah"
+  },
+  {
+    "level": "n1",
+    "kanji": "翼",
+    "arti": "sayap"
+  },
+  {
+    "level": "n1",
+    "kanji": "茨",
+    "arti": "semak berduri"
+  },
+  {
+    "level": "n1",
+    "kanji": "潟",
+    "arti": "laguna"
+  },
+  {
+    "level": "n1",
+    "kanji": "敵",
+    "arti": "musuh"
+  },
+  {
+    "level": "n1",
+    "kanji": "魅",
+    "arti": "pesona"
+  },
+  {
+    "level": "n1",
+    "kanji": "嫌",
+    "arti": "tidak suka"
+  },
+  {
+    "level": "n1",
+    "kanji": "斉",
+    "arti": "disesuaikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "敷",
+    "arti": "menyebar"
+  },
+  {
+    "level": "n1",
+    "kanji": "擁",
+    "arti": "pelukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "圏",
+    "arti": "bola"
+  },
+  {
+    "level": "n1",
+    "kanji": "酸",
+    "arti": "asam"
+  },
+  {
+    "level": "n1",
+    "kanji": "罰",
+    "arti": "hukuman"
+  },
+  {
+    "level": "n1",
+    "kanji": "滅",
+    "arti": "hancurkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "礎",
+    "arti": "batu penjuru"
+  },
+  {
+    "level": "n1",
+    "kanji": "腐",
+    "arti": "busuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "脚",
+    "arti": "seluncur"
+  },
+  {
+    "level": "n1",
+    "kanji": "潮",
+    "arti": "pasang"
+  },
+  {
+    "level": "n1",
+    "kanji": "梅",
+    "arti": "prem"
+  },
+  {
+    "level": "n1",
+    "kanji": "尽",
+    "arti": "knalpot"
+  },
+  {
+    "level": "n1",
+    "kanji": "僕",
+    "arti": "saya"
+  },
+  {
+    "level": "n1",
+    "kanji": "桜",
+    "arti": "ceri"
+  },
+  {
+    "level": "n1",
+    "kanji": "滑",
+    "arti": "licin"
+  },
+  {
+    "level": "n1",
+    "kanji": "孤",
+    "arti": "yatim piatu"
+  },
+  {
+    "level": "n1",
+    "kanji": "炎",
+    "arti": "peradangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "賠",
+    "arti": "kompensasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "句",
+    "arti": "frasa"
+  },
+  {
+    "level": "n1",
+    "kanji": "鋼",
+    "arti": "baja"
+  },
+  {
+    "level": "n1",
+    "kanji": "頑",
+    "arti": "bandel"
+  },
+  {
+    "level": "n1",
+    "kanji": "鎖",
+    "arti": "rantai"
+  },
+  {
+    "level": "n1",
+    "kanji": "彩",
+    "arti": "mewarnai"
+  },
+  {
+    "level": "n1",
+    "kanji": "摩",
+    "arti": "gesekan"
+  },
+  {
+    "level": "n1",
+    "kanji": "励",
+    "arti": "mendorong"
+  },
+  {
+    "level": "n1",
+    "kanji": "縦",
+    "arti": "vertikal"
+  },
+  {
+    "level": "n1",
+    "kanji": "輝",
+    "arti": "cemerlang"
+  },
+  {
+    "level": "n1",
+    "kanji": "蓄",
+    "arti": "mengumpulkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "軸",
+    "arti": "sumbu"
+  },
+  {
+    "level": "n1",
+    "kanji": "巡",
+    "arti": "patroli"
+  },
+  {
+    "level": "n1",
+    "kanji": "稼",
+    "arti": "pendapatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "瞬",
+    "arti": "kedip"
+  },
+  {
+    "level": "n1",
+    "kanji": "砲",
+    "arti": "meriam"
+  },
+  {
+    "level": "n1",
+    "kanji": "噴",
+    "arti": "meletus"
+  },
+  {
+    "level": "n1",
+    "kanji": "誇",
+    "arti": "membanggakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "祥",
+    "arti": "mujur"
+  },
+  {
+    "level": "n1",
+    "kanji": "牲",
+    "arti": "pengorbanan hewan"
+  },
+  {
+    "level": "n1",
+    "kanji": "秩",
+    "arti": "keteraturan"
+  },
+  {
+    "level": "n1",
+    "kanji": "帝",
+    "arti": "berdaulat"
+  },
+  {
+    "level": "n1",
+    "kanji": "唆",
+    "arti": "menggoda"
+  },
+  {
+    "level": "n1",
+    "kanji": "阻",
+    "arti": "menggagalkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "泰",
+    "arti": "damai"
+  },
+  {
+    "level": "n1",
+    "kanji": "賄",
+    "arti": "suap"
+  },
+  {
+    "level": "n1",
+    "kanji": "撲",
+    "arti": "tampar"
+  },
+  {
+    "level": "n1",
+    "kanji": "堀",
+    "arti": "parit"
+  },
+  {
+    "level": "n1",
+    "kanji": "菊",
+    "arti": "krisan"
+  },
+  {
+    "level": "n1",
+    "kanji": "絞",
+    "arti": "mencekik"
+  },
+  {
+    "level": "n1",
+    "kanji": "縁",
+    "arti": "afinitas"
+  },
+  {
+    "level": "n1",
+    "kanji": "唯",
+    "arti": "hanya"
+  },
+  {
+    "level": "n1",
+    "kanji": "膨",
+    "arti": "membengkak"
+  },
+  {
+    "level": "n1",
+    "kanji": "矢",
+    "arti": "panah"
+  },
+  {
+    "level": "n1",
+    "kanji": "耐",
+    "arti": "-bukti"
+  },
+  {
+    "level": "n1",
+    "kanji": "塾",
+    "arti": "bimbingan belajar"
+  },
+  {
+    "level": "n1",
+    "kanji": "漏",
+    "arti": "kebocoran"
+  },
+  {
+    "level": "n1",
+    "kanji": "慶",
+    "arti": "kegembiraan"
+  },
+  {
+    "level": "n1",
+    "kanji": "猛",
+    "arti": "ganas"
+  },
+  {
+    "level": "n1",
+    "kanji": "芳",
+    "arti": "parfum"
+  },
+  {
+    "level": "n1",
+    "kanji": "懲",
+    "arti": "hukuman"
+  },
+  {
+    "level": "n1",
+    "kanji": "剣",
+    "arti": "pedang sabre"
+  },
+  {
+    "level": "n1",
+    "kanji": "彰",
+    "arti": "paten"
+  },
+  {
+    "level": "n1",
+    "kanji": "棋",
+    "arti": "bidak catur"
+  },
+  {
+    "level": "n1",
+    "kanji": "丁",
+    "arti": "jalan"
+  },
+  {
+    "level": "n1",
+    "kanji": "恒",
+    "arti": "kesetiaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "揚",
+    "arti": "mengangkat"
+  },
+  {
+    "level": "n1",
+    "kanji": "冒",
+    "arti": "risiko"
+  },
+  {
+    "level": "n1",
+    "kanji": "曽",
+    "arti": "dahulu"
+  },
+  {
+    "level": "n1",
+    "kanji": "倫",
+    "arti": "etika"
+  },
+  {
+    "level": "n1",
+    "kanji": "陳",
+    "arti": "pameran"
+  },
+  {
+    "level": "n1",
+    "kanji": "憶",
+    "arti": "kenangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "潜",
+    "arti": "menenggelamkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "梨",
+    "arti": "pohon pir"
+  },
+  {
+    "level": "n1",
+    "kanji": "仁",
+    "arti": "kemanusiaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "克",
+    "arti": "mengatasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "岳",
+    "arti": "titik"
+  },
+  {
+    "level": "n1",
+    "kanji": "概",
+    "arti": "garis besar"
+  },
+  {
+    "level": "n1",
+    "kanji": "拘",
+    "arti": "penangkapan"
+  },
+  {
+    "level": "n1",
+    "kanji": "墓",
+    "arti": "kuburan"
+  },
+  {
+    "level": "n1",
+    "kanji": "黙",
+    "arti": "keheningan"
+  },
+  {
+    "level": "n1",
+    "kanji": "須",
+    "arti": "harus"
+  },
+  {
+    "level": "n1",
+    "kanji": "偏",
+    "arti": "parsial"
+  },
+  {
+    "level": "n1",
+    "kanji": "雰",
+    "arti": "atmosfer"
+  },
+  {
+    "level": "n1",
+    "kanji": "遇",
+    "arti": "bertemu"
+  },
+  {
+    "level": "n1",
+    "kanji": "諮",
+    "arti": "berkonsultasi dengan"
+  },
+  {
+    "level": "n1",
+    "kanji": "狭",
+    "arti": "sempit"
+  },
+  {
+    "level": "n1",
+    "kanji": "卓",
+    "arti": "terkemuka"
+  },
+  {
+    "level": "n1",
+    "kanji": "亀",
+    "arti": "kura-kura"
+  },
+  {
+    "level": "n1",
+    "kanji": "糧",
+    "arti": "ketentuan"
+  },
+  {
+    "level": "n1",
+    "kanji": "簿",
+    "arti": "mendaftar"
+  },
+  {
+    "level": "n1",
+    "kanji": "炉",
+    "arti": "perapian"
+  },
+  {
+    "level": "n1",
+    "kanji": "牧",
+    "arti": "membudidayakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "殊",
+    "arti": "terutama"
+  },
+  {
+    "level": "n1",
+    "kanji": "殖",
+    "arti": "mempertinggi"
+  },
+  {
+    "level": "n1",
+    "kanji": "艦",
+    "arti": "kapal perang"
+  },
+  {
+    "level": "n1",
+    "kanji": "輩",
+    "arti": "kawan"
+  },
+  {
+    "level": "n1",
+    "kanji": "穴",
+    "arti": "lubang"
+  },
+  {
+    "level": "n1",
+    "kanji": "奇",
+    "arti": "aneh"
+  },
+  {
+    "level": "n1",
+    "kanji": "慢",
+    "arti": "cemoohan"
+  },
+  {
+    "level": "n1",
+    "kanji": "鶴",
+    "arti": "bangau"
+  },
+  {
+    "level": "n1",
+    "kanji": "謀",
+    "arti": "berkomplot"
+  },
+  {
+    "level": "n1",
+    "kanji": "暖",
+    "arti": "kehangatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "拍",
+    "arti": "tepuk tangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "朗",
+    "arti": "merdu"
+  },
+  {
+    "level": "n1",
+    "kanji": "寛",
+    "arti": "toleran"
+  },
+  {
+    "level": "n1",
+    "kanji": "覆",
+    "arti": "terbalik"
+  },
+  {
+    "level": "n1",
+    "kanji": "胞",
+    "arti": "plasenta"
+  },
+  {
+    "level": "n1",
+    "kanji": "泣",
+    "arti": "menangis"
+  },
+  {
+    "level": "n1",
+    "kanji": "隔",
+    "arti": "mengisolasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "浄",
+    "arti": "bersih"
+  },
+  {
+    "level": "n1",
+    "kanji": "没",
+    "arti": "tenggelam"
+  },
+  {
+    "level": "n1",
+    "kanji": "暇",
+    "arti": "waktu luang"
+  },
+  {
+    "level": "n1",
+    "kanji": "肺",
+    "arti": "paru-paru"
+  },
+  {
+    "level": "n1",
+    "kanji": "貞",
+    "arti": "tegak"
+  },
+  {
+    "level": "n1",
+    "kanji": "鑑",
+    "arti": "spesimen"
+  },
+  {
+    "level": "n1",
+    "kanji": "飼",
+    "arti": "mendomestikasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "陰",
+    "arti": "bayangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "銘",
+    "arti": "prasetia"
+  },
+  {
+    "level": "n1",
+    "kanji": "随",
+    "arti": "mengikuti"
+  },
+  {
+    "level": "n1",
+    "kanji": "烈",
+    "arti": "bersemangat"
+  },
+  {
+    "level": "n1",
+    "kanji": "尋",
+    "arti": "menanyakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "稿",
+    "arti": "draf"
+  },
+  {
+    "level": "n1",
+    "kanji": "丹",
+    "arti": "berwarna karat"
+  },
+  {
+    "level": "n1",
+    "kanji": "啓",
+    "arti": "membuka"
+  },
+  {
+    "level": "n1",
+    "kanji": "丘",
+    "arti": "bukit"
+  },
+  {
+    "level": "n1",
+    "kanji": "棟",
+    "arti": "usuk puncak"
+  },
+  {
+    "level": "n1",
+    "kanji": "壌",
+    "arti": "banyak"
+  },
+  {
+    "level": "n1",
+    "kanji": "漫",
+    "arti": "kartun"
+  },
+  {
+    "level": "n1",
+    "kanji": "玄",
+    "arti": "misterius"
+  },
+  {
+    "level": "n1",
+    "kanji": "粘",
+    "arti": "lengket"
+  },
+  {
+    "level": "n1",
+    "kanji": "悟",
+    "arti": "pencerahan"
+  },
+  {
+    "level": "n1",
+    "kanji": "舗",
+    "arti": "toko"
+  },
+  {
+    "level": "n1",
+    "kanji": "妊",
+    "arti": "kehamilan"
+  },
+  {
+    "level": "n1",
+    "kanji": "熟",
+    "arti": "lembut"
+  },
+  {
+    "level": "n1",
+    "kanji": "恩",
+    "arti": "anugerah"
+  },
+  {
+    "level": "n1",
+    "kanji": "騰",
+    "arti": "melompat ke atas"
+  },
+  {
+    "level": "n1",
+    "kanji": "往",
+    "arti": "perjalanan"
+  },
+  {
+    "level": "n1",
+    "kanji": "豆",
+    "arti": "kacang"
+  },
+  {
+    "level": "n1",
+    "kanji": "遂",
+    "arti": "sempurna"
+  },
+  {
+    "level": "n1",
+    "kanji": "狂",
+    "arti": "gila"
+  },
+  {
+    "level": "n1",
+    "kanji": "栃",
+    "arti": "kastanye kuda"
+  },
+  {
+    "level": "n1",
+    "kanji": "岐",
+    "arti": "bercabang"
+  },
+  {
+    "level": "n1",
+    "kanji": "陛",
+    "arti": "kebangsawanan"
+  },
+  {
+    "level": "n1",
+    "kanji": "緯",
+    "arti": "horizontal"
+  },
+  {
+    "level": "n1",
+    "kanji": "培",
+    "arti": "mengolah"
+  },
+  {
+    "level": "n1",
+    "kanji": "衰",
+    "arti": "menurun"
+  },
+  {
+    "level": "n1",
+    "kanji": "艇",
+    "arti": "perahu dayung"
+  },
+  {
+    "level": "n1",
+    "kanji": "屈",
+    "arti": "hasil"
+  },
+  {
+    "level": "n1",
+    "kanji": "径",
+    "arti": "diameter"
+  },
+  {
+    "level": "n1",
+    "kanji": "淡",
+    "arti": "tipis"
+  },
+  {
+    "level": "n1",
+    "kanji": "抽",
+    "arti": "memetik"
+  },
+  {
+    "level": "n1",
+    "kanji": "披",
+    "arti": "mengungkapkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "廷",
+    "arti": "pengadilan"
+  },
+  {
+    "level": "n1",
+    "kanji": "錦",
+    "arti": "brokat"
+  },
+  {
+    "level": "n1",
+    "kanji": "准",
+    "arti": "seakan-akan"
+  },
+  {
+    "level": "n1",
+    "kanji": "暑",
+    "arti": "lembab"
+  },
+  {
+    "level": "n1",
+    "kanji": "奨",
+    "arti": "mendesak"
+  },
+  {
+    "level": "n1",
+    "kanji": "浸",
+    "arti": "terendam"
+  },
+  {
+    "level": "n1",
+    "kanji": "剰",
+    "arti": "kelebihan"
+  },
+  {
+    "level": "n1",
+    "kanji": "胆",
+    "arti": "kantong empedu"
+  },
+  {
+    "level": "n1",
+    "kanji": "繊",
+    "arti": "langsing"
+  },
+  {
+    "level": "n1",
+    "kanji": "駒",
+    "arti": "poni"
+  },
+  {
+    "level": "n1",
+    "kanji": "虚",
+    "arti": "kosong"
+  },
+  {
+    "level": "n1",
+    "kanji": "霊",
+    "arti": "roh"
+  },
+  {
+    "level": "n1",
+    "kanji": "帳",
+    "arti": "buku catatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "悔",
+    "arti": "bertobat"
+  },
+  {
+    "level": "n1",
+    "kanji": "諭",
+    "arti": "teguran"
+  },
+  {
+    "level": "n1",
+    "kanji": "惨",
+    "arti": "hina"
+  },
+  {
+    "level": "n1",
+    "kanji": "虐",
+    "arti": "mengtirani"
+  },
+  {
+    "level": "n1",
+    "kanji": "翻",
+    "arti": "membalikkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "墜",
+    "arti": "tabrakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "沼",
+    "arti": "rawa"
+  },
+  {
+    "level": "n1",
+    "kanji": "据",
+    "arti": "atur"
+  },
+  {
+    "level": "n1",
+    "kanji": "肥",
+    "arti": "pupuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "徐",
+    "arti": "secara bertahap"
+  },
+  {
+    "level": "n1",
+    "kanji": "糖",
+    "arti": "gula"
+  },
+  {
+    "level": "n1",
+    "kanji": "搭",
+    "arti": "papan"
+  },
+  {
+    "level": "n1",
+    "kanji": "盾",
+    "arti": "perisai"
+  },
+  {
+    "level": "n1",
+    "kanji": "脈",
+    "arti": "urat"
+  },
+  {
+    "level": "n1",
+    "kanji": "滝",
+    "arti": "air terjun"
+  },
+  {
+    "level": "n1",
+    "kanji": "軌",
+    "arti": "parit"
+  },
+  {
+    "level": "n1",
+    "kanji": "俵",
+    "arti": "tas"
+  },
+  {
+    "level": "n1",
+    "kanji": "妨",
+    "arti": "mengganggu"
+  },
+  {
+    "level": "n1",
+    "kanji": "擦",
+    "arti": "parut"
+  },
+  {
+    "level": "n1",
+    "kanji": "鯨",
+    "arti": "paus"
+  },
+  {
+    "level": "n1",
+    "kanji": "荘",
+    "arti": "vila"
+  },
+  {
+    "level": "n1",
+    "kanji": "諾",
+    "arti": "persetujuan"
+  },
+  {
+    "level": "n1",
+    "kanji": "雷",
+    "arti": "guntur"
+  },
+  {
+    "level": "n1",
+    "kanji": "漂",
+    "arti": "mengambang"
+  },
+  {
+    "level": "n1",
+    "kanji": "懐",
+    "arti": "perasaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "勘",
+    "arti": "intuisi"
+  },
+  {
+    "level": "n1",
+    "kanji": "栽",
+    "arti": "perkebunan"
+  },
+  {
+    "level": "n1",
+    "kanji": "拐",
+    "arti": "menculik"
+  },
+  {
+    "level": "n1",
+    "kanji": "駄",
+    "arti": "memberatkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "添",
+    "arti": "dianeksasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "冠",
+    "arti": "mahkota"
+  },
+  {
+    "level": "n1",
+    "kanji": "斜",
+    "arti": "diagonal"
+  },
+  {
+    "level": "n1",
+    "kanji": "鏡",
+    "arti": "cermin"
+  },
+  {
+    "level": "n1",
+    "kanji": "浪",
+    "arti": "berkelana"
+  },
+  {
+    "level": "n1",
+    "kanji": "亜",
+    "arti": "asia"
+  },
+  {
+    "level": "n1",
+    "kanji": "覧",
+    "arti": "pemeriksaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "詐",
+    "arti": "berbohong"
+  },
+  {
+    "level": "n1",
+    "kanji": "壇",
+    "arti": "podium"
+  },
+  {
+    "level": "n1",
+    "kanji": "勲",
+    "arti": "tindakan berjasa"
+  },
+  {
+    "level": "n1",
+    "kanji": "魔",
+    "arti": "penyihir"
+  },
+  {
+    "level": "n1",
+    "kanji": "酬",
+    "arti": "membayar kembali"
+  },
+  {
+    "level": "n1",
+    "kanji": "紫",
+    "arti": "ungu"
+  },
+  {
+    "level": "n1",
+    "kanji": "紋",
+    "arti": "lambang keluarga"
+  },
+  {
+    "level": "n1",
+    "kanji": "卸",
+    "arti": "grosir"
+  },
+  {
+    "level": "n1",
+    "kanji": "奮",
+    "arti": "mengaduk"
+  },
+  {
+    "level": "n1",
+    "kanji": "欄",
+    "arti": "kolom"
+  },
+  {
+    "level": "n1",
+    "kanji": "逸",
+    "arti": "menyimpang"
+  },
+  {
+    "level": "n1",
+    "kanji": "涯",
+    "arti": "cakrawala"
+  },
+  {
+    "level": "n1",
+    "kanji": "拓",
+    "arti": "membersihkan (lahan)"
+  },
+  {
+    "level": "n1",
+    "kanji": "眼",
+    "arti": "bola mata"
+  },
+  {
+    "level": "n1",
+    "kanji": "獄",
+    "arti": "penjara"
+  },
+  {
+    "level": "n1",
+    "kanji": "尚",
+    "arti": "harga diri"
+  },
+  {
+    "level": "n1",
+    "kanji": "阜",
+    "arti": "bukit"
+  },
+  {
+    "level": "n1",
+    "kanji": "彫",
+    "arti": "ukir"
+  },
+  {
+    "level": "n1",
+    "kanji": "穏",
+    "arti": "tenang"
+  },
+  {
+    "level": "n1",
+    "kanji": "顕",
+    "arti": "muncul"
+  },
+  {
+    "level": "n1",
+    "kanji": "巧",
+    "arti": "cakap"
+  },
+  {
+    "level": "n1",
+    "kanji": "矛",
+    "arti": "tombak kapak"
+  },
+  {
+    "level": "n1",
+    "kanji": "垣",
+    "arti": "pagar hidup"
+  },
+  {
+    "level": "n1",
+    "kanji": "欺",
+    "arti": "tipuan"
+  },
+  {
+    "level": "n1",
+    "kanji": "釣",
+    "arti": "memancing"
+  },
+  {
+    "level": "n1",
+    "kanji": "粧",
+    "arti": "kosmetik"
+  },
+  {
+    "level": "n1",
+    "kanji": "葛",
+    "arti": "ganyong"
+  },
+  {
+    "level": "n1",
+    "kanji": "粛",
+    "arti": "khidmat"
+  },
+  {
+    "level": "n1",
+    "kanji": "愚",
+    "arti": "bodoh"
+  },
+  {
+    "level": "n1",
+    "kanji": "遭",
+    "arti": "pertemuan"
+  },
+  {
+    "level": "n1",
+    "kanji": "架",
+    "arti": "mendirikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "鬼",
+    "arti": "hantu"
+  },
+  {
+    "level": "n1",
+    "kanji": "庶",
+    "arti": "rakyat biasa"
+  },
+  {
+    "level": "n1",
+    "kanji": "稚",
+    "arti": "tidak matang"
+  },
+  {
+    "level": "n1",
+    "kanji": "滋",
+    "arti": "mengandung gizi"
+  },
+  {
+    "level": "n1",
+    "kanji": "幻",
+    "arti": "fatamorgana"
+  },
+  {
+    "level": "n1",
+    "kanji": "煮",
+    "arti": "mendidih"
+  },
+  {
+    "level": "n1",
+    "kanji": "姫",
+    "arti": "putri"
+  },
+  {
+    "level": "n1",
+    "kanji": "誓",
+    "arti": "janji"
+  },
+  {
+    "level": "n1",
+    "kanji": "把",
+    "arti": "menggenggam"
+  },
+  {
+    "level": "n1",
+    "kanji": "践",
+    "arti": "jejak"
+  },
+  {
+    "level": "n1",
+    "kanji": "呈",
+    "arti": "tampilan"
+  },
+  {
+    "level": "n1",
+    "kanji": "疎",
+    "arti": "mengasingkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "仰",
+    "arti": "terlentang"
+  },
+  {
+    "level": "n1",
+    "kanji": "剛",
+    "arti": "kokoh"
+  },
+  {
+    "level": "n1",
+    "kanji": "疾",
+    "arti": "cepat"
+  },
+  {
+    "level": "n1",
+    "kanji": "征",
+    "arti": "menguasai"
+  },
+  {
+    "level": "n1",
+    "kanji": "砕",
+    "arti": "hancurkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "謡",
+    "arti": "lagu"
+  },
+  {
+    "level": "n1",
+    "kanji": "嫁",
+    "arti": "menikah dengan"
+  },
+  {
+    "level": "n1",
+    "kanji": "謙",
+    "arti": "tidak suka menonjol"
+  },
+  {
+    "level": "n1",
+    "kanji": "后",
+    "arti": "permaisuri"
+  },
+  {
+    "level": "n1",
+    "kanji": "嘆",
+    "arti": "mendesah"
+  },
+  {
+    "level": "n1",
+    "kanji": "菌",
+    "arti": "kuman"
+  },
+  {
+    "level": "n1",
+    "kanji": "鎌",
+    "arti": "sabit"
+  },
+  {
+    "level": "n1",
+    "kanji": "巣",
+    "arti": "sarang"
+  },
+  {
+    "level": "n1",
+    "kanji": "頻",
+    "arti": "berulang-ulang"
+  },
+  {
+    "level": "n1",
+    "kanji": "琴",
+    "arti": "kecapi"
+  },
+  {
+    "level": "n1",
+    "kanji": "班",
+    "arti": "regu"
+  },
+  {
+    "level": "n1",
+    "kanji": "棚",
+    "arti": "rak"
+  },
+  {
+    "level": "n1",
+    "kanji": "潔",
+    "arti": "tak ternoda"
+  },
+  {
+    "level": "n1",
+    "kanji": "酷",
+    "arti": "kejam"
+  },
+  {
+    "level": "n1",
+    "kanji": "宰",
+    "arti": "mengawasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "廊",
+    "arti": "koridor"
+  },
+  {
+    "level": "n1",
+    "kanji": "寂",
+    "arti": "kesepian"
+  },
+  {
+    "level": "n1",
+    "kanji": "伏",
+    "arti": "tersungkur"
+  },
+  {
+    "level": "n1",
+    "kanji": "碁",
+    "arti": "pergi"
+  },
+  {
+    "level": "n1",
+    "kanji": "俗",
+    "arti": "kasar"
+  },
+  {
+    "level": "n1",
+    "kanji": "漠",
+    "arti": "samar"
+  },
+  {
+    "level": "n1",
+    "kanji": "邪",
+    "arti": "jahat"
+  },
+  {
+    "level": "n1",
+    "kanji": "晶",
+    "arti": "berkilau"
+  },
+  {
+    "level": "n1",
+    "kanji": "墨",
+    "arti": "tinta hitam"
+  },
+  {
+    "level": "n1",
+    "kanji": "鎮",
+    "arti": "menenangkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "洞",
+    "arti": "denmark"
+  },
+  {
+    "level": "n1",
+    "kanji": "履",
+    "arti": "melakukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "劣",
+    "arti": "inferioritas"
+  },
+  {
+    "level": "n1",
+    "kanji": "那",
+    "arti": "apa?"
+  },
+  {
+    "level": "n1",
+    "kanji": "殴",
+    "arti": "serangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "娠",
+    "arti": "hamil"
+  },
+  {
+    "level": "n1",
+    "kanji": "奉",
+    "arti": "pengamatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "憂",
+    "arti": "melankolis"
+  },
+  {
+    "level": "n1",
+    "kanji": "朴",
+    "arti": "kasar"
+  },
+  {
+    "level": "n1",
+    "kanji": "亭",
+    "arti": "paviliun"
+  },
+  {
+    "level": "n1",
+    "kanji": "怪",
+    "arti": "mencurigakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "酔",
+    "arti": "mabuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "惜",
+    "arti": "kasihan"
+  },
+  {
+    "level": "n1",
+    "kanji": "穫",
+    "arti": "panen"
+  },
+  {
+    "level": "n1",
+    "kanji": "佳",
+    "arti": "luar biasa"
+  },
+  {
+    "level": "n1",
+    "kanji": "潤",
+    "arti": "basah"
+  },
+  {
+    "level": "n1",
+    "kanji": "悼",
+    "arti": "ratapan"
+  },
+  {
+    "level": "n1",
+    "kanji": "乏",
+    "arti": "kemiskinan"
+  },
+  {
+    "level": "n1",
+    "kanji": "該",
+    "arti": "yang disebutkan di atas"
+  },
+  {
+    "level": "n1",
+    "kanji": "赴",
+    "arti": "melanjutkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "桑",
+    "arti": "murbei"
+  },
+  {
+    "level": "n1",
+    "kanji": "髄",
+    "arti": "sumsum"
+  },
+  {
+    "level": "n1",
+    "kanji": "虎",
+    "arti": "harimau"
+  },
+  {
+    "level": "n1",
+    "kanji": "盆",
+    "arti": "cekungan"
+  },
+  {
+    "level": "n1",
+    "kanji": "穂",
+    "arti": "telinga"
+  },
+  {
+    "level": "n1",
+    "kanji": "壮",
+    "arti": "tangguh"
+  },
+  {
+    "level": "n1",
+    "kanji": "堤",
+    "arti": "tanggul"
+  },
+  {
+    "level": "n1",
+    "kanji": "飢",
+    "arti": "lapar"
+  },
+  {
+    "level": "n1",
+    "kanji": "傍",
+    "arti": "penonton"
+  },
+  {
+    "level": "n1",
+    "kanji": "疫",
+    "arti": "wabah"
+  },
+  {
+    "level": "n1",
+    "kanji": "累",
+    "arti": "mengumpulkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "痴",
+    "arti": "bodoh"
+  },
+  {
+    "level": "n1",
+    "kanji": "搬",
+    "arti": "konveyor"
+  },
+  {
+    "level": "n1",
+    "kanji": "癒",
+    "arti": "penyembuhan"
+  },
+  {
+    "level": "n1",
+    "kanji": "寸",
+    "arti": "pengukuran"
+  },
+  {
+    "level": "n1",
+    "kanji": "郭",
+    "arti": "kandang"
+  },
+  {
+    "level": "n1",
+    "kanji": "尿",
+    "arti": "urin"
+  },
+  {
+    "level": "n1",
+    "kanji": "凶",
+    "arti": "penjahat"
+  },
+  {
+    "level": "n1",
+    "kanji": "吐",
+    "arti": "ludah"
+  },
+  {
+    "level": "n1",
+    "kanji": "宴",
+    "arti": "pesta jamuan"
+  },
+  {
+    "level": "n1",
+    "kanji": "賓",
+    "arti": "v.i.p."
+  },
+  {
+    "level": "n1",
+    "kanji": "虜",
+    "arti": "tawanan"
+  },
+  {
+    "level": "n1",
+    "kanji": "陶",
+    "arti": "tembikar"
+  },
+  {
+    "level": "n1",
+    "kanji": "鐘",
+    "arti": "lonceng"
+  },
+  {
+    "level": "n1",
+    "kanji": "憾",
+    "arti": "penyesalan"
+  },
+  {
+    "level": "n1",
+    "kanji": "畿",
+    "arti": "ibu kota"
+  },
+  {
+    "level": "n1",
+    "kanji": "磁",
+    "arti": "magnet"
+  },
+  {
+    "level": "n1",
+    "kanji": "弥",
+    "arti": "lebih lagi"
+  },
+  {
+    "level": "n1",
+    "kanji": "昆",
+    "arti": "keturunan"
+  },
+  {
+    "level": "n1",
+    "kanji": "粗",
+    "arti": "kasar"
+  },
+  {
+    "level": "n1",
+    "kanji": "訂",
+    "arti": "revisi"
+  },
+  {
+    "level": "n1",
+    "kanji": "芽",
+    "arti": "kuncup"
+  },
+  {
+    "level": "n1",
+    "kanji": "傘",
+    "arti": "payung"
+  },
+  {
+    "level": "n1",
+    "kanji": "騎",
+    "arti": "ekuestrian"
+  },
+  {
+    "level": "n1",
+    "kanji": "寧",
+    "arti": "lebih suka"
+  },
+  {
+    "level": "n1",
+    "kanji": "循",
+    "arti": "berurutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "忍",
+    "arti": "bertahan"
+  },
+  {
+    "level": "n1",
+    "kanji": "怠",
+    "arti": "mengabaikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "如",
+    "arti": "kesamaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "寮",
+    "arti": "asrama"
+  },
+  {
+    "level": "n1",
+    "kanji": "鉛",
+    "arti": "timbal"
+  },
+  {
+    "level": "n1",
+    "kanji": "珠",
+    "arti": "mutiara"
+  },
+  {
+    "level": "n1",
+    "kanji": "凝",
+    "arti": "membeku"
+  },
+  {
+    "level": "n1",
+    "kanji": "苗",
+    "arti": "bibit"
+  },
+  {
+    "level": "n1",
+    "kanji": "獣",
+    "arti": "hewan"
+  },
+  {
+    "level": "n1",
+    "kanji": "哀",
+    "arti": "menyedihkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "跳",
+    "arti": "melompat"
+  },
+  {
+    "level": "n1",
+    "kanji": "匠",
+    "arti": "pengrajin"
+  },
+  {
+    "level": "n1",
+    "kanji": "垂",
+    "arti": "layu"
+  },
+  {
+    "level": "n1",
+    "kanji": "蛇",
+    "arti": "ular"
+  },
+  {
+    "level": "n1",
+    "kanji": "澄",
+    "arti": "kejelasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "縫",
+    "arti": "jahit"
+  },
+  {
+    "level": "n1",
+    "kanji": "僧",
+    "arti": "pendeta Buddha"
+  },
+  {
+    "level": "n1",
+    "kanji": "眺",
+    "arti": "tatap"
+  },
+  {
+    "level": "n1",
+    "kanji": "唐",
+    "arti": "T'ang"
+  },
+  {
+    "level": "n1",
+    "kanji": "呉",
+    "arti": "beri"
+  },
+  {
+    "level": "n1",
+    "kanji": "凡",
+    "arti": "umum"
+  },
+  {
+    "level": "n1",
+    "kanji": "憩",
+    "arti": "istirahat"
+  },
+  {
+    "level": "n1",
+    "kanji": "媛",
+    "arti": "wanita cantik"
+  },
+  {
+    "level": "n1",
+    "kanji": "溝",
+    "arti": "selokan"
+  },
+  {
+    "level": "n1",
+    "kanji": "恭",
+    "arti": "hormat"
+  },
+  {
+    "level": "n1",
+    "kanji": "刈",
+    "arti": "menuai"
+  },
+  {
+    "level": "n1",
+    "kanji": "睡",
+    "arti": "mengantuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "錯",
+    "arti": "bingung"
+  },
+  {
+    "level": "n1",
+    "kanji": "伯",
+    "arti": "kepala"
+  },
+  {
+    "level": "n1",
+    "kanji": "穀",
+    "arti": "sereal"
+  },
+  {
+    "level": "n1",
+    "kanji": "柿",
+    "arti": "kesemek"
+  },
+  {
+    "level": "n1",
+    "kanji": "陵",
+    "arti": "mausoleum"
+  },
+  {
+    "level": "n1",
+    "kanji": "霧",
+    "arti": "kabut"
+  },
+  {
+    "level": "n1",
+    "kanji": "魂",
+    "arti": "jiwa"
+  },
+  {
+    "level": "n1",
+    "kanji": "弊",
+    "arti": "penyalahgunaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "妃",
+    "arti": "ratu"
+  },
+  {
+    "level": "n1",
+    "kanji": "舶",
+    "arti": "pelapis"
+  },
+  {
+    "level": "n1",
+    "kanji": "餓",
+    "arti": "kelaparan"
+  },
+  {
+    "level": "n1",
+    "kanji": "腎",
+    "arti": "ginjal"
+  },
+  {
+    "level": "n1",
+    "kanji": "窮",
+    "arti": "kekurangan uang"
+  },
+  {
+    "level": "n1",
+    "kanji": "掌",
+    "arti": "memanipulasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "麗",
+    "arti": "menawan"
+  },
+  {
+    "level": "n1",
+    "kanji": "臭",
+    "arti": "bau busuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "釜",
+    "arti": "ketel"
+  },
+  {
+    "level": "n1",
+    "kanji": "悦",
+    "arti": "ekstasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "刃",
+    "arti": "bilah"
+  },
+  {
+    "level": "n1",
+    "kanji": "縛",
+    "arti": "kaso"
+  },
+  {
+    "level": "n1",
+    "kanji": "暦",
+    "arti": "kalender"
+  },
+  {
+    "level": "n1",
+    "kanji": "宜",
+    "arti": "salam hormat"
+  },
+  {
+    "level": "n1",
+    "kanji": "盲",
+    "arti": "buta"
+  },
+  {
+    "level": "n1",
+    "kanji": "粋",
+    "arti": "mewah"
+  },
+  {
+    "level": "n1",
+    "kanji": "辱",
+    "arti": "memalukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "轄",
+    "arti": "kontrol"
+  },
+  {
+    "level": "n1",
+    "kanji": "猿",
+    "arti": "monyet"
+  },
+  {
+    "level": "n1",
+    "kanji": "弦",
+    "arti": "tali busur"
+  },
+  {
+    "level": "n1",
+    "kanji": "窒",
+    "arti": "menyumbat"
+  },
+  {
+    "level": "n1",
+    "kanji": "炊",
+    "arti": "memasak"
+  },
+  {
+    "level": "n1",
+    "kanji": "洪",
+    "arti": "banjir besar"
+  },
+  {
+    "level": "n1",
+    "kanji": "摂",
+    "arti": "perwakilan"
+  },
+  {
+    "level": "n1",
+    "kanji": "飽",
+    "arti": "kenyang"
+  },
+  {
+    "level": "n1",
+    "kanji": "冗",
+    "arti": "berlebihan"
+  },
+  {
+    "level": "n1",
+    "kanji": "桃",
+    "arti": "persik"
+  },
+  {
+    "level": "n1",
+    "kanji": "狩",
+    "arti": "berburu"
+  },
+  {
+    "level": "n1",
+    "kanji": "朱",
+    "arti": "merah bata"
+  },
+  {
+    "level": "n1",
+    "kanji": "渦",
+    "arti": "pusaran air"
+  },
+  {
+    "level": "n1",
+    "kanji": "紳",
+    "arti": "sirine"
+  },
+  {
+    "level": "n1",
+    "kanji": "枢",
+    "arti": "engsel"
+  },
+  {
+    "level": "n1",
+    "kanji": "碑",
+    "arti": "nisan"
+  },
+  {
+    "level": "n1",
+    "kanji": "鍛",
+    "arti": "membentuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "刀",
+    "arti": "pedang"
+  },
+  {
+    "level": "n1",
+    "kanji": "鼓",
+    "arti": "drum"
+  },
+  {
+    "level": "n1",
+    "kanji": "裸",
+    "arti": "telanjang"
+  },
+  {
+    "level": "n1",
+    "kanji": "猶",
+    "arti": "selain itu"
+  },
+  {
+    "level": "n1",
+    "kanji": "塊",
+    "arti": "gumpalan"
+  },
+  {
+    "level": "n1",
+    "kanji": "旋",
+    "arti": "rotasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "弓",
+    "arti": "busur"
+  },
+  {
+    "level": "n1",
+    "kanji": "幣",
+    "arti": "uang tunai"
+  },
+  {
+    "level": "n1",
+    "kanji": "膜",
+    "arti": "membran"
+  },
+  {
+    "level": "n1",
+    "kanji": "扇",
+    "arti": "kipas"
+  },
+  {
+    "level": "n1",
+    "kanji": "腸",
+    "arti": "usus"
+  },
+  {
+    "level": "n1",
+    "kanji": "槽",
+    "arti": "pajak pertambahan nilai"
+  },
+  {
+    "level": "n1",
+    "kanji": "鍋",
+    "arti": "pot"
+  },
+  {
+    "level": "n1",
+    "kanji": "慈",
+    "arti": "belas kasihan"
+  },
+  {
+    "level": "n1",
+    "kanji": "伐",
+    "arti": "jatuh"
+  },
+  {
+    "level": "n1",
+    "kanji": "漬",
+    "arti": "pengawetan"
+  },
+  {
+    "level": "n1",
+    "kanji": "糾",
+    "arti": "memutar"
+  },
+  {
+    "level": "n1",
+    "kanji": "墳",
+    "arti": "makam"
+  },
+  {
+    "level": "n1",
+    "kanji": "坪",
+    "arti": "area dua tikar"
+  },
+  {
+    "level": "n1",
+    "kanji": "紺",
+    "arti": "biru tua"
+  },
+  {
+    "level": "n1",
+    "kanji": "慌",
+    "arti": "bingung"
+  },
+  {
+    "level": "n1",
+    "kanji": "娯",
+    "arti": "rekreasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "舌",
+    "arti": "lidah"
+  },
+  {
+    "level": "n1",
+    "kanji": "羅",
+    "arti": "kasa"
+  },
+  {
+    "level": "n1",
+    "kanji": "峡",
+    "arti": "ngarai"
+  },
+  {
+    "level": "n1",
+    "kanji": "俸",
+    "arti": "uang saku"
+  },
+  {
+    "level": "n1",
+    "kanji": "厘",
+    "arti": "rin"
+  },
+  {
+    "level": "n1",
+    "kanji": "峰",
+    "arti": "puncak"
+  },
+  {
+    "level": "n1",
+    "kanji": "醸",
+    "arti": "mendidihkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "弔",
+    "arti": "belasungkawa"
+  },
+  {
+    "level": "n1",
+    "kanji": "乙",
+    "arti": "yang terakhir"
+  },
+  {
+    "level": "n1",
+    "kanji": "汁",
+    "arti": "sup"
+  },
+  {
+    "level": "n1",
+    "kanji": "尼",
+    "arti": "biarawati"
+  },
+  {
+    "level": "n1",
+    "kanji": "遍",
+    "arti": "di mana-mana"
+  },
+  {
+    "level": "n1",
+    "kanji": "衡",
+    "arti": "kesetimbangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "薫",
+    "arti": "mengeluarkan aroma"
+  },
+  {
+    "level": "n1",
+    "kanji": "瓦",
+    "arti": "ubin"
+  },
+  {
+    "level": "n1",
+    "kanji": "猟",
+    "arti": "berburu"
+  },
+  {
+    "level": "n1",
+    "kanji": "羊",
+    "arti": "domba"
+  },
+  {
+    "level": "n1",
+    "kanji": "款",
+    "arti": "nurani baik"
+  },
+  {
+    "level": "n1",
+    "kanji": "閲",
+    "arti": "ulasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "偵",
+    "arti": "mata-mata"
+  },
+  {
+    "level": "n1",
+    "kanji": "喝",
+    "arti": "serak"
+  },
+  {
+    "level": "n1",
+    "kanji": "敢",
+    "arti": "online"
+  },
+  {
+    "level": "n1",
+    "kanji": "胎",
+    "arti": "rahim"
+  },
+  {
+    "level": "n1",
+    "kanji": "酵",
+    "arti": "fermentasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "憤",
+    "arti": "terangsang"
+  },
+  {
+    "level": "n1",
+    "kanji": "豚",
+    "arti": "babi"
+  },
+  {
+    "level": "n1",
+    "kanji": "遮",
+    "arti": "mencegat"
+  },
+  {
+    "level": "n1",
+    "kanji": "扉",
+    "arti": "pintu depan"
+  },
+  {
+    "level": "n1",
+    "kanji": "硫",
+    "arti": "belerang"
+  },
+  {
+    "level": "n1",
+    "kanji": "赦",
+    "arti": "maaf"
+  },
+  {
+    "level": "n1",
+    "kanji": "挫",
+    "arti": "kecintaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "窃",
+    "arti": "senyap"
+  },
+  {
+    "level": "n1",
+    "kanji": "泡",
+    "arti": "gelembung"
+  },
+  {
+    "level": "n1",
+    "kanji": "又",
+    "arti": "atau lagi"
+  },
+  {
+    "level": "n1",
+    "kanji": "慨",
+    "arti": "sesal"
+  },
+  {
+    "level": "n1",
+    "kanji": "紡",
+    "arti": "berputar"
+  },
+  {
+    "level": "n1",
+    "kanji": "恨",
+    "arti": "penyesalan"
+  },
+  {
+    "level": "n1",
+    "kanji": "肪",
+    "arti": "gemuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "扶",
+    "arti": "bantuan"
+  },
+  {
+    "level": "n1",
+    "kanji": "戯",
+    "arti": "bermain-main"
+  },
+  {
+    "level": "n1",
+    "kanji": "忌",
+    "arti": "berduka"
+  },
+  {
+    "level": "n1",
+    "kanji": "濁",
+    "arti": "berbicara"
+  },
+  {
+    "level": "n1",
+    "kanji": "奔",
+    "arti": "lari"
+  },
+  {
+    "level": "n1",
+    "kanji": "斗",
+    "arti": "gugus bintang besar"
+  },
+  {
+    "level": "n1",
+    "kanji": "迅",
+    "arti": "cepat"
+  },
+  {
+    "level": "n1",
+    "kanji": "肖",
+    "arti": "kesamaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "鉢",
+    "arti": "mangkuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "朽",
+    "arti": "peluruhan"
+  },
+  {
+    "level": "n1",
+    "kanji": "殻",
+    "arti": "sekam"
+  },
+  {
+    "level": "n1",
+    "kanji": "享",
+    "arti": "menikmati"
+  },
+  {
+    "level": "n1",
+    "kanji": "藩",
+    "arti": "klan"
+  },
+  {
+    "level": "n1",
+    "kanji": "沙",
+    "arti": "pasir"
+  },
+  {
+    "level": "n1",
+    "kanji": "媒",
+    "arti": "penengah"
+  },
+  {
+    "level": "n1",
+    "kanji": "鶏",
+    "arti": "ayam"
+  },
+  {
+    "level": "n1",
+    "kanji": "禅",
+    "arti": "zen"
+  },
+  {
+    "level": "n1",
+    "kanji": "嘱",
+    "arti": "percayakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "胴",
+    "arti": "batang"
+  },
+  {
+    "level": "n1",
+    "kanji": "迭",
+    "arti": "transfer"
+  },
+  {
+    "level": "n1",
+    "kanji": "挿",
+    "arti": "memasukkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "嵐",
+    "arti": "badai"
+  },
+  {
+    "level": "n1",
+    "kanji": "椎",
+    "arti": "kastanye chinquapin"
+  },
+  {
+    "level": "n1",
+    "kanji": "絹",
+    "arti": "sutra"
+  },
+  {
+    "level": "n1",
+    "kanji": "陪",
+    "arti": "penghormatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "剖",
+    "arti": "membagi"
+  },
+  {
+    "level": "n1",
+    "kanji": "譜",
+    "arti": "partitur musik"
+  },
+  {
+    "level": "n1",
+    "kanji": "悠",
+    "arti": "kekalan"
+  },
+  {
+    "level": "n1",
+    "kanji": "淑",
+    "arti": "anggun"
+  },
+  {
+    "level": "n1",
+    "kanji": "帆",
+    "arti": "berlayar"
+  },
+  {
+    "level": "n1",
+    "kanji": "暁",
+    "arti": "fajar"
+  },
+  {
+    "level": "n1",
+    "kanji": "傑",
+    "arti": "keagungan"
+  },
+  {
+    "level": "n1",
+    "kanji": "笛",
+    "arti": "seruling"
+  },
+  {
+    "level": "n1",
+    "kanji": "奴",
+    "arti": "pria"
+  },
+  {
+    "level": "n1",
+    "kanji": "錠",
+    "arti": "mengunci"
+  },
+  {
+    "level": "n1",
+    "kanji": "拳",
+    "arti": "tinju"
+  },
+  {
+    "level": "n1",
+    "kanji": "遷",
+    "arti": "transisi"
+  },
+  {
+    "level": "n1",
+    "kanji": "拙",
+    "arti": "ceroboh"
+  },
+  {
+    "level": "n1",
+    "kanji": "侍",
+    "arti": "pelayan"
+  },
+  {
+    "level": "n1",
+    "kanji": "尺",
+    "arti": "syaku"
+  },
+  {
+    "level": "n1",
+    "kanji": "峠",
+    "arti": "puncak gunung"
+  },
+  {
+    "level": "n1",
+    "kanji": "篤",
+    "arti": "bersemangat"
+  },
+  {
+    "level": "n1",
+    "kanji": "渇",
+    "arti": "haus"
+  },
+  {
+    "level": "n1",
+    "kanji": "叔",
+    "arti": "paman"
+  },
+  {
+    "level": "n1",
+    "kanji": "雌",
+    "arti": "feminin"
+  },
+  {
+    "level": "n1",
+    "kanji": "堪",
+    "arti": "bertahan"
+  },
+  {
+    "level": "n1",
+    "kanji": "叙",
+    "arti": "berunding"
+  },
+  {
+    "level": "n1",
+    "kanji": "酢",
+    "arti": "cuka"
+  },
+  {
+    "level": "n1",
+    "kanji": "吟",
+    "arti": "membuat puisi"
+  },
+  {
+    "level": "n1",
+    "kanji": "逓",
+    "arti": "estafet"
+  },
+  {
+    "level": "n1",
+    "kanji": "痕",
+    "arti": "tanda"
+  },
+  {
+    "level": "n1",
+    "kanji": "袖",
+    "arti": "lengan"
+  },
+  {
+    "level": "n1",
+    "kanji": "甚",
+    "arti": "sangat"
+  },
+  {
+    "level": "n1",
+    "kanji": "妖",
+    "arti": "menarik"
+  },
+  {
+    "level": "n1",
+    "kanji": "崇",
+    "arti": "mengagumi"
+  },
+  {
+    "level": "n1",
+    "kanji": "漆",
+    "arti": "laker"
+  },
+  {
+    "level": "n1",
+    "kanji": "岬",
+    "arti": "tanah yang menjorok ke laut"
+  },
+  {
+    "level": "n1",
+    "kanji": "癖",
+    "arti": "manierisme"
+  },
+  {
+    "level": "n1",
+    "kanji": "愉",
+    "arti": "kesenangan"
+  },
+  {
+    "level": "n1",
+    "kanji": "捉",
+    "arti": "tangkap"
+  },
+  {
+    "level": "n1",
+    "kanji": "礁",
+    "arti": "terumbu karang"
+  },
+  {
+    "level": "n1",
+    "kanji": "屯",
+    "arti": "barak"
+  },
+  {
+    "level": "n1",
+    "kanji": "姻",
+    "arti": "perkawinan"
+  },
+  {
+    "level": "n1",
+    "kanji": "賭",
+    "arti": "berjudi"
+  },
+  {
+    "level": "n1",
+    "kanji": "擬",
+    "arti": "meniru"
+  },
+  {
+    "level": "n1",
+    "kanji": "塀",
+    "arti": "pagar"
+  },
+  {
+    "level": "n1",
+    "kanji": "唇",
+    "arti": "bibir"
+  },
+  {
+    "level": "n1",
+    "kanji": "睦",
+    "arti": "intim"
+  },
+  {
+    "level": "n1",
+    "kanji": "閑",
+    "arti": "waktu luang"
+  },
+  {
+    "level": "n1",
+    "kanji": "幽",
+    "arti": "menyendiri"
+  },
+  {
+    "level": "n1",
+    "kanji": "曹",
+    "arti": "kantor"
+  },
+  {
+    "level": "n1",
+    "kanji": "詠",
+    "arti": "deklamasi"
+  },
+  {
+    "level": "n1",
+    "kanji": "卑",
+    "arti": "rendah hati"
+  },
+  {
+    "level": "n1",
+    "kanji": "侮",
+    "arti": "penghinaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "鋳",
+    "arti": "pemilihan pemeran"
+  },
+  {
+    "level": "n1",
+    "kanji": "抹",
+    "arti": "gosok"
+  },
+  {
+    "level": "n1",
+    "kanji": "尉",
+    "arti": "perwira militer"
+  },
+  {
+    "level": "n1",
+    "kanji": "隷",
+    "arti": "budak"
+  },
+  {
+    "level": "n1",
+    "kanji": "禍",
+    "arti": "bencana"
+  },
+  {
+    "level": "n1",
+    "kanji": "酪",
+    "arti": "produk susu"
+  },
+  {
+    "level": "n1",
+    "kanji": "茎",
+    "arti": "tangkai"
+  },
+  {
+    "level": "n1",
+    "kanji": "汎",
+    "arti": "serba-"
+  },
+  {
+    "level": "n1",
+    "kanji": "帥",
+    "arti": "komandan"
+  },
+  {
+    "level": "n1",
+    "kanji": "逝",
+    "arti": "berangkat"
+  },
+  {
+    "level": "n1",
+    "kanji": "汽",
+    "arti": "uap"
+  },
+  {
+    "level": "n1",
+    "kanji": "謎",
+    "arti": "teka-teki"
+  },
+  {
+    "level": "n1",
+    "kanji": "匿",
+    "arti": "sembunyi"
+  },
+  {
+    "level": "n1",
+    "kanji": "爪",
+    "arti": "cakar"
+  },
+  {
+    "level": "n1",
+    "kanji": "鍵",
+    "arti": "kunci"
+  },
+  {
+    "level": "n1",
+    "kanji": "襟",
+    "arti": "kerah"
+  },
+  {
+    "level": "n1",
+    "kanji": "蛍",
+    "arti": "kunang-kunang"
+  },
+  {
+    "level": "n1",
+    "kanji": "寡",
+    "arti": "janda"
+  },
+  {
+    "level": "n1",
+    "kanji": "痢",
+    "arti": "diare"
+  },
+  {
+    "level": "n1",
+    "kanji": "庸",
+    "arti": "umum"
+  },
+  {
+    "level": "n1",
+    "kanji": "坑",
+    "arti": "lubang"
+  },
+  {
+    "level": "n1",
+    "kanji": "藍",
+    "arti": "nila"
+  },
+  {
+    "level": "n1",
+    "kanji": "賊",
+    "arti": "pencuri"
+  },
+  {
+    "level": "n1",
+    "kanji": "搾",
+    "arti": "memeras"
+  },
+  {
+    "level": "n1",
+    "kanji": "臼",
+    "arti": "mortir"
+  },
+  {
+    "level": "n1",
+    "kanji": "畔",
+    "arti": "pematang sawah"
+  },
+  {
+    "level": "n1",
+    "kanji": "唄",
+    "arti": "lagu"
+  },
+  {
+    "level": "n1",
+    "kanji": "孔",
+    "arti": "rongga"
+  },
+  {
+    "level": "n1",
+    "kanji": "呂",
+    "arti": "tulang belakang"
+  },
+  {
+    "level": "n1",
+    "kanji": "拷",
+    "arti": "penyiksaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "嬢",
+    "arti": "gadis"
+  },
+  {
+    "level": "n1",
+    "kanji": "渓",
+    "arti": "aliran gunung"
+  },
+  {
+    "level": "n1",
+    "kanji": "翁",
+    "arti": "orang tua yang terhormat"
+  },
+  {
+    "level": "n1",
+    "kanji": "廉",
+    "arti": "tawar-menawar"
+  },
+  {
+    "level": "n1",
+    "kanji": "牙",
+    "arti": "gading"
+  },
+  {
+    "level": "n1",
+    "kanji": "謹",
+    "arti": "bijaksana"
+  },
+  {
+    "level": "n1",
+    "kanji": "瞳",
+    "arti": "pupil (mata)"
+  },
+  {
+    "level": "n1",
+    "kanji": "湧",
+    "arti": "mendidih"
+  },
+  {
+    "level": "n1",
+    "kanji": "窯",
+    "arti": "tungku"
+  },
+  {
+    "level": "n1",
+    "kanji": "褒",
+    "arti": "pujian"
+  },
+  {
+    "level": "n1",
+    "kanji": "醜",
+    "arti": "jelek"
+  },
+  {
+    "level": "n1",
+    "kanji": "升",
+    "arti": "kotak ukur"
+  },
+  {
+    "level": "n1",
+    "kanji": "殉",
+    "arti": "martir"
+  },
+  {
+    "level": "n1",
+    "kanji": "煩",
+    "arti": "kecemasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "枕",
+    "arti": "bantal"
+  },
+  {
+    "level": "n1",
+    "kanji": "劾",
+    "arti": "kecaman"
+  },
+  {
+    "level": "n1",
+    "kanji": "堕",
+    "arti": "degeneratif"
+  },
+  {
+    "level": "n1",
+    "kanji": "丼",
+    "arti": "mangkuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "租",
+    "arti": "tarif"
+  },
+  {
+    "level": "n1",
+    "kanji": "桟",
+    "arti": "perancah"
+  },
+  {
+    "level": "n1",
+    "kanji": "惧",
+    "arti": "ketakutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "婿",
+    "arti": "mempelai pria"
+  },
+  {
+    "level": "n1",
+    "kanji": "慕",
+    "arti": "merindukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "罷",
+    "arti": "berhenti"
+  },
+  {
+    "level": "n1",
+    "kanji": "矯",
+    "arti": "memperbaiki"
+  },
+  {
+    "level": "n1",
+    "kanji": "某",
+    "arti": "si anu"
+  },
+  {
+    "level": "n1",
+    "kanji": "囚",
+    "arti": "ditangkap"
+  },
+  {
+    "level": "n1",
+    "kanji": "虹",
+    "arti": "pelangi"
+  },
+  {
+    "level": "n1",
+    "kanji": "泌",
+    "arti": "mengeluarkan cairan kental"
+  },
+  {
+    "level": "n1",
+    "kanji": "漸",
+    "arti": "secara berkelanjutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "膳",
+    "arti": "meja kecil rendah"
+  },
+  {
+    "level": "n1",
+    "kanji": "蚊",
+    "arti": "nyamuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "厄",
+    "arti": "tidak beruntung"
+  },
+  {
+    "level": "n1",
+    "kanji": "藻",
+    "arti": "rumput laut"
+  },
+  {
+    "level": "n1",
+    "kanji": "嫡",
+    "arti": "istri sah"
+  },
+  {
+    "level": "n1",
+    "kanji": "呪",
+    "arti": "mantra"
+  },
+  {
+    "level": "n1",
+    "kanji": "怨",
+    "arti": "dendam"
+  },
+  {
+    "level": "n1",
+    "kanji": "串",
+    "arti": "ludah"
+  },
+  {
+    "level": "n1",
+    "kanji": "嚇",
+    "arti": "mengancam"
+  },
+  {
+    "level": "n1",
+    "kanji": "凸",
+    "arti": "cembung"
+  },
+  {
+    "level": "n1",
+    "kanji": "腫",
+    "arti": "tumor"
+  },
+  {
+    "level": "n1",
+    "kanji": "韻",
+    "arti": "sajak"
+  },
+  {
+    "level": "n1",
+    "kanji": "霜",
+    "arti": "embun beku"
+  },
+  {
+    "level": "n1",
+    "kanji": "餅",
+    "arti": "kue beras mochi"
+  },
+  {
+    "level": "n1",
+    "kanji": "硝",
+    "arti": "nitrat"
+  },
+  {
+    "level": "n1",
+    "kanji": "箸",
+    "arti": "sumpit"
+  },
+  {
+    "level": "n1",
+    "kanji": "勅",
+    "arti": "perintah kekaisaran"
+  },
+  {
+    "level": "n1",
+    "kanji": "棺",
+    "arti": "peti mati"
+  },
+  {
+    "level": "n1",
+    "kanji": "儒",
+    "arti": "konfusianisme"
+  },
+  {
+    "level": "n1",
+    "kanji": "斑",
+    "arti": "titik"
+  },
+  {
+    "level": "n1",
+    "kanji": "摯",
+    "arti": "hadiah"
+  },
+  {
+    "level": "n1",
+    "kanji": "愁",
+    "arti": "kesulitan"
+  },
+  {
+    "level": "n1",
+    "kanji": "楼",
+    "arti": "menara pengawas"
+  },
+  {
+    "level": "n1",
+    "kanji": "眉",
+    "arti": "alis"
+  },
+  {
+    "level": "n1",
+    "kanji": "薪",
+    "arti": "bahan bakar"
+  },
+  {
+    "level": "n1",
+    "kanji": "堆",
+    "arti": "ditumpuk tinggi"
+  },
+  {
+    "level": "n1",
+    "kanji": "褐",
+    "arti": "coklat"
+  },
+  {
+    "level": "n1",
+    "kanji": "賜",
+    "arti": "hibah"
+  },
+  {
+    "level": "n1",
+    "kanji": "繕",
+    "arti": "menambal"
+  },
+  {
+    "level": "n1",
+    "kanji": "栓",
+    "arti": "colokan"
+  },
+  {
+    "level": "n1",
+    "kanji": "芯",
+    "arti": "sumbu"
+  },
+  {
+    "level": "n1",
+    "kanji": "蜜",
+    "arti": "madu"
+  },
+  {
+    "level": "n1",
+    "kanji": "凹",
+    "arti": "cekung"
+  },
+  {
+    "level": "n1",
+    "kanji": "艶",
+    "arti": "mengkilap"
+  },
+  {
+    "level": "n1",
+    "kanji": "股",
+    "arti": "paha"
+  },
+  {
+    "level": "n1",
+    "kanji": "匂",
+    "arti": "harum"
+  },
+  {
+    "level": "n1",
+    "kanji": "玩",
+    "arti": "main"
+  },
+  {
+    "level": "n1",
+    "kanji": "錬",
+    "arti": "perlakuan panas"
+  },
+  {
+    "level": "n1",
+    "kanji": "蜂",
+    "arti": "lebah"
+  },
+  {
+    "level": "n1",
+    "kanji": "衷",
+    "arti": "terdalam"
+  },
+  {
+    "level": "n1",
+    "kanji": "逐",
+    "arti": "mengejar"
+  },
+  {
+    "level": "n1",
+    "kanji": "斥",
+    "arti": "tolak"
+  },
+  {
+    "level": "n1",
+    "kanji": "詔",
+    "arti": "dekrit kekaisaran"
+  },
+  {
+    "level": "n1",
+    "kanji": "椅",
+    "arti": "kursi"
+  },
+  {
+    "level": "n1",
+    "kanji": "挨",
+    "arti": "pendekatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "憧",
+    "arti": "menginginkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "宵",
+    "arti": "dini hari"
+  },
+  {
+    "level": "n1",
+    "kanji": "妄",
+    "arti": "khayalan"
+  },
+  {
+    "level": "n1",
+    "kanji": "酌",
+    "arti": "melayani bar"
+  },
+  {
+    "level": "n1",
+    "kanji": "蚕",
+    "arti": "ulat sutera"
+  },
+  {
+    "level": "n1",
+    "kanji": "餌",
+    "arti": "makanan"
+  },
+  {
+    "level": "n1",
+    "kanji": "頒",
+    "arti": "mendistribusikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "肢",
+    "arti": "anggota badan"
+  },
+  {
+    "level": "n1",
+    "kanji": "謄",
+    "arti": "mesin stensil"
+  },
+  {
+    "level": "n1",
+    "kanji": "脊",
+    "arti": "postur"
+  },
+  {
+    "level": "n1",
+    "kanji": "嗣",
+    "arti": "ahli waris"
+  },
+  {
+    "level": "n1",
+    "kanji": "凄",
+    "arti": "mencengangkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "嫉",
+    "arti": "cemburu"
+  },
+  {
+    "level": "n1",
+    "kanji": "恣",
+    "arti": "egois"
+  },
+  {
+    "level": "n1",
+    "kanji": "畝",
+    "arti": "alur"
+  },
+  {
+    "level": "n1",
+    "kanji": "抄",
+    "arti": "ekstrak"
+  },
+  {
+    "level": "n1",
+    "kanji": "麺",
+    "arti": "mie"
+  },
+  {
+    "level": "n1",
+    "kanji": "戴",
+    "arti": "dimahkotai dengan"
+  },
+  {
+    "level": "n1",
+    "kanji": "爽",
+    "arti": "menyegarkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "裾",
+    "arti": "manset"
+  },
+  {
+    "level": "n1",
+    "kanji": "惰",
+    "arti": "malas"
+  },
+  {
+    "level": "n1",
+    "kanji": "蛮",
+    "arti": "barbar"
+  },
+  {
+    "level": "n1",
+    "kanji": "旺",
+    "arti": "menggeliat"
+  },
+  {
+    "level": "n1",
+    "kanji": "冥",
+    "arti": "gelap"
+  },
+  {
+    "level": "n1",
+    "kanji": "壱",
+    "arti": "satu"
+  },
+  {
+    "level": "n1",
+    "kanji": "瑠",
+    "arti": "lapis lazuli"
+  },
+  {
+    "level": "n1",
+    "kanji": "侯",
+    "arti": "markis"
+  },
+  {
+    "level": "n1",
+    "kanji": "麓",
+    "arti": "kaki gunung"
+  },
+  {
+    "level": "n1",
+    "kanji": "弧",
+    "arti": "busur"
+  },
+  {
+    "level": "n1",
+    "kanji": "稽",
+    "arti": "berpikir"
+  },
+  {
+    "level": "n1",
+    "kanji": "蹴",
+    "arti": "tendang"
+  },
+  {
+    "level": "n1",
+    "kanji": "訃",
+    "arti": "nekrolog"
+  },
+  {
+    "level": "n1",
+    "kanji": "蓋",
+    "arti": "sampul"
+  },
+  {
+    "level": "n1",
+    "kanji": "畏",
+    "arti": "ketakutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "喉",
+    "arti": "tenggorokan"
+  },
+  {
+    "level": "n1",
+    "kanji": "附",
+    "arti": "ditempelkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "但",
+    "arti": "namun"
+  },
+  {
+    "level": "n1",
+    "kanji": "芋",
+    "arti": "kentang"
+  },
+  {
+    "level": "n1",
+    "kanji": "拭",
+    "arti": "menghapus"
+  },
+  {
+    "level": "n1",
+    "kanji": "婆",
+    "arti": "wanita tua"
+  },
+  {
+    "level": "n1",
+    "kanji": "貼",
+    "arti": "tongkat"
+  },
+  {
+    "level": "n1",
+    "kanji": "倣",
+    "arti": "meniru"
+  },
+  {
+    "level": "n1",
+    "kanji": "諦",
+    "arti": "kebenaran"
+  },
+  {
+    "level": "n1",
+    "kanji": "煎",
+    "arti": "panggang di atas api"
+  },
+  {
+    "level": "n1",
+    "kanji": "緻",
+    "arti": "halus"
+  },
+  {
+    "level": "n1",
+    "kanji": "哺",
+    "arti": "perawat"
+  },
+  {
+    "level": "n1",
+    "kanji": "罵",
+    "arti": "penyalahgunaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "乞",
+    "arti": "memohon"
+  },
+  {
+    "level": "n1",
+    "kanji": "倹",
+    "arti": "hemat"
+  },
+  {
+    "level": "n1",
+    "kanji": "嗅",
+    "arti": "bau"
+  },
+  {
+    "level": "n1",
+    "kanji": "蔑",
+    "arti": "abaikan"
+  },
+  {
+    "level": "n1",
+    "kanji": "繭",
+    "arti": "kepompong"
+  },
+  {
+    "level": "n1",
+    "kanji": "痩",
+    "arti": "menjadi kurus"
+  },
+  {
+    "level": "n1",
+    "kanji": "憬",
+    "arti": "merindukan"
+  },
+  {
+    "level": "n1",
+    "kanji": "顎",
+    "arti": "rahang"
+  },
+  {
+    "level": "n1",
+    "kanji": "咽",
+    "arti": "tenggorokan"
+  },
+  {
+    "level": "n1",
+    "kanji": "唾",
+    "arti": "air liur"
+  },
+  {
+    "level": "n1",
+    "kanji": "柵",
+    "arti": "kubu"
+  },
+  {
+    "level": "n1",
+    "kanji": "頰",
+    "arti": "pipi"
+  },
+  {
+    "level": "n1",
+    "kanji": "箇",
+    "arti": "penghitung untuk artikel"
+  },
+  {
+    "level": "n1",
+    "kanji": "詣",
+    "arti": "mengunjungi sebuah kuil"
+  },
+  {
+    "level": "n1",
+    "kanji": "隙",
+    "arti": "celah"
+  },
+  {
+    "level": "n1",
+    "kanji": "骸",
+    "arti": "tulang"
+  },
+  {
+    "level": "n1",
+    "kanji": "僅",
+    "arti": "sedikit"
+  },
+  {
+    "level": "n1",
+    "kanji": "彙",
+    "arti": "jenis yang sama"
+  },
+  {
+    "level": "n1",
+    "kanji": "耗",
+    "arti": "penurunan"
+  },
+  {
+    "level": "n1",
+    "kanji": "虞",
+    "arti": "ketakutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "楷",
+    "arti": "gaya karakter kotak"
+  },
+  {
+    "level": "n1",
+    "kanji": "錮",
+    "arti": "penahanan"
+  },
+  {
+    "level": "n1",
+    "kanji": "桁",
+    "arti": "balok"
+  },
+  {
+    "level": "n1",
+    "kanji": "遜",
+    "arti": "rendah hati"
+  },
+  {
+    "level": "n1",
+    "kanji": "嘲",
+    "arti": "cemoohan"
+  },
+  {
+    "level": "n1",
+    "kanji": "詮",
+    "arti": "diskusi"
+  },
+  {
+    "level": "n1",
+    "kanji": "曖",
+    "arti": "gelap"
+  },
+  {
+    "level": "n1",
+    "kanji": "捻",
+    "arti": "berputar"
+  },
+  {
+    "level": "n1",
+    "kanji": "苛",
+    "arti": "penderitaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "鬱",
+    "arti": "kesuraman"
+  },
+  {
+    "level": "n1",
+    "kanji": "璧",
+    "arti": "bola"
+  },
+  {
+    "level": "n1",
+    "kanji": "喩",
+    "arti": "metafora"
+  },
+  {
+    "level": "n1",
+    "kanji": "傲",
+    "arti": "bangga"
+  },
+  {
+    "level": "n1",
+    "kanji": "侶",
+    "arti": "teman"
+  },
+  {
+    "level": "n1",
+    "kanji": "痘",
+    "arti": "cacar"
+  },
+  {
+    "level": "n1",
+    "kanji": "酎",
+    "arti": "arak beras"
+  },
+  {
+    "level": "n1",
+    "kanji": "妬",
+    "arti": "cemburu"
+  },
+  {
+    "level": "n1",
+    "kanji": "淫",
+    "arti": "ketidaksenonohan"
+  },
+  {
+    "level": "n1",
+    "kanji": "弐",
+    "arti": "II"
+  },
+  {
+    "level": "n1",
+    "kanji": "毀",
+    "arti": "istirahat"
+  },
+  {
+    "level": "n1",
+    "kanji": "蔽",
+    "arti": "penutup"
+  },
+  {
+    "level": "n1",
+    "kanji": "溺",
+    "arti": "tenggelam"
+  },
+  {
+    "level": "n1",
+    "kanji": "勃",
+    "arti": "kesigapan"
+  },
+  {
+    "level": "n1",
+    "kanji": "梗",
+    "arti": "sebagian besar"
+  },
+  {
+    "level": "n1",
+    "kanji": "塑",
+    "arti": "model"
+  },
+  {
+    "level": "n1",
+    "kanji": "窟",
+    "arti": "gua"
+  },
+  {
+    "level": "n1",
+    "kanji": "旦",
+    "arti": "fajar"
+  },
+  {
+    "level": "n1",
+    "kanji": "吏",
+    "arti": "petugas"
+  },
+  {
+    "level": "n1",
+    "kanji": "遵",
+    "arti": "patuhi"
+  },
+  {
+    "level": "n1",
+    "kanji": "巾",
+    "arti": "handuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "墾",
+    "arti": "perintis"
+  },
+  {
+    "level": "n1",
+    "kanji": "且",
+    "arti": "selain itu"
+  },
+  {
+    "level": "n1",
+    "kanji": "謁",
+    "arti": "penonton"
+  },
+  {
+    "level": "n1",
+    "kanji": "賂",
+    "arti": "suap"
+  },
+  {
+    "level": "n1",
+    "kanji": "弄",
+    "arti": "bermain dengan"
+  },
+  {
+    "level": "n1",
+    "kanji": "拉",
+    "arti": "latin"
+  },
+  {
+    "level": "n1",
+    "kanji": "慄",
+    "arti": "ketakutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "潰",
+    "arti": "kecintaan"
+  },
+  {
+    "level": "n1",
+    "kanji": "瞭",
+    "arti": "jelas"
+  },
+  {
+    "level": "n1",
+    "kanji": "丙",
+    "arti": "kelas tiga"
+  },
+  {
+    "level": "n1",
+    "kanji": "貌",
+    "arti": "bentuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "崖",
+    "arti": "tebing"
+  },
+  {
+    "level": "n1",
+    "kanji": "醒",
+    "arti": "terjaga"
+  },
+  {
+    "level": "n1",
+    "kanji": "綻",
+    "arti": "dikontrakkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "采",
+    "arti": "dadu"
+  },
+  {
+    "level": "n1",
+    "kanji": "塡",
+    "arti": "isi"
+  },
+  {
+    "level": "n1",
+    "kanji": "汰",
+    "arti": "mencuci"
+  },
+  {
+    "level": "n1",
+    "kanji": "萎",
+    "arti": "layu"
+  },
+  {
+    "level": "n1",
+    "kanji": "塞",
+    "arti": "dekat"
+  },
+  {
+    "level": "n1",
+    "kanji": "籠",
+    "arti": "keranjang"
+  },
+  {
+    "level": "n1",
+    "kanji": "沃",
+    "arti": "kesuburan"
+  },
+  {
+    "level": "n1",
+    "kanji": "勾",
+    "arti": "ditekuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "瘍",
+    "arti": "pembengkakan"
+  },
+  {
+    "level": "n1",
+    "kanji": "辣",
+    "arti": "menusuk"
+  },
+  {
+    "level": "n1",
+    "kanji": "舷",
+    "arti": "bancuh"
+  },
+  {
+    "level": "n1",
+    "kanji": "貪",
+    "arti": "menginginkan"
+  },
+  {
+    "level": "n1",
+    "kanji": "臆",
+    "arti": "kepengecutan"
+  },
+  {
+    "level": "n1",
+    "kanji": "肘",
+    "arti": "siku"
+  },
+  {
+    "level": "n1",
+    "kanji": "氾",
+    "arti": "menghampar"
+  },
+  {
+    "level": "n1",
+    "kanji": "爵",
+    "arti": "baron"
+  },
+  {
+    "level": "n1",
+    "kanji": "箋",
+    "arti": "kertas"
+  },
+  {
+    "level": "n1",
+    "kanji": "濫",
+    "arti": "berlebihan"
+  },
+  {
+    "level": "n1",
+    "kanji": "戚",
+    "arti": "berduka"
+  },
+  {
+    "level": "n1",
+    "kanji": "羨",
+    "arti": "iri"
+  },
+  {
+    "level": "n1",
+    "kanji": "腺",
+    "arti": "kelenjar"
+  },
+  {
+    "level": "n1",
+    "kanji": "頓",
+    "arti": "tiba-tiba"
+  },
+  {
+    "level": "n1",
+    "kanji": "斤",
+    "arti": "kapak"
+  },
+  {
+    "level": "n1",
+    "kanji": "賦",
+    "arti": "pajak"
+  },
+  {
+    "level": "n1",
+    "kanji": "伎",
+    "arti": "perbuatan"
+  },
+  {
+    "level": "n1",
+    "kanji": "宛",
+    "arti": "alamat"
+  },
+  {
+    "level": "n1",
+    "kanji": "朕",
+    "arti": "plural megah"
+  },
+  {
+    "level": "n1",
+    "kanji": "昧",
+    "arti": "gelap"
+  },
+  {
+    "level": "n1",
+    "kanji": "冶",
+    "arti": "meleleh"
+  },
+  {
+    "level": "n1",
+    "kanji": "刹",
+    "arti": "candi"
+  },
+  {
+    "level": "n1",
+    "kanji": "璃",
+    "arti": "kaca"
+  },
+  {
+    "level": "n1",
+    "kanji": "遡",
+    "arti": "mengarungi arus"
+  },
+  {
+    "level": "n1",
+    "kanji": "踪",
+    "arti": "sisa"
+  },
+  {
+    "level": "n1",
+    "kanji": "璽",
+    "arti": "cap kaisar"
+  },
+  {
+    "level": "n1",
+    "kanji": "諧",
+    "arti": "keselarasan"
+  },
+  {
+    "level": "n1",
+    "kanji": "羞",
+    "arti": "merasa malu"
+  },
+  {
+    "level": "n1",
+    "kanji": "拶",
+    "arti": "segera terjadi"
+  },
+  {
+    "level": "n1",
+    "kanji": "捗",
+    "arti": "membuat kemajuan"
+  }
+]
