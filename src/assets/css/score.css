@@ -1,18 +1,18 @@
 .papanScore{
-  background-color: rgb(214, 240, 45);
-  color: black;
+  background-color: rgb(47, 47, 47);
+  color: red;
   border-radius: 20px;
   padding-bottom: 10px;
   font-weight: bold;
-  width: 365px;
 }
 
 .gameOver{
   font-size: 50px;
-  margin-bottom: -10px;
-  background-color: red;
+  background-color: #1C1C1C;
   border-radius: 20px;
   margin-top: 20px;
+  padding-left: 32px;
+  padding-right: 32px;
 }
 
 .score {
@@ -26,7 +26,8 @@
 }
 
 .tryAgain{
-  background-color: orangered;
+  background-color: #1C1C1C;
+  color: red;
 }
 
 .none{
